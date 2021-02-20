@@ -7,20 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/02/20/between-the-apps.html",
+				
+				"content_html": "<p>Between the apps I use and my browser history, I can&rsquo;t recall who had the link to the “<a href=\"https://www.econlib.org/archives/2013/04/make_your_own_b.html\">Beautiful Bubble</a>”–however I fully support and endorse this. I had already taken several of the steps outlined and this is a great framework for improvement.</p>\n",
+				"content_text": "Between the apps I use and my browser history, I can't recall who had the link to the “[Beautiful Bubble](https://www.econlib.org/archives/2013/04/make_your_own_b.html)”–however I fully support and endorse this. I had already taken several of the steps outlined and this is a great framework for improvement.\n",
+				"date_published": "2021-02-20T10:08:46-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/20/between-the-apps.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/02/17/more-like-this.html",
+				
+				"content_html": "<p>More like this, please:</p>\n\n<p><a href=\"https://blog.theautismsite.greatergood.com/police-mental-health-star/\">Mental Health Professionals Responding to Police Calls Has Lead to No Arrests in the Past Six Months</a></p>\n",
+				"content_text": "More like this, please:\n\n[Mental Health Professionals Responding to Police Calls Has Lead to No Arrests in the Past Six Months](https://blog.theautismsite.greatergood.com/police-mental-health-star/)\n",
+				"date_published": "2021-02-17T17:14:33-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/17/more-like-this.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/02/15/meta-to-render.html",
+				
+				"content_html": "<p>META:</p>\n\n<p>To render a blockquote correctly in the Micro.blog Timeline and in the Marfa template, the blockquote must be preceded by a blank line. The Post Preview function shows what I expected, but the timeline and the published content did not until I added the blank line.</p>\n\n<p><a href=\"https://micro.blog/help\">@help</a></p>\n",
+				"content_text": "META:\r\n\r\nTo render a blockquote correctly in the Micro.blog Timeline and in the Marfa template, the blockquote must be preceded by a blank line. The Post Preview function shows what I expected, but the timeline and the published content did not until I added the blank line.\r\n\r\n[@help](https://micro.blog/help)\n",
+				"date_published": "2021-02-15T10:36:27-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/15/meta-to-render.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/02/15/from-an-email.html",
+				
+				"content_html": "<p>From an <a href=\"https://dailystoic.com/\">email subscription</a> today:</p>\n\n<blockquote>\n<p>So be good to each other. Be humble and kind. Be generous. If you fight for anything, fight for justice and fairness. That’s what we were put here for.</p>\n</blockquote>\n\n<p>This is what I believe.</p>\n",
+				"content_text": "From an [email subscription](https://dailystoic.com/) today:  \n\n>So be good to each other. Be humble and kind. Be generous. If you fight for anything, fight for justice and fairness. That’s what we were put here for.  \n\nThis is what I believe.\n",
+				"date_published": "2021-02-15T09:45:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/15/from-an-email.html",
+				"tags": ["Himself","Brilliant","Status"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/02/14/listening-to-a.html",
+				
+				"content_html": "<p>Listening to a lot of <a href=\"https://echodrone.bandcamp.com\">Echodrone</a>, today. Bought two albums and am excited for a new release next month.</p>\n\n<p>Music saves.</p>\n",
+				"content_text": "Listening to a lot of [Echodrone](https://echodrone.bandcamp.com), today. Bought two albums and am excited for a new release next month.\r\n\r\nMusic saves.\n",
+				"date_published": "2021-02-14T12:13:21-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/14/listening-to-a.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/02/10/as-i-transitioned.html",
 				
 				"content_html": "<p>As I transitioned the SIM in my phone from Sprint to T-Mobile, today, I learned I&rsquo;ve been a Sprint customer for 21 years. I doubt that counts for much to the business, but I wish it carried some weight.</p>\n",
 				"content_text": "As I transitioned the SIM in my phone from Sprint to T-Mobile, today, I learned I've been a Sprint customer for 21 years. I doubt that counts for much to the business, but I wish it carried some weight.\n",
-				"date_published": "2021-02-10T18:42:34-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/10/as-i-transitioned.html"
+				"date_published": "2021-02-10T18:42:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/10/as-i-transitioned.html",
+				"tags": ["Status","TIL"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/10/i-have-a.html",
 				
 				"content_html": "<p>I have a non-neurotypical daughter in a school system that has doubled-down on the use of law enforcement, restraint, and seclusion to control the student population. I&rsquo;m not okay with this policy and we are opting out of the traditional school system after this school year.</p>\n",
 				"content_text": "I have a non-neurotypical daughter in a school system that has doubled-down on the use of law enforcement, restraint, and seclusion to control the student population. I'm not okay with this policy and we are opting out of the traditional school system after this school year.\n",
-				"date_published": "2021-02-10T12:04:45-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/10/i-have-a.html"
+				"date_published": "2021-02-10T12:04:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/10/i-have-a.html",
+				"tags": ["Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/08/i-will-say.html",
@@ -36,25 +79,27 @@
 				
 				"content_html": "<p>The <a href=\"https://music.apple.com/us/playlist/winter-chill/pl.eee242c9264946158b6fc3567fd198b7\"><em>Winter Chill</em></a> playlist on Apple Music has a vibe very similar to the <a href=\"https://www.amazon.com/s?k=hed+kandi+winter+chill&amp;crid=1WOC3WQ5IA3B5&amp;sprefix=hed+kandi+%2Cdigital-text%2C169&amp;ref=nb_sb_ss_fb_1_10_ts-doa-p\">HED Kandi Winter Chill</a> series from the late 90s and 2000s. It&rsquo;s downtempo indie and electronica. I&rsquo;m a fan!</p>\n",
 				"content_text": "The [_Winter Chill_](https://music.apple.com/us/playlist/winter-chill/pl.eee242c9264946158b6fc3567fd198b7) playlist on Apple Music has a vibe very similar to the [HED Kandi Winter Chill](https://www.amazon.com/s?k=hed+kandi+winter+chill&crid=1WOC3WQ5IA3B5&sprefix=hed+kandi+%2Cdigital-text%2C169&ref=nb_sb_ss_fb_1_10_ts-doa-p) series from the late 90s and 2000s. It's downtempo indie and electronica. I'm a fan!\n",
-				"date_published": "2021-02-07T11:05:19-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/07/the-winter-chill.html"
+				"date_published": "2021-02-07T11:05:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/07/the-winter-chill.html",
+				"tags": ["Brilliant","TIL"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/05/i-recently-relistened.html",
 				
 				"content_html": "<p>I recently relistened to <em>Feels So Good</em> by Chuck Mangione. I was in search of the source of a sample. I was in the right era and close to my target, but this was a miss. Except, listening to the full album track, I really enjoyed the musicianship—not only of The Man Himself, but also of the full accompanying band. Now, of course, it&rsquo;s my current ear worm.</p>\n\n<p>You&rsquo;re welcome.</p>\n",
-				"content_text": "I recently relistened to _Feels So Good_ by Chuck Mangione. I was in search of the source of a sample. I was in the right era and close to my target, but this was a miss. Except, listening to the full album track, I really enjoyed the musicianship—not only of The Man Himself, but also of the full accompanying band. Now, of course, it's my current ear worm.\r\n\r\nYou're welcome.\n",
-				"date_published": "2021-02-05T13:29:11-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/05/i-recently-relistened.html"
+				"content_text": "I recently relistened to _Feels So Good_ by Chuck Mangione. I was in search of the source of a sample. I was in the right era and close to my target, but this was a miss. Except, listening to the full album track, I really enjoyed the musicianship—not only of The Man Himself, but also of the full accompanying band. Now, of course, it's my current ear worm.\n\nYou're welcome.\n",
+				"date_published": "2021-02-05T13:29:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/05/i-recently-relistened.html",
+				"tags": ["Music","Brilliant"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/04/when-the-wind.html",
 				
 				"content_html": "<p>When the wind makes it feel colder than it is… 15 degrees Fahrenheit</p>\n\n<p><img src=\"uploads/2021/09f89be291.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "When the wind makes it feel colder than it is… 15 degrees Fahrenheit \n\n<img src=\"uploads/2021/09f89be291.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-02-04T18:34:18-06:00",
+				"date_published": "2021-02-04T18:34:00-06:00",
 				"url": "https://1-1.hjalmer.com/2021/02/04/when-the-wind.html",
-				"tags": ["Photos"]
+				"tags": ["Photos","Himself","Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/04/my-biggest-professional.html",
