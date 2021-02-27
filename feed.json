@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/02/27/hoping-privacy-remains.html",
+				
+				"content_html": "<p>Hoping privacy remains a thing.</p>\n\n<p><a href=\"https://apparition47.github.io/MailTrackerBlocker/\">MailTrackerBlocker</a></p>\n\n<p><a href=\"https://daringfireball.net/linked/2021/02/26/mailtrackerblocker\">Via</a></p>\n",
+				"content_text": "Hoping privacy remains a thing.\n\n[MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/)\n\n[Via](https://daringfireball.net/linked/2021/02/26/mailtrackerblocker)\n",
+				"date_published": "2021-02-27T11:36:56-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/27/hoping-privacy-remains.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/02/26/joined-twitter-on.html",
+				
+				"content_html": "<p>Joined Twitter on this day in 2008. In those days we talked about <em>ambient connectivity</em> and <em>hashtags</em> were just becoming a thing.</p>\n",
+				"content_text": "Joined Twitter on this day in 2008. In those days we talked about _ambient connectivity_ and _hashtags_ were just becoming a thing.\n",
+				"date_published": "2021-02-26T06:57:31-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/26/joined-twitter-on.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/02/23/a-colleague-shared.html",
+				
+				"content_html": "<p>A colleague shared this and I don&rsquo;t want to lose track of it:</p>\n\n<p><a href=\"https://www.ted.com/talks/ric_elias_3_things_i_learned_while_my_plane_crashed/transcript?language=en\">Ric Elias: 3 Things I Learned While My Plane Crashed</a></p>\n\n<p>It is a powerful few minutes.</p>\n",
+				"content_text": "A colleague shared this and I don't want to lose track of it:\n\n[Ric Elias: 3 Things I Learned While My Plane Crashed](https://www.ted.com/talks/ric_elias_3_things_i_learned_while_my_plane_crashed/transcript?language=en)\n\nIt is a powerful few minutes.\n",
+				"date_published": "2021-02-23T08:08:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/23/a-colleague-shared.html",
+				"tags": ["Brilliant","Link"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/02/20/bluejays-and-cardinals.html",
+				
+				"content_html": "<p>Bluejays and cardinals at the feeder. They are lovely in the morning sun</p>\n",
+				"content_text": "Bluejays and cardinals at the feeder. They are lovely in the morning sun\n",
+				"date_published": "2021-02-20T10:13:34-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/20/bluejays-and-cardinals.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/02/20/between-the-apps.html",
 				
 				"content_html": "<p>Between the apps I use and my browser history, I can&rsquo;t recall who had the link to the “<a href=\"https://www.econlib.org/archives/2013/04/make_your_own_b.html\">Beautiful Bubble</a>”–however I fully support and endorse this. I had already taken several of the steps outlined and this is a great framework for improvement.</p>\n",
