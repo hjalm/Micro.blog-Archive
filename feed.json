@@ -7,42 +7,90 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/03/13/sometimes-the-wave.html",
+				
+				"content_html": "<p>Sometimes</p>\n\n<ul>\n<li>The wave hits you<br /></li>\n<li>You&rsquo;re in the wave<br /></li>\n<li>You ride the wave<br /></li>\n<li>You are the wave<br /></li>\n</ul>\n",
+				"content_text": "Sometimes\n\n- The wave hits you  \n- You're in the wave  \n- You ride the wave  \n- You are the wave  \n",
+				"date_published": "2021-03-13T10:11:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/13/sometimes-the-wave.html",
+				"tags": ["Experiential"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/03/13/yesterday-morning-on.html",
+				
+				"content_html": "<p>Yesterday morning on the way to work, Led Zepplin&rsquo;s <em>Tea for One</em> cycled into my playlist and fit my mood wonderfully. I now have the urge to make a new playlist.</p>\n",
+				"content_text": "Yesterday morning on the way to work, Led Zepplin's _Tea for One_ cycled into my playlist and fit my mood wonderfully. I now have the urge to make a new playlist.\n",
+				"date_published": "2021-03-13T10:04:23-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/13/yesterday-morning-on.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/03/12/new-model-of.html",
+				
+				"content_html": "<p><a href=\"https://arstechnica.com/science/2021/03/scientists-solve-another-piece-of-the-puzzling-antikythera-mechanism/\">New model of Antikythera mechanism solves front gearing system puzzle</a></p>\n\n<p>A few more specifics, still many assumptions.</p>\n\n<p>History is neither simple nor linear.</p>\n",
+				"content_text": "[New model of Antikythera mechanism solves front gearing system puzzle](https://arstechnica.com/science/2021/03/scientists-solve-another-piece-of-the-puzzling-antikythera-mechanism/)\n\nA few more specifics, still many assumptions.\n\nHistory is neither simple nor linear.\n",
+				"date_published": "2021-03-12T15:46:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/12/new-model-of.html",
+				"tags": ["Link"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/03/12/how-to-tell.html",
+				
+				"content_html": "<dl>\n<dt><a href=\"https://www.wired.com/story/how-to-tell-which-emails-track-you/\">How to Tell Which Emails Quietly Track You</a></dt>\n</dl>\n\n<p>:: sigh ::</p>\n",
+				"content_text": "[How to Tell Which Emails Quietly Track You](https://www.wired.com/story/how-to-tell-which-emails-track-you/)\n\n:: sigh ::\n",
+				"date_published": "2021-03-12T11:39:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/12/how-to-tell.html",
+				"tags": ["Link"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/03/10/today-i-learned.html",
+				
+				"content_html": "<p>Today I learned about <a href=\"https://xkpasswd.net/s/\">xkpasswd</a>, a password generator inspired by the <a href=\"https://xkcd.com/\">xkcd</a> comic.</p>\n\n<p>The internet is brilliant when you look for the helpers.</p>\n",
+				"content_text": "Today I learned about [xkpasswd](https://xkpasswd.net/s/), a password generator inspired by the [xkcd](https://xkcd.com/) comic.\n\nThe internet is brilliant when you look for the helpers.\n",
+				"date_published": "2021-03-10T09:35:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/10/today-i-learned.html",
+				"tags": ["Brilliant","Link"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/03/06/picked-up-the.html",
 				
 				"content_html": "<p>Picked up the new Echodrone album <a href=\"https://echodrone.bandcamp.com/album/resurgence\">Resurgence</a> this morning. Their name describes elements I love from the shoegaze sound. Possibly a signature for them are the vocal harmonies that harken back to groups like The Byrds, or Ride, but of course nothing like either.</p>\n",
 				"content_text": "Picked up the new Echodrone album [Resurgence](https://echodrone.bandcamp.com/album/resurgence) this morning. Their name describes elements I love from the shoegaze sound. Possibly a signature for them are the vocal harmonies that harken back to groups like The Byrds, or Ride, but of course nothing like either. \n",
-				"date_published": "2021-03-06T09:02:41-06:00",
-				"url": "https://1-1.hjalmer.com/2021/03/06/picked-up-the.html"
+				"date_published": "2021-03-06T09:02:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/06/picked-up-the.html",
+				"tags": ["Music"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/03/03/dare-mighty-things.html",
 				
 				"content_html": "<p><a href=\"https://www.snopes.com/ap/2021/02/23/mars-rovers-giant-parachute-carried-secret-message/\">Dare Mighty Things</a></p>\n\n<p><a href=\"https://www.schneier.com/blog/archives/2021/03/encoded-message-in-the-perseverance-mars-landers-parachute.html\">/via</a></p>\n",
-				"content_text": "[Dare Mighty Things](https://www.snopes.com/ap/2021/02/23/mars-rovers-giant-parachute-carried-secret-message/)\r\n\r\n[/via](https://www.schneier.com/blog/archives/2021/03/encoded-message-in-the-perseverance-mars-landers-parachute.html)\n",
-				"date_published": "2021-03-03T07:20:49-06:00",
-				"url": "https://1-1.hjalmer.com/2021/03/03/dare-mighty-things.html"
+				"content_text": "[Dare Mighty Things](https://www.snopes.com/ap/2021/02/23/mars-rovers-giant-parachute-carried-secret-message/)\n\n[/via](https://www.schneier.com/blog/archives/2021/03/encoded-message-in-the-perseverance-mars-landers-parachute.html)\n",
+				"date_published": "2021-03-03T07:20:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/03/dare-mighty-things.html",
+				"tags": ["Brilliant","Link"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/03/02/dishwasher-replaced-today.html",
 				
 				"content_html": "<p>Dishwasher replaced today. So grateful, I&rsquo;m running my third load.</p>\n\n<p>This probably opens me up to jokes. So be it.</p>\n",
-				"content_text": "Dishwasher replaced today. So grateful, I'm running my third load.\r\n\r\nThis probably opens me up to jokes. So be it.\n",
-				"date_published": "2021-03-02T20:44:21-06:00",
-				"url": "https://1-1.hjalmer.com/2021/03/02/dishwasher-replaced-today.html"
+				"content_text": "Dishwasher replaced today. So grateful, I'm running my third load.\n\nThis probably opens me up to jokes. So be it.\n",
+				"date_published": "2021-03-02T20:44:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/02/dishwasher-replaced-today.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/03/02/the-rate-at.html",
 				
 				"content_html": "<p>The rate at which I am losing elders in my family is alarming. I&rsquo;ve made it into my fifties before feeling that way, for which I count myself fortunate. But I&rsquo;m getting closer to the front of the line and it is sobering.</p>\n",
 				"content_text": "The rate at which I am losing elders in my family is alarming. I've made it into my fifties before feeling that way, for which I count myself fortunate. But I'm getting closer to the front of the line and it is sobering.\n",
-				"date_published": "2021-03-02T19:13:56-06:00",
-				"url": "https://1-1.hjalmer.com/2021/03/02/the-rate-at.html"
+				"date_published": "2021-03-02T19:13:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/03/02/the-rate-at.html",
+				"tags": ["Status","Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/03/02/the-major-effect.html",
 				
-				"content_html": "<p><a href=\"https://danielmiessler.com/blog/we-were-very-wrong-about-testosterone/\">&ldquo;The major effect of testosterone is to make effort feel good.&rdquo;</a> — <a href=\"https://danielmiessler.com/blog/we-were-very-wrong-about-testosterone/\">&ldquo;The problem is the frequency with which we reward agression.&rdquo;</a></p>\n",
-				"content_text": "[\"The major effect of testosterone is to make effort feel good.\"](https://danielmiessler.com/blog/we-were-very-wrong-about-testosterone/) — [\"The problem is the frequency with which we reward agression.\"](https://danielmiessler.com/blog/we-were-very-wrong-about-testosterone/)\n",
+				"content_html": "<p><a href=\"https://danielmiessler.com/blog/we-were-very-wrong-about-testosterone/\">&ldquo;The major effect of testosterone is to make effort feel good.&rdquo; — &ldquo;The problem is the frequency with which we reward agression.&rdquo;</a></p>\n",
+				"content_text": "[\"The major effect of testosterone is to make effort feel good.\" — \"The problem is the frequency with which we reward agression.\"](https://danielmiessler.com/blog/we-were-very-wrong-about-testosterone/)\n",
 				"date_published": "2021-03-02T16:30:00-06:00",
 				"url": "https://1-1.hjalmer.com/2021/03/02/the-major-effect.html",
 				"tags": ["Brilliant","Helpful","TIL","Link"]
@@ -61,32 +109,36 @@
 				
 				"content_html": "<p>Blast from the past: it was fun to hear music from <a href=\"https://en.wikipedia.org/wiki/The_5th_Dimension\">The 5th Dimension</a> on <em>CBS Sunday Morning</em>. I was born after they were already popular, but I heard a lot of their songs before I know it was them.</p>\n",
 				"content_text": "Blast from the past: it was fun to hear music from [The 5th Dimension](https://en.wikipedia.org/wiki/The_5th_Dimension) on _CBS Sunday Morning_. I was born after they were already popular, but I heard a lot of their songs before I know it was them.\n",
-				"date_published": "2021-02-28T10:44:01-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/28/blast-from-the.html"
+				"date_published": "2021-02-28T10:44:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/28/blast-from-the.html",
+				"tags": ["Music","Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/27/my-friend-paulio.html",
 				
 				"content_html": "<p>My friend Paulio has a discussion of what makes a good password manager. He has solid criteria and a recomendation: <a href=\"https://paulio10.wordpress.com/2021/02/27/password-managers/\">What You Want in a Password Manager</a></p>\n",
 				"content_text": "My friend Paulio has a discussion of what makes a good password manager. He has solid criteria and a recomendation: [What You Want in a Password Manager](https://paulio10.wordpress.com/2021/02/27/password-managers/)\n",
-				"date_published": "2021-02-27T15:39:39-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/27/my-friend-paulio.html"
+				"date_published": "2021-02-27T15:39:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/27/my-friend-paulio.html",
+				"tags": ["Link"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/27/hoping-privacy-remains.html",
 				
 				"content_html": "<p>Hoping privacy remains a thing.</p>\n\n<p><a href=\"https://apparition47.github.io/MailTrackerBlocker/\">MailTrackerBlocker</a></p>\n\n<p><a href=\"https://daringfireball.net/linked/2021/02/26/mailtrackerblocker\">Via</a></p>\n",
 				"content_text": "Hoping privacy remains a thing.\n\n[MailTrackerBlocker](https://apparition47.github.io/MailTrackerBlocker/)\n\n[Via](https://daringfireball.net/linked/2021/02/26/mailtrackerblocker)\n",
-				"date_published": "2021-02-27T11:36:56-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/27/hoping-privacy-remains.html"
+				"date_published": "2021-02-27T11:36:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/27/hoping-privacy-remains.html",
+				"tags": ["Link"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/26/joined-twitter-on.html",
 				
 				"content_html": "<p>Joined Twitter on this day in 2008. In those days we talked about <em>ambient connectivity</em> and <em>hashtags</em> were just becoming a thing.</p>\n",
 				"content_text": "Joined Twitter on this day in 2008. In those days we talked about _ambient connectivity_ and _hashtags_ were just becoming a thing.\n",
-				"date_published": "2021-02-26T06:57:31-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/26/joined-twitter-on.html"
+				"date_published": "2021-02-26T06:57:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/26/joined-twitter-on.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/23/a-colleague-shared.html",
@@ -102,32 +154,36 @@
 				
 				"content_html": "<p>Bluejays and cardinals at the feeder. They are lovely in the morning sun</p>\n",
 				"content_text": "Bluejays and cardinals at the feeder. They are lovely in the morning sun\n",
-				"date_published": "2021-02-20T10:13:34-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/20/bluejays-and-cardinals.html"
+				"date_published": "2021-02-20T10:13:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/20/bluejays-and-cardinals.html",
+				"tags": ["Status","Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/20/between-the-apps.html",
 				
-				"content_html": "<p>Between the apps I use and my browser history, I can&rsquo;t recall who had the link to the “<a href=\"https://www.econlib.org/archives/2013/04/make_your_own_b.html\">Beautiful Bubble</a>”–however I fully support and endorse this. I had already taken several of the steps outlined and this is a great framework for improvement.</p>\n",
-				"content_text": "Between the apps I use and my browser history, I can't recall who had the link to the “[Beautiful Bubble](https://www.econlib.org/archives/2013/04/make_your_own_b.html)”–however I fully support and endorse this. I had already taken several of the steps outlined and this is a great framework for improvement.\n",
-				"date_published": "2021-02-20T10:08:46-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/20/between-the-apps.html"
+				"content_html": "<p>Between the apps I use and my browser history, I can&rsquo;t figure out who had the link to the “<a href=\"https://www.econlib.org/archives/2013/04/make_your_own_b.html\">Beautiful Bubble</a>”–however I fully support and endorse this. I had already taken several of the steps outlined and this is a great framework for improvement.</p>\n",
+				"content_text": "Between the apps I use and my browser history, I can't figure out who had the link to the “[Beautiful Bubble](https://www.econlib.org/archives/2013/04/make_your_own_b.html)”–however I fully support and endorse this. I had already taken several of the steps outlined and this is a great framework for improvement.\n",
+				"date_published": "2021-02-20T10:08:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/20/between-the-apps.html",
+				"tags": ["Brilliant","Helpful","Link"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/17/more-like-this.html",
 				
 				"content_html": "<p>More like this, please:</p>\n\n<p><a href=\"https://blog.theautismsite.greatergood.com/police-mental-health-star/\">Mental Health Professionals Responding to Police Calls Has Lead to No Arrests in the Past Six Months</a></p>\n",
 				"content_text": "More like this, please:\n\n[Mental Health Professionals Responding to Police Calls Has Lead to No Arrests in the Past Six Months](https://blog.theautismsite.greatergood.com/police-mental-health-star/)\n",
-				"date_published": "2021-02-17T17:14:33-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/17/more-like-this.html"
+				"date_published": "2021-02-17T17:14:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/17/more-like-this.html",
+				"tags": ["Brilliant","Link"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/15/meta-to-render.html",
 				
 				"content_html": "<p>META:</p>\n\n<p>To render a blockquote correctly in the Micro.blog Timeline and in the Marfa template, the blockquote must be preceded by a blank line. The Post Preview function shows what I expected, but the timeline and the published content did not until I added the blank line.</p>\n\n<p><a href=\"https://micro.blog/help\">@help</a></p>\n",
-				"content_text": "META:\r\n\r\nTo render a blockquote correctly in the Micro.blog Timeline and in the Marfa template, the blockquote must be preceded by a blank line. The Post Preview function shows what I expected, but the timeline and the published content did not until I added the blank line.\r\n\r\n[@help](https://micro.blog/help)\n",
-				"date_published": "2021-02-15T10:36:27-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/15/meta-to-render.html"
+				"content_text": "META:\n\nTo render a blockquote correctly in the Micro.blog Timeline and in the Marfa template, the blockquote must be preceded by a blank line. The Post Preview function shows what I expected, but the timeline and the published content did not until I added the blank line.\n\n[@help](https://micro.blog/help)\n",
+				"date_published": "2021-02-15T10:36:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/15/meta-to-render.html",
+				"tags": ["Helpful","Link"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/15/from-an-email.html",
@@ -142,9 +198,10 @@
 				"id": "http://hjalm.micro.blog/2021/02/14/listening-to-a.html",
 				
 				"content_html": "<p>Listening to a lot of <a href=\"https://echodrone.bandcamp.com\">Echodrone</a>, today. Bought two albums and am excited for a new release next month.</p>\n\n<p>Music saves.</p>\n",
-				"content_text": "Listening to a lot of [Echodrone](https://echodrone.bandcamp.com), today. Bought two albums and am excited for a new release next month.\r\n\r\nMusic saves.\n",
-				"date_published": "2021-02-14T12:13:21-06:00",
-				"url": "https://1-1.hjalmer.com/2021/02/14/listening-to-a.html"
+				"content_text": "Listening to a lot of [Echodrone](https://echodrone.bandcamp.com), today. Bought two albums and am excited for a new release next month.\n\nMusic saves.\n",
+				"date_published": "2021-02-14T12:13:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/02/14/listening-to-a.html",
+				"tags": ["Music","Status","Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/10/as-i-transitioned.html",
@@ -162,7 +219,7 @@
 				"content_text": "I have a non-neurotypical daughter in a school system that has doubled-down on the use of law enforcement, restraint, and seclusion to control the student population. I'm not okay with this policy and we are opting out of the traditional school system after this school year.\n",
 				"date_published": "2021-02-10T12:04:00-06:00",
 				"url": "https://1-1.hjalmer.com/2021/02/10/i-have-a.html",
-				"tags": ["Experiential"]
+				"tags": ["Status","Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/08/i-will-say.html",
@@ -180,7 +237,7 @@
 				"content_text": "The [_Winter Chill_](https://music.apple.com/us/playlist/winter-chill/pl.eee242c9264946158b6fc3567fd198b7) playlist on Apple Music has a vibe very similar to the [HED Kandi Winter Chill](https://www.amazon.com/s?k=hed+kandi+winter+chill&crid=1WOC3WQ5IA3B5&sprefix=hed+kandi+%2Cdigital-text%2C169&ref=nb_sb_ss_fb_1_10_ts-doa-p) series from the late 90s and 2000s. It's downtempo indie and electronica. I'm a fan!\n",
 				"date_published": "2021-02-07T11:05:00-06:00",
 				"url": "https://1-1.hjalmer.com/2021/02/07/the-winter-chill.html",
-				"tags": ["Brilliant","TIL"]
+				"tags": ["Music","Brilliant","TIL"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/05/i-recently-relistened.html",
@@ -207,16 +264,16 @@
 				"content_text": "My biggest professional challenge is to adjust my thinking from a tactically-thinking individual to a more strategically-thinking manager. This is something I want to do well. Is there a support group for that? Is it called Everyone? Do they meet at the drinking-establishment?\n",
 				"date_published": "2021-02-04T12:24:00-06:00",
 				"url": "https://1-1.hjalmer.com/2021/02/04/my-biggest-professional.html",
-				"tags": ["Experiential"]
+				"tags": ["Status","Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/03/good-morning.html",
 				
 				"content_html": "<p>Good morning!</p>\n\n<p><img src=\"uploads/2021/7447dc4162.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "Good morning!\n\n<img src=\"uploads/2021/7447dc4162.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-02-03T10:00:54-06:00",
+				"date_published": "2021-02-03T10:00:00-06:00",
 				"url": "https://1-1.hjalmer.com/2021/02/03/good-morning.html",
-				"tags": ["Photos"]
+				"tags": ["Photos","Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/02/01/poppa-and-sofia.html",
