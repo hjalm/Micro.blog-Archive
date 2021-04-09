@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/04/04/the-forgotten-director.html",
+				
+				"content_html": "<p><a href=\"https://arstechnica.com/gaming/2021/04/roman-kroitor-changed-film-and-unknowingly-inspired-2001-and-the-force/\">The forgotten director who gave us The Force, inspired 2001, and changed film</a></p>\n\n<p>@ Ars Technica</p>\n",
+				"content_text": "[The forgotten director who gave us The Force, inspired 2001, and changed film](https://arstechnica.com/gaming/2021/04/roman-kroitor-changed-film-and-unknowingly-inspired-2001-and-the-force/)\n\n@ Ars Technica\n",
+				"date_published": "2021-04-04T16:52:00-05:00",
+				"url": "https://1-1.hjalmer.com/2021/04/04/the-forgotten-director.html",
+				"tags": ["Brilliant","Link"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/04/04/hot-coffee-and.html",
+				
+				"content_html": "<p>Hot coffee and cookies on a cool morning</p>\n",
+				"content_text": "Hot coffee and cookies on a cool morning \n",
+				"date_published": "2021-04-04T08:03:50-05:00",
+				"url": "https://1-1.hjalmer.com/2021/04/04/hot-coffee-and.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/03/30/one-of-these.html",
 				
 				"content_html": "<p>One of these things is not like the other</p>\n\n<p><img src=\"uploads/2021/5608c79330.jpg\" width=\"600\" height=\"303\" alt=\"\" /></p>\n",
