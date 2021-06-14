@@ -7,6 +7,56 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/06/14/i-do-not.html",
+				
+				"content_html": "<p>I do not have a subscription to read the Washington Post, where the <a href=\"https://www.washingtonpost.com/opinions/2021/06/13/microsoft-brad-smith-trump-justice-department-gag-orders/\">source</a> article appeared, but I appreciate the quotes pulled out at 9TO5Mac. This seems like an appropriate stance for technology companies to take, and I appreciate it.</p>\n\n<p><a href=\"https://9to5mac.com/2021/06/14/gag-order-imposed-on-apple-microsoft/\">Microsoft president attacks type of government gag order imposed on Apple</a></p>\n\n<p>Especially the sentiment behind this statement:</p>\n\n<blockquote>\n<p>So that’s what they do. In secret. By serving search warrants on companies such as Apple, Google and Microsoft to obtain emails and messages <strong>that belong to our customers</strong>.</p>\n</blockquote>\n",
+				"content_text": "I do not have a subscription to read the Washington Post, where the [source](https://www.washingtonpost.com/opinions/2021/06/13/microsoft-brad-smith-trump-justice-department-gag-orders/) article appeared, but I appreciate the quotes pulled out at 9TO5Mac. This seems like an appropriate stance for technology companies to take, and I appreciate it.\n\n[Microsoft president attacks type of government gag order imposed on Apple](https://9to5mac.com/2021/06/14/gag-order-imposed-on-apple-microsoft/)\n\nEspecially the sentiment behind this statement:\n\n> So that’s what they do. In secret. By serving search warrants on companies such as Apple, Google and Microsoft to obtain emails and messages **that belong to our customers**.\n\n\n",
+				"date_published": "2021-06-14T10:03:00-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/14/i-do-not.html",
+				"tags": ["Brilliant","Link"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/12/a-dose-of.html",
+				
+				"content_html": "<p>A dose of real. I’ve lived in Minnesota the majority of my life and I&rsquo;m sure I&rsquo;ve done this:</p>\n\n<blockquote>\n<p>“the Minnesotan/Scandinavian behavior of being cold to people because you &ldquo;have enough friends&rdquo; already / you&rsquo;re not interested in being friends, is ugly 😌”</p>\n</blockquote>\n\n<p>From <a href=\"https://twitter.com/ohdionne/status/1403823445528432642?s=21\">@OhDionne</a></p>\n",
+				"content_text": "A dose of real. I’ve lived in Minnesota the majority of my life and I'm sure I've done this:\n\n> “the Minnesotan/Scandinavian behavior of being cold to people because you \"have enough friends\" already / you're not interested in being friends, is ugly 😌” \n\nFrom [@OhDionne](https://twitter.com/ohdionne/status/1403823445528432642?s=21)\n",
+				"date_published": "2021-06-12T21:39:34-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/12/a-dose-of.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/12/i-have-been.html",
+				
+				"content_html": "<p>I have been on a Harry Potter binge recently, having watched all of the movies again, and now re-reading the series. I discovered an article called <a href=\"http://www.the-leaky-cauldron.org/features/essays/issue1/alchemypart1/\">Alchemy and Harry Potter</a> which was helpful to understand many elements in each of the stories and the series.</p>\n",
+				"content_text": "I have been on a Harry Potter binge recently, having watched all of the movies again, and now re-reading the series. I discovered an article called [Alchemy and Harry Potter](http://www.the-leaky-cauldron.org/features/essays/issue1/alchemypart1/) which was helpful to understand many elements in each of the stories and the series.\n",
+				"date_published": "2021-06-12T13:43:38-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/12/i-have-been.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/11/a-key-to.html",
+				
+				"content_html": "<p>A key to growth is to stop assuming I have learned every lesson in a given area. I rediscovered a resource I had mined in a previous decade of my life, then stopped. Today I was presented with a fresh perspective which gave me opportunites I didn&rsquo;t know I had.</p>\n",
+				"content_text": "A key to growth is to stop assuming I have learned every lesson in a given area. I rediscovered a resource I had mined in a previous decade of my life, then stopped. Today I was presented with a fresh perspective which gave me opportunites I didn't know I had.\n",
+				"date_published": "2021-06-11T14:25:23-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/11/a-key-to.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/10/setting-up-an.html",
+				
+				"content_html": "<p>Setting up an iPad Pro and <a href=\"https://www.apple.com/shop/product/MJQJ3LL/A/magic-keyboard-for-ipad-pro-11-inch-3rd-generation-and-ipad-air-4th-generation-us-english-white\">Magic Keyboard</a> for a client today. I don&rsquo;t covet the iPad as my new Air is perfectly lovely. But the keyboard is easily the best iPad-specific keyboard integration I have yet seen. Just effortless. Wow, did Apple do a great job with that!</p>\n",
+				"content_text": "Setting up an iPad Pro and [Magic Keyboard](https://www.apple.com/shop/product/MJQJ3LL/A/magic-keyboard-for-ipad-pro-11-inch-3rd-generation-and-ipad-air-4th-generation-us-english-white) for a client today. I don't covet the iPad as my new Air is perfectly lovely. But the keyboard is easily the best iPad-specific keyboard integration I have yet seen. Just effortless. Wow, did Apple do a great job with that!\n",
+				"date_published": "2021-06-10T15:01:57-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/10/setting-up-an.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/08/homonyms-are-issue.html",
+				
+				"content_html": "<p>Homophones are an issue when attempting to dictate through voice recognition— <em>Mail</em> versus <em>male</em> in one recent attempt to return a text message. That it works as well as it does is wonderful, but sometimes even modifying pronunciation or changing word order doesn&rsquo;t get the job done.</p>\n",
+				"content_text": "Homophones are an issue when attempting to dictate through voice recognition— _Mail_ versus _male_ in one recent attempt to return a text message. That it works as well as it does is wonderful, but sometimes even modifying pronunciation or changing word order doesn't get the job done.\n",
+				"date_published": "2021-06-08T11:23:00-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/08/homonyms-are-issue.html",
+				"tags": ["Experiential"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/06/07/could-it-be.html",
 				
 				"content_html": "<p>Could it be true?</p>\n\n<p><a href=\"https://9to5mac.com/2021/06/07/custom-domain-names-are-coming-to-icloud-mail-with-icloud/\">Custom domain names are coming to iCloud mail with iCloud+</a></p>\n\n<p>Have been waiting for this for so long!</p>\n",
