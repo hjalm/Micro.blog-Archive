@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/06/22/a-lovely-night.html",
+				
+				"content_html": "<p>A lovely night for a pint and some music</p>\n",
+				"content_text": "A lovely night for a pint and some music\n",
+				"date_published": "2021-06-22T20:29:11-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/22/a-lovely-night.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/20/this-includes-my.html",
+				
+				"content_html": "<p>This includes my Dad’s favorite chair in a favorite room.</p>\n\n<p>I took this shot, visiting my mom, a few months after he passed away in 2015.</p>\n\n<p>Naturally, the Photos widget chose Father’s Day 2021 to present it to me from all the images it could have picked.</p>\n\n<p>To all the fathers, to all the people who have fathers, to all the people contemplating becoming fathers, this day is richly varied, emotionally. I’m sure my experiences and yours overlap at least a little. I feel you.</p>\n\n<p>If anything, being a father has shown me so many ways to improve who I am and what I do in the world. It is supremely humbling.</p>\n\n<p>On this day, I wish you peace, joy, and love.</p>\n\n<p><img src=\"uploads/2021/88acbdbc68.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "This includes my Dad’s favorite chair in a favorite room.\n\nI took this shot, visiting my mom, a few months after he passed away in 2015. \n\nNaturally, the Photos widget chose Father’s Day 2021 to present it to me from all the images it could have picked. \n\nTo all the fathers, to all the people who have fathers, to all the people contemplating becoming fathers, this day is richly varied, emotionally. I’m sure my experiences and yours overlap at least a little. I feel you. \n\nIf anything, being a father has shown me so many ways to improve who I am and what I do in the world. It is supremely humbling. \n\nOn this day, I wish you peace, joy, and love. \n\n<img src=\"uploads/2021/88acbdbc68.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-06-20T10:50:38-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/20/this-includes-my.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/17/struggling-super-hard.html",
+				
+				"content_html": "<p>Struggling super hard with organization. As an ADHD&rsquo;er, this is career defining/limiting. I haven&rsquo;t found the method or the tool that sticks past overwhelm.</p>\n",
+				"content_text": "Struggling super hard with organization. As an ADHD'er, this is career defining/limiting. I haven't found the method or the tool that sticks past overwhelm.\n",
+				"date_published": "2021-06-17T10:28:24-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/17/struggling-super-hard.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/17/is-it-just.html",
+				
+				"content_html": "<p>Is it just me? On Windows 10, an Intel Core i5 can&rsquo;t seem to keep up with Teams, much less other things you may wish to work on while in a meeting. Have run into this on laptops and desktops of different manufacture. I don&rsquo;t have this issue on a Core i5 MacBook Pro.</p>\n",
+				"content_text": "Is it just me? On Windows 10, an Intel Core i5 can't seem to keep up with Teams, much less other things you may wish to work on while in a meeting. Have run into this on laptops and desktops of different manufacture. I don't have this issue on a Core i5 MacBook Pro.\n",
+				"date_published": "2021-06-17T09:50:03-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/17/is-it-just.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/06/14/shout-out-to.html",
+				
+				"content_html": "<p>Shout out to Tony, who I have missed these many years.</p>\n\n<p>I explained learning about The Game to a colleague at work. So, naturally I’ve lost many, many times in rapid succession.</p>\n\n<p>Miss you, brother</p>\n",
+				"content_text": "Shout out to Tony, who I have missed these many years.\n\nI explained learning about The Game to a colleague at work. So, naturally I’ve lost many, many times in rapid succession.\n\nMiss you, brother\n",
+				"date_published": "2021-06-14T17:30:22-05:00",
+				"url": "https://1-1.hjalmer.com/2021/06/14/shout-out-to.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/06/14/i-do-not.html",
 				
 				"content_html": "<p>I do not have a subscription to read the Washington Post, where the <a href=\"https://www.washingtonpost.com/opinions/2021/06/13/microsoft-brad-smith-trump-justice-department-gag-orders/\">source</a> article appeared, but I appreciate the quotes pulled out at 9TO5Mac. This seems like an appropriate stance for technology companies to take, and I appreciate it.</p>\n\n<p><a href=\"https://9to5mac.com/2021/06/14/gag-order-imposed-on-apple-microsoft/\">Microsoft president attacks type of government gag order imposed on Apple</a></p>\n\n<p>Especially the sentiment behind this statement:</p>\n\n<blockquote>\n<p>So that’s what they do. In secret. By serving search warrants on companies such as Apple, Google and Microsoft to obtain emails and messages <strong>that belong to our customers</strong>.</p>\n</blockquote>\n",
