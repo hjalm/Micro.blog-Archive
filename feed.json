@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/08/24/scrapple-with-breakfast.html",
+				
+				"content_html": "<p>Scrapple with breakfast. Cheer wine with dinner.</p>\n\n<p>We are <em>not</em> in Minnesota.</p>\n\n<p><img src=\"uploads/2021/f7545be819.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Scrapple with breakfast. Cheer wine with dinner. \n\nWe are *not* in Minnesota. \n\n\n\n<img src=\"uploads/2021/f7545be819.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-24T18:41:58-05:00",
+				"url": "https://1-1.hjalmer.com/2021/08/24/scrapple-with-breakfast.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/08/21/east-bound-and.html",
+				
+				"content_html": "<p>“East bound and down, loaded up and truckin”</p>\n\n<p>Many destinations in the next while.</p>\n",
+				"content_text": "“East bound and down, loaded up and truckin”\n\nMany destinations in the next while. \n",
+				"date_published": "2021-08-21T11:16:35-05:00",
+				"url": "https://1-1.hjalmer.com/2021/08/21/east-bound-and.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/08/17/there-is-an.html",
+				
+				"content_html": "<p>There is an <a href=\"https://www.cinemastrangiato.com\">R40 Cinema Strangiato</a> thing happening on Sept 9. Anyone want to go with me?</p>\n\n<p>Celebrating 40-year anniversary of the release of <a href=\"https://www.rush.com/albums/moving-pictures/\">Moving Pictures</a>.</p>\n",
+				"content_text": "There is an [R40 Cinema Strangiato](https://www.cinemastrangiato.com) thing happening on Sept 9. Anyone want to go with me? \n\nCelebrating 40-year anniversary of the release of [Moving Pictures](https://www.rush.com/albums/moving-pictures/). \n",
+				"date_published": "2021-08-17T18:12:38-05:00",
+				"url": "https://1-1.hjalmer.com/2021/08/17/there-is-an.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/08/15/we-had-to.html",
 				
 				"content_html": "<p>We had to let it go.</p>\n\n<p>We had put in a bid on a home of a scale and from a time that I have long appreciated. We did due diligence on the house and property and learned more about regional history, architectural styles, and what it takes to be more than a homeowner, but also a caretaker or conservator.</p>\n\n<p>Making the leap would have been exciting in all the right ways, save one: it would have tapped all of our resources and left little for the future. Despite all of the modernization we could have hoped for and a house in extraordinary condition, we would have needed half again the purchase price for remediation of issues on the property.</p>\n\n<p>This leaves me grateful that I could have even considered the change. I am glad for what I learned. In the end I still own a lovely home in which I will continue to invest.</p>\n",
@@ -33,8 +58,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2021/07/31/found-my-bike.html",
 				
-				"content_html": "<p>Found my bike helmet. It’s about twenty years old, by now, but never suffered an impact. Working on getting back in the saddle.</p>\n\n<p><img src=\"uploads/2021/273086de16.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Found my bike helmet. It’s about twenty years old, by now, but never suffered an impact. Working on getting back in the saddle.\n\n<img src=\"uploads/2021/273086de16.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Found my bike helmet. It’s about twenty years old, by now, but never suffered an impact. Working on getting back in the saddle.</p>\n\n<p><img src=\"https://1-1.hjalmer.com/uploads/2021/273086de16.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Found my bike helmet. It’s about twenty years old, by now, but never suffered an impact. Working on getting back in the saddle.\n\n<img src=\"https://1-1.hjalmer.com/uploads/2021/273086de16.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-31T19:51:36-05:00",
 				"url": "https://1-1.hjalmer.com/2021/07/31/found-my-bike.html",
 				"tags": ["Photos"]
