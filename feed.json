@@ -7,10 +7,74 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/09/25/i-had-an.html",
+				
+				"content_html": "<p>I had an espresso machine, now I don&rsquo;t. But today I wish I could quickly get a couple of shots. As I&rsquo;m tied to a conference call, I&rsquo;m sticking to what I have brewed.</p>\n",
+				"content_text": "I had an espresso machine, now I don't. But today I wish I could quickly get a couple of shots. As I'm tied to a conference call, I'm sticking to what I have brewed.\n",
+				"date_published": "2021-09-25T12:32:41-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/25/i-had-an.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/25/more-coffee-because.html",
+				
+				"content_html": "<p>More coffee! Because sometimes you have a short night and a long weekend work exercise to monitor.</p>\n\n<p>Bless you, you delicious roasted beans!</p>\n",
+				"content_text": "More coffee! Because sometimes you have a short night and a long weekend work exercise to monitor.\n\nBless you, you delicious roasted beans!\n",
+				"date_published": "2021-09-25T11:57:14-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/25/more-coffee-because.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/25/i-was-going.html",
+				
+				"content_html": "<p>I was going to make a meteorological joke about morning mental fog lifting later this morning, after coffee, but I couldn&rsquo;t figure out how to make it funny. Because I haven&rsquo;t had the coffee yet.</p>\n",
+				"content_text": "I was going to make a meteorological joke about morning mental fog lifting later this morning, after coffee, but I couldn't figure out how to make it funny. Because I haven't had the coffee yet.\n",
+				"date_published": "2021-09-25T07:22:17-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/25/i-was-going.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/24/i-did-not.html",
+				
+				"content_html": "<p>I did not expect the Apple Watch to add as much complication to the phone transfer as it does. Un-pairing the watch effectively resets it. Pairing it to the new phone will restore it, if it was backed up via the previous phone.</p>\n",
+				"content_text": "I did not expect the Apple Watch to add as much complication to the phone transfer as it does. Un-pairing the watch effectively resets it. Pairing it to the new phone will restore it, if it was backed up via the previous phone.\n",
+				"date_published": "2021-09-24T23:51:10-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/24/i-did-not.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/24/tmobile-got-me.html",
+				
+				"content_html": "<p>T-Mobile got me going, eventually. Grateful for the work of three individuals. Trick was to use the eSIM. Things worked great once sorted. Enrolled in beta, updated to 15.1, and restoring from previous device at the moment</p>\n",
+				"content_text": "T-Mobile got me going, eventually. Grateful for the work of three individuals. Trick was to use the eSIM. Things worked great once sorted. Enrolled in beta, updated to 15.1, and restoring from previous device at the moment\n",
+				"date_published": "2021-09-24T23:22:52-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/24/tmobile-got-me.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/24/it-has-become.html",
+				
+				"content_html": "<p>It has become clear during the process of transferring devices and service how much the Apple Watch is dependent on an iPhone. It&rsquo;s not unto itself and moving from one device to another is an effective wipe and re-load.</p>\n",
+				"content_text": "It has become clear during the process of transferring devices and service how much the Apple Watch is dependent on an iPhone. It's not unto itself and moving from one device to another is an effective wipe and re-load. \n",
+				"date_published": "2021-09-24T21:00:53-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/24/it-has-become.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/24/received-new-iphone.html",
+				
+				"content_html": "<p>Received new iPhone, but will be interesting to see if T-Mobile can get service to it. They didn&rsquo;t ship a new SIM, and swapping doesn&rsquo;t work. I tried 5 times to activate service via the web site and I&rsquo;m more than an hour into hold time.</p>\n",
+				"content_text": "Received new iPhone, but will be interesting to see if T-Mobile can get service to it. They didn't ship a new SIM, and swapping doesn't work. I tried 5 times to activate service via the web site and I'm more than an hour into hold time.\n",
+				"date_published": "2021-09-24T20:58:14-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/24/received-new-iphone.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/22/silly-silly-me.html",
+				
+				"content_html": "<p>Silly, silly me. I assumed that if I signed into iCloud via the Contacts app, I would only be synchronizing contacts. This is not actually the case. I do not have time for this but I’m going along for the ride. Long story. Getting longer.</p>\n",
+				"content_text": "Silly, silly me. I assumed that if I signed into iCloud via the Contacts app, I would only be synchronizing contacts. This is not actually the case. I do not have time for this but I’m going along for the ride. Long story. Getting longer. \n",
+				"date_published": "2021-09-22T12:01:38-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/22/silly-silly-me.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/09/20/donating-my-th.html",
 				
-				"content_html": "<p>Donating my 14th pint #bloodselfie</p>\n\n<p><img src=\"uploads/2021/5587b44469.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Donating my 14th pint #bloodselfie\n\n<img src=\"uploads/2021/5587b44469.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Donating my 14th pint #bloodselfie</p>\n\n<p><img src=\"https://1-1.hjalmer.com/uploads/2021/5587b44469.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Donating my 14th pint #bloodselfie\n\n<img src=\"https://1-1.hjalmer.com/uploads/2021/5587b44469.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-20T11:18:19-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/20/donating-my-th.html",
 				"tags": ["Photos"]
@@ -42,8 +106,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2021/09/10/straw-hat-at.html",
 				
-				"content_html": "<p>Straw hat at sunset</p>\n\n<p><img src=\"uploads/2021/218ec24f4c.jpg\" width=\"450\" height=\"600\" alt=\"hat-wearing man at sunset\" /></p>\n",
-				"content_text": "Straw hat at sunset\n\n<img src=\"uploads/2021/218ec24f4c.jpg\" width=\"450\" height=\"600\" alt=\"hat-wearing man at sunset\" />\n",
+				"content_html": "<p>Straw hat at sunset</p>\n\n<p><img src=\"https://1-1.hjalmer.com/uploads/2021/218ec24f4c.jpg\" width=\"450\" height=\"600\" alt=\"hat-wearing man at sunset\" /></p>\n",
+				"content_text": "Straw hat at sunset\n\n<img src=\"https://1-1.hjalmer.com/uploads/2021/218ec24f4c.jpg\" width=\"450\" height=\"600\" alt=\"hat-wearing man at sunset\" />\n",
 				"date_published": "2021-09-10T21:01:39-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/10/straw-hat-at.html",
 				"tags": ["Photos"]
