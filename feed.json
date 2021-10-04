@@ -7,6 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/10/04/that-thing-where.html",
+				
+				"content_html": "<p>That thing where the supply chain issues in our country from sea to shining sea means executing on Plan D. I delivered but I hate it.</p>\n",
+				"content_text": "That thing where the supply chain issues in our country from sea to shining sea means executing on Plan D. I delivered but I hate it. \n",
+				"date_published": "2021-10-04T18:50:44-05:00",
+				"url": "https://1-1.hjalmer.com/2021/10/04/that-thing-where.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/10/03/when-you-find.html",
+				
+				"content_html": "<p>When you find <a href=\"https://magnolia.com/watch/show/e1ee731d-4154-550e-80e7-2f0753bd7091/for-the-love-of-kitchens/\">a British show about designing kitchens</a> and discover that you had already been following the firm on Instagram: <a href=\"https://www.devolkitchens.com/\">deVOL Kitchens</a></p>\n",
+				"content_text": "When you find [a British show about designing kitchens](https://magnolia.com/watch/show/e1ee731d-4154-550e-80e7-2f0753bd7091/for-the-love-of-kitchens/) and discover that you had already been following the firm on Instagram: [deVOL Kitchens](https://www.devolkitchens.com/)\n",
+				"date_published": "2021-10-03T12:12:00-05:00",
+				"url": "https://1-1.hjalmer.com/2021/10/03/when-you-find.html",
+				"tags": ["Brilliant","Link"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/10/02/welp-im-all.html",
+				
+				"content_html": "<p>Welp, I&rsquo;m all in on iCloud email. Deleted the G-Suite account for my vanity domain. I changed the MX records about two or three weeks ago. I had about an hour of angst while the Time To Live for G-Suite expired, but mailflow begain immediately and I haven&rsquo;t had any trouble.</p>\n",
+				"content_text": "Welp, I'm all in on iCloud email. Deleted the G-Suite account for my vanity domain. I changed the MX records about two or three weeks ago. I had about an hour of angst while the Time To Live for G-Suite expired, but mailflow begain immediately and I haven't had any trouble.\n",
+				"date_published": "2021-10-02T19:39:30-05:00",
+				"url": "https://1-1.hjalmer.com/2021/10/02/welp-im-all.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/27/this-is-from.html",
+				
+				"content_html": "<p>This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented my the cropped version highlighting her face. I was really struck by the light and shadow.</p>\n\n<p><img src=\"uploads/2021/457f052d81.jpg\" width=\"600\" height=\"339\" alt=\"\" /></p>\n",
+				"content_text": "This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented my the cropped version highlighting her face. I was really struck by the light and shadow. \n\n<img src=\"uploads/2021/457f052d81.jpg\" width=\"600\" height=\"339\" alt=\"\" />\n",
+				"date_published": "2021-09-27T22:43:45-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/27/this-is-from.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/27/jupiter-saturn-and.html",
+				
+				"content_html": "<p>Jupiter, Saturn, and lens flare</p>\n\n<p><img src=\"uploads/2021/59e648c68e.jpg\" width=\"419\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Jupiter, Saturn, and lens flare\n\n<img src=\"uploads/2021/59e648c68e.jpg\" width=\"419\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-27T22:16:14-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/27/jupiter-saturn-and.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/09/27/celiac-pet-peeve.html",
+				
+				"content_html": "<p>Celiac Pet Peeve: When you check the ingredient list of the thing you bought (because you were sure it didn&rsquo;t have wheat in it), and you learn to your dismay (after you popped some into your mouth and are chewing), that, yes, it actually contains wheat.</p>\n\n<p>Trust no one.</p>\n",
+				"content_text": "Celiac Pet Peeve: When you check the ingredient list of the thing you bought (because you were sure it didn't have wheat in it), and you learn to your dismay (after you popped some into your mouth and are chewing), that, yes, it actually contains wheat.\r\n\r\nTrust no one.\n",
+				"date_published": "2021-09-27T15:13:47-05:00",
+				"url": "https://1-1.hjalmer.com/2021/09/27/celiac-pet-peeve.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/09/25/i-had-an.html",
 				
 				"content_html": "<p>I had an espresso machine, now I don&rsquo;t. But today I wish I could quickly get a couple of shots. As I&rsquo;m tied to a conference call, I&rsquo;m sticking to what I have brewed.</p>\n",
