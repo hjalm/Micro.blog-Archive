@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/12/12/as-a-slytherin.html",
+				
+				"content_html": "<p>As a #Slytherin, happy to see my House make it to the Grand Finals. Questions were really tough tonight! #TournamentofHouses</p>\n",
+				"content_text": "As a #Slytherin, happy to see my House make it to the Grand Finals. Questions were really tough tonight! #TournamentofHouses\n",
+				"date_published": "2021-12-12T20:24:13-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/12/as-a-slytherin.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/11/aftermath-i-think.html",
+				
+				"content_html": "<p>Aftermath: I think we have a foot of snow to move. Fresh-fallen slow is beautiful on a clear morning. We have the right tools to cope. But many people in different parts of the country woke up to destruction and loss from an incredible tornado. That is deeply sorrowful.</p>\n",
+				"content_text": "Aftermath: I think we have a foot of snow to move. Fresh-fallen slow is beautiful on a clear morning. We have the right tools to cope. But many people in different parts of the country woke up to destruction and loss from an incredible tornado. That is deeply sorrowful.\n",
+				"date_published": "2021-12-11T08:23:02-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/11/aftermath-i-think.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/10/just-set-up.html",
+				
+				"content_html": "<p>Just set up <em>Logitech Flow</em> to share a bluetooth keyboard and mouse between a MacBook and a SurfaceBook. This is an exciting development for my home office, and working from home.</p>\n",
+				"content_text": "Just set up _Logitech Flow_ to share a bluetooth keyboard and mouse between a MacBook and a SurfaceBook. This is an exciting development for my home office, and working from home.\n",
+				"date_published": "2021-12-10T16:50:57-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/10/just-set-up.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/10/its-a-paid.html",
+				
+				"content_html": "<p>It&rsquo;s a paid feature, but <a href=\"https://www.inoreader.com/blog/2021/12/turn-every-public-telegram-channel-into-a-feed.html?utm_source=email&amp;utm_medium=email&amp;utm_campaign=wksale\">Inoreader can turn public Telegram channels into feeds</a> you can follow.</p>\n",
+				"content_text": "It's a paid feature, but [Inoreader can turn public Telegram channels into feeds](https://www.inoreader.com/blog/2021/12/turn-every-public-telegram-channel-into-a-feed.html?utm_source=email&utm_medium=email&utm_campaign=wksale) you can follow.\n",
+				"date_published": "2021-12-10T08:59:36-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/10/its-a-paid.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/05/tip-of-the.html",
+				
+				"content_html": "<p>Tip of the hat to #Ravenclaw for the win tonight. We shall meet again!</p>\n\n<p>#TournamentofHouses</p>\n",
+				"content_text": "Tip of the hat to #Ravenclaw for the win tonight. We shall meet again!\n\n#TournamentofHouses\n",
+				"date_published": "2021-12-05T20:16:13-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/05/tip-of-the.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/12/05/my-house-is.html",
 				
 				"content_html": "<p>My house is competing tonight. #TournamentofHouses #Slytherin</p>\n",
