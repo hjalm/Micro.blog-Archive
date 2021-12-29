@@ -7,12 +7,72 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2021/12/29/read-nicholas-bates.html",
+				
+				"content_html": "<p>Read Nicholas Bate&rsquo;s <a href=\"https://nicholasbate.typepad.com/\">Your 2022 Word</a>.</p>\n\n<p>My word for 2022 is <em>Grow</em></p>\n\n<p>It&rsquo;s not a resolution, nor a command. But it encapsulates so much on my mind.</p>\n",
+				"content_text": "Read Nicholas Bate's [Your 2022 Word](https://nicholasbate.typepad.com/).\r\n\r\nMy word for 2022 is *Grow*\r\n\r\nIt's not a resolution, nor a command. But it encapsulates so much on my mind.\n",
+				"date_published": "2021-12-29T11:59:18-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/29/read-nicholas-bates.html",
+				"tags": ["Brilliant","Status","Experiential"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/25/and-mamma-in.html",
+				
+				"content_html": "<p>“And mamma in her &lsquo;kerchief, and I in my cap, Had just settled our brains for a long winter&rsquo;s nap”</p>\n\n<p>Also: Mischief managed!</p>\n",
+				"content_text": "“And mamma in her 'kerchief, and I in my cap, Had just settled our brains for a long winter's nap”\n\nAlso: Mischief managed!\n",
+				"date_published": "2021-12-25T02:40:15-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/25/and-mamma-in.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/24/merry-christmas-may.html",
+				
+				"content_html": "<p>Merry Christmas!</p>\n\n<p>May you find gratitude\nMay you find joy in each other</p>\n\n<p>And let there be peace on Earth</p>\n\n<p><img src=\"uploads/2021/6ef29c8329.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Merry Christmas!\n\nMay you find gratitude \nMay you find joy in each other\n\nAnd let there be peace on Earth\n\n<img src=\"uploads/2021/6ef29c8329.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-24T23:40:46-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/24/merry-christmas-may.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/22/that-feeling-when.html",
+				
+				"content_html": "<p>That feeling when you got rid of keys that had been hanging about. Then, much later, you find what they may have been kept for. No harm, no foul. But I have a new challenge.</p>\n",
+				"content_text": "That feeling when you got rid of keys that had been hanging about. Then, much later, you find what they may have been kept for. No harm, no foul. But I have a new challenge. \n",
+				"date_published": "2021-12-22T15:55:30-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/22/that-feeling-when.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/22/me-thinks-of.html",
+				
+				"content_html": "<p>ME: Thinks of something clever to post</p>\n\n<p>ADHD: There is a squirrel</p>\n\n<p>ME: There was something clever I wanted to post</p>\n\n<p>ADHD: (insert random time frame) Here it is! This would have been way funnier if you had posted it when you had thought of it.</p>\n\n<p>Me: ::cries internally:: I know. I know.</p>\n",
+				"content_text": "ME: Thinks of something clever to post\r\n\r\nADHD: There is a squirrel\r\n\r\nME: There was something clever I wanted to post\r\n\r\nADHD: (insert random time frame) Here it is! This would have been way funnier if you had posted it when you had thought of it.\r\n\r\nMe: ::cries internally:: I know. I know.\n",
+				"date_published": "2021-12-22T11:12:01-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/22/me-thinks-of.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/22/go-from-overtired.html",
+				
+				"content_html": "<p>Go from overtired to <em>playfully over-caffeinated</em> with three closely-spaced servings of stong coffee.</p>\n\n<p>#askmehowIknow</p>\n",
+				"content_text": "Go from overtired to _playfully over-caffeinated_ with three closely-spaced servings of stong coffee.\r\n\r\n#askmehowIknow\n",
+				"date_published": "2021-12-22T10:47:35-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/22/go-from-overtired.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/21/tough-times-in.html",
+				
+				"content_html": "<p>Tough times in Puppy Town</p>\n\n<p><img src=\"https://1-1.hjalmer.com/uploads/2021/7e1976867d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Tough times in Puppy Town\n\n<img src=\"https://1-1.hjalmer.com/uploads/2021/7e1976867d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-21T16:24:59-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/21/tough-times-in.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/12/19/inaugurating-the-movement.html",
 				
-				"content_html": "<p>Inaugurating the movement of my Den to the main floor of my house with a viewing of the R40 concert film. Playback started before witing is complete, but half way through everything seems well dialed in.</p>\n",
-				"content_text": "Inaugurating the movement of my Den to the main floor of my house with a viewing of the R40 concert film. Playback started before witing is complete, but half way through everything seems well dialed in.\n",
-				"date_published": "2021-12-19T22:25:04-06:00",
-				"url": "https://1-1.hjalmer.com/2021/12/19/inaugurating-the-movement.html"
+				"content_html": "<p>Inaugurating the movement of my Den to the main floor of my house with a viewing of the <a href=\"https://www.rush.com/albums/r40-live/\">R40</a> concert film. Playback started before wiring was complete, but halfway through everything seems well dialed in.</p>\n",
+				"content_text": "Inaugurating the movement of my Den to the main floor of my house with a viewing of the [R40](https://www.rush.com/albums/r40-live/) concert film. Playback started before wiring was complete, but halfway through everything seems well dialed in.\n",
+				"date_published": "2021-12-19T22:25:00-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/19/inaugurating-the-movement.html",
+				"tags": ["Music","Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2021/12/19/excellent-game-hufflepuff.html",
@@ -498,8 +558,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2021/09/27/this-is-from.html",
 				
-				"content_html": "<p>This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented me a cropped version highlighting her face—which I attempted to emulate, here. I was really struck by the quality of the light and shadow.</p>\n\n<p><img src=\"uploads/2021/457f052d81.jpg\" width=\"600\" height=\"339\" alt=\"\" /></p>\n",
-				"content_text": "This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented me a cropped version highlighting her face—which I attempted to emulate, here. I was really struck by the quality of the light and shadow. \n\n<img src=\"uploads/2021/457f052d81.jpg\" width=\"600\" height=\"339\" alt=\"\" />\n",
+				"content_html": "<p>This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented me a cropped version highlighting her face—which I attempted to emulate, here. I was really struck by the quality of the light and shadow.</p>\n\n<p><img src=\"https://1-1.hjalmer.com/uploads/2021/457f052d81.jpg\" width=\"600\" height=\"339\" alt=\"\" /></p>\n",
+				"content_text": "This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented me a cropped version highlighting her face—which I attempted to emulate, here. I was really struck by the quality of the light and shadow. \n\n<img src=\"https://1-1.hjalmer.com/uploads/2021/457f052d81.jpg\" width=\"600\" height=\"339\" alt=\"\" />\n",
 				"date_published": "2021-09-27T21:43:00-06:00",
 				"url": "https://1-1.hjalmer.com/2021/09/27/this-is-from.html",
 				"tags": ["Photos"]
