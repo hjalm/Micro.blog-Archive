@@ -7,11 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/01/06/i-have-been.html",
+				
+				"content_html": "<p>I have been on both sides of this, at times:</p>\n\n<p><a href=\"https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337\">10 Ways You&rsquo;re Annoying the Hell Out of Your Neighbors Without Realizing It</a></p>\n",
+				"content_text": "I have been on both sides of this, at times:\r\n\r\n[10 Ways You're Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)\n",
+				"date_published": "2022-01-06T16:52:34-06:00",
+				"url": "https://1-1.hjalmer.com/2022/01/06/i-have-been.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/01/02/mr-rogers-was.html",
+				
+				"content_html": "<p>Mr. Rogers was right. <em>Look for the helpers.</em> My God! They are everywhere if you want to see them.</p>\n",
+				"content_text": "Mr. Rogers was right. _Look for the helpers._ My God! They are everywhere if you want to see them. \n",
+				"date_published": "2022-01-02T11:17:38-06:00",
+				"url": "https://1-1.hjalmer.com/2022/01/02/mr-rogers-was.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/01/02/today-i-learned.html",
+				
+				"content_html": "<p>Today, I learned the written word is my love language.</p>\n",
+				"content_text": "Today, I learned the written word is my love language.\n",
+				"date_published": "2022-01-02T11:16:08-06:00",
+				"url": "https://1-1.hjalmer.com/2022/01/02/today-i-learned.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/31/reviewing-the-bullet.html",
+				
+				"content_html": "<p>Reviewing the <a href=\"https://bulletjournal.com/pages/learn\">Bullet Journal</a> methodology. Again. In the past I have been done capture reasonably well. Where I need great improvement is in review, analysis, and matching action with intent. This means better methods and strategies.</p>\n",
+				"content_text": "Reviewing the [Bullet Journal](https://bulletjournal.com/pages/learn) methodology. Again. In the past I have been done capture reasonably well. Where I need great improvement is in review, analysis, and matching action with intent. This means better methods and strategies.\n",
+				"date_published": "2021-12-31T19:11:53-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/31/reviewing-the-bullet.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2021/12/30/it-is-too.html",
+				
+				"content_html": "<p>It is too easy for personal epiphanies to pass from awareness</p>\n",
+				"content_text": "It is too easy for personal epiphanies to pass from awareness \n",
+				"date_published": "2021-12-30T09:57:11-06:00",
+				"url": "https://1-1.hjalmer.com/2021/12/30/it-is-too.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2021/12/29/read-nicholas-bates.html",
 				
-				"content_html": "<p>Read Nicholas Bate&rsquo;s <a href=\"https://nicholasbate.typepad.com/\">Your 2022 Word</a>.</p>\n\n<p>My word for 2022 is <em>Grow</em></p>\n\n<p>It&rsquo;s not a resolution, nor a command. But it encapsulates so much on my mind.</p>\n",
-				"content_text": "Read Nicholas Bate's [Your 2022 Word](https://nicholasbate.typepad.com/).\r\n\r\nMy word for 2022 is *Grow*\r\n\r\nIt's not a resolution, nor a command. But it encapsulates so much on my mind.\n",
-				"date_published": "2021-12-29T11:59:18-06:00",
+				"content_html": "<p>Read Nicholas Bate&rsquo;s <a href=\"https://blog.strategicedge.co.uk/2021/12/your-2022-word.html\">Your 2022 Word</a>.</p>\n\n<p>My word for 2022 is <em>Grow</em></p>\n\n<p>It&rsquo;s not a resolution, nor a command. But it encapsulates so much on my mind.</p>\n",
+				"content_text": "Read Nicholas Bate's [Your 2022 Word](https://blog.strategicedge.co.uk/2021/12/your-2022-word.html).\n\nMy word for 2022 is *Grow*\n\nIt's not a resolution, nor a command. But it encapsulates so much on my mind.\n",
+				"date_published": "2021-12-29T11:59:00-06:00",
 				"url": "https://1-1.hjalmer.com/2021/12/29/read-nicholas-bates.html",
 				"tags": ["Brilliant","Status","Experiential"]
 			},
@@ -26,8 +66,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2021/12/24/merry-christmas-may.html",
 				
-				"content_html": "<p>Merry Christmas!</p>\n\n<p>May you find gratitude\nMay you find joy in each other</p>\n\n<p>And let there be peace on Earth</p>\n\n<p><img src=\"uploads/2021/6ef29c8329.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Merry Christmas!\n\nMay you find gratitude \nMay you find joy in each other\n\nAnd let there be peace on Earth\n\n<img src=\"uploads/2021/6ef29c8329.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Merry Christmas!</p>\n\n<p>May you find gratitude\nMay you find joy in each other</p>\n\n<p>And let there be peace on Earth</p>\n\n<p><img src=\"https://1-1.hjalmer.com/uploads/2021/6ef29c8329.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Merry Christmas!\n\nMay you find gratitude \nMay you find joy in each other\n\nAnd let there be peace on Earth\n\n<img src=\"https://1-1.hjalmer.com/uploads/2021/6ef29c8329.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-24T23:40:46-06:00",
 				"url": "https://1-1.hjalmer.com/2021/12/24/merry-christmas-may.html",
 				"tags": ["Photos"]
