@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/01/11/true-fact-the.html",
+				
+				"content_html": "<p>True Fact:</p>\n\n<p>The place on earth with weather conditions most inhospitable to human life is whatever gas station you are at right now.</p>\n",
+				"content_text": "True Fact:\r\n\r\nThe place on earth with weather conditions most inhospitable to human life is whatever gas station you are at right now.\n",
+				"date_published": "2022-01-11T16:29:59-06:00",
+				"url": "https://1-1.hjalmer.com/2022/01/11/true-fact-the.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/01/09/this-is-probably.html",
+				
+				"content_html": "<p>This is probably a controversial opinion, but I’m so sick and tired of every home improvement show mentioning <em>Open Concept</em>. If you want to live in a warehouse, buy a warehouse. Stop fucking up beautiful, structurally sound homes because you think you need to <em>see</em> everything.</p>\n",
+				"content_text": "This is probably a controversial opinion, but I’m so sick and tired of every home improvement show mentioning _Open Concept_. If you want to live in a warehouse, buy a warehouse. Stop fucking up beautiful, structurally sound homes because you think you need to _see_ everything. \n",
+				"date_published": "2022-01-09T12:32:04-06:00",
+				"url": "https://1-1.hjalmer.com/2022/01/09/this-is-probably.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/01/06/i-have-been.html",
 				
 				"content_html": "<p>I have been on both sides of this, at times:</p>\n\n<p><a href=\"https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337\">10 Ways You&rsquo;re Annoying the Hell Out of Your Neighbors Without Realizing It</a></p>\n",
