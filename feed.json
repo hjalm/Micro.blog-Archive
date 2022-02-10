@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/02/09/linkedin-is-testing.html",
+				
+				"content_html": "<p><a href=\"https://www.inputmag.com/culture/linkedin-tests-no-politics-setting-microsoft\">LinkedIn is testing a new ‘no politics’ setting</a></p>\n\n<p>Wishing more large services offered similar. At least some offer filtering.</p>\n",
+				"content_text": "[LinkedIn is testing a new ‘no politics’ setting](https://www.inputmag.com/culture/linkedin-tests-no-politics-setting-microsoft)\r\n\r\nWishing more large services offered similar. At least some offer filtering.\n",
+				"date_published": "2022-02-09T20:11:07-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/09/linkedin-is-testing.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/07/that-thing-were.html",
+				
+				"content_html": "<p>That thing were I have remote starting for my car but do not remember to use it to my benefit</p>\n",
+				"content_text": "That thing were I have remote starting for my car but do not remember to use it to my benefit \n",
+				"date_published": "2022-02-07T09:34:03-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/07/that-thing-were.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/03/wanted-to-watch.html",
+				
+				"content_html": "<p>Wanted to watch the Olympics but got talking heads. Moving on.</p>\n",
+				"content_text": "Wanted to watch the Olympics but got talking heads. Moving on.\n",
+				"date_published": "2022-02-03T19:50:01-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/03/wanted-to-watch.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/02/listening-to-a.html",
+				
+				"content_html": "<p>Listening to a lot of Seasurfer lately. I discovered them a few years ago and was reacquainted with them again a few weeks ago. Most recent album has what would call more of a dark wave sound, more synth. Earlier albums I would call more shoegaze. But layers, distortion, reverb and harmonies all throughout</p>\n",
+				"content_text": "Listening to a lot of Seasurfer lately. I discovered them a few years ago and was reacquainted with them again a few weeks ago. Most recent album has what would call more of a dark wave sound, more synth. Earlier albums I would call more shoegaze. But layers, distortion, reverb and harmonies all throughout \n",
+				"date_published": "2022-02-02T21:16:00-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/02/listening-to-a.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/01/31/can-i-say.html",
+				
+				"content_html": "<p>Can I say, as an IT person, I’m really tired of running updates. So little control over what is happening. No way to know before starting if this computer will take the update after some unknown interval of time, or not. All I can do is wait and pick up the pieces.</p>\n",
+				"content_text": "Can I say, as an IT person, I’m really tired of running updates. So little control over what is happening. No way to know before starting if this computer will take the update after some unknown interval of time, or not. All I can do is wait and pick up the pieces. \n",
+				"date_published": "2022-01-31T19:21:12-06:00",
+				"url": "https://1-1.hjalmer.com/2022/01/31/can-i-say.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/01/31/used-all-the.html",
 				
 				"content_html": "<p>Used all the caffeines to power through a long work weekend. Today, I started my day early and my usual large amount is insufficient. My brain wants MOAR.</p>\n",
