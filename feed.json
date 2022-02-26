@@ -7,6 +7,80 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/02/26/i-feel-more.html",
+				
+				"content_html": "<p>I feel, more and more, as though maintaining holistic health is like a video game, where one must keep levelling up.</p>\n\n<p>Change is hard.</p>\n",
+				"content_text": "I feel, more and more, as though maintaining holistic health is like a video game, where one must keep levelling up.\r\n\r\nChange is hard.\r\n\r\n",
+				"date_published": "2022-02-26T10:44:04-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/26/i-feel-more.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/23/im-kinda-excited.html",
+				
+				"content_html": "<p>I&rsquo;m kinda excited about this: <a href=\"https://www.nintendolife.com/news/2022/02/tempest-4000-brings-its-neon-insanity-to-switch-this-spring\">Tempest 4000 Brings Its Neon Insanity To Switch This Spring</a></p>\n",
+				"content_text": "I'm kinda excited about this: [Tempest 4000 Brings Its Neon Insanity To Switch This Spring](https://www.nintendolife.com/news/2022/02/tempest-4000-brings-its-neon-insanity-to-switch-this-spring)\n",
+				"date_published": "2022-02-23T19:24:04-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/23/im-kinda-excited.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/22/the-jeopardy-national.html",
+				
+				"content_html": "<p>The Jeopardy National College Championship was fun to watch. Mayim Bialik is a great host</p>\n",
+				"content_text": "The Jeopardy National College Championship was fun to watch. Mayim Bialik is a great host\n",
+				"date_published": "2022-02-22T20:30:21-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/22/the-jeopardy-national.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/22/there-is-a.html",
+				
+				"content_html": "<p>There is a lot of ice in that beard, post snow-blowing, but it’s hard to see</p>\n\n<p><img src=\"uploads/2022/c2ae034f3c.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There is a lot of ice in that beard, post snow-blowing, but it’s hard to see \n\n<img src=\"uploads/2022/c2ae034f3c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-02-22T20:06:01-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/22/there-is-a.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/22/sigur-rs-are.html",
+				
+				"content_html": "<p><a href=\"https://sigurros.com/tour/2022/20220531-minneapolis/\">Sigur Rós are coming to the State Theater in May</a></p>\n",
+				"content_text": "[Sigur Rós are coming to the State Theater in May](https://sigurros.com/tour/2022/20220531-minneapolis/)\n",
+				"date_published": "2022-02-22T14:47:18-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/22/sigur-rs-are.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/21/installing-windows-from.html",
+				
+				"content_html": "<p>Installing Windows 11 from USB for the first time. Feels like Linux because it didn’t have WiFi drivers. But also? Downloading updates with no on-screen indication of how much has to download or what is being installed.</p>\n",
+				"content_text": "Installing Windows 11 from USB for the first time. Feels like Linux because it didn’t have WiFi drivers. But also? Downloading updates with no on-screen indication of how much has to download or what is being installed. \n",
+				"date_published": "2022-02-21T19:43:35-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/21/installing-windows-from.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/20/so-disappointed-getting.html",
+				
+				"content_html": "<p><em>So</em> disappointed. Getting my daughter set up with her own Microsoft account actually has made it harder to play Minecraft with her. Instantly, multiplayer is turned off for her and she is prevented from joining Realms, which was something I was wanting to set up and share.</p>\n",
+				"content_text": "_So_ disappointed. Getting my daughter set up with her own Microsoft account actually has made it harder to play Minecraft with her. Instantly, multiplayer is turned off for her and she is prevented from joining Realms, which was something I was wanting to set up and share.\n",
+				"date_published": "2022-02-20T22:12:39-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/20/so-disappointed-getting.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/19/i-realilze-im.html",
+				
+				"content_html": "<p>I realize I&rsquo;m an edge case, but I wish you could put longer beards on Memojis.</p>\n",
+				"content_text": "I realize I'm an edge case, but I wish you could put longer beards on Memojis.\n",
+				"date_published": "2022-02-19T18:11:00-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/19/i-realilze-im.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/02/19/grateful-lots-of.html",
+				
+				"content_html": "<p>Grateful. Lots of extra sleep today. Print magazines, caffeinated beverages, left-over pizza, gear-head car shows, and favorite web sites.</p>\n",
+				"content_text": "Grateful. Lots of extra sleep today. Print magazines, caffeinated beverages, left-over pizza, gear-head car shows, and favorite web sites.\n",
+				"date_published": "2022-02-19T15:15:55-06:00",
+				"url": "https://1-1.hjalmer.com/2022/02/19/grateful-lots-of.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/02/16/marketers-nothing-says.html",
 				
 				"content_html": "<p>Marketers: Nothing says &ldquo;We want more money&rdquo; than anything that includes the words Premium, Curated, or Hand-Crafted. Hard pass. Nope. Please stop. These terms are working against you. There are more, but these make me angriest, lately.</p>\n",
