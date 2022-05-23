@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/05/22/loved-the-reference.html",
+				
+				"content_html": "<p>Loved the reference to <em>The Big Lebowski</em> in <em>Family Guy</em>, tonight</p>\n",
+				"content_text": "Loved the reference to _The Big Lebowski_ in _Family Guy_, tonight\n",
+				"date_published": "2022-05-22T20:58:24-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/22/loved-the-reference.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/22/asking-honestly-is.html",
+				
+				"content_html": "<p>Asking honestly: is there like a group of people who are super sick and tired of all the shadiness done by people with power but who are still working to and honestly desire to make the world a better place? There is no red pill. There is no blue pill. There is just us.</p>\n",
+				"content_text": "Asking honestly: is there like a group of people who are super sick and tired of all the shadiness done by people with power but who are still working to and honestly desire to make the world a better place? There is no red pill. There is no blue pill. There is just us. \n",
+				"date_published": "2022-05-22T18:21:52-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/22/asking-honestly-is.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/21/starting-the-day.html",
+				
+				"content_html": "<p>Starting the day with puppies in my lap, coffee, Nintendo and <em>Princess Bride</em>.</p>\n",
+				"content_text": "Starting the day with puppies in my lap, coffee, Nintendo and _Princess Bride_.\n",
+				"date_published": "2022-05-21T08:43:20-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/21/starting-the-day.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/20/when-out-of.html",
+				
+				"content_html": "<p>When, out of habit, you walk down the stairs of the atrium in your employer’s building, from the third to the first floor, to head back to your desk—and then realize the thing you need to do next is on the third floor</p>\n",
+				"content_text": "When, out of habit, you walk down the stairs of the atrium in your employer’s building, from the third to the first floor, to head back to your desk—and then realize the thing you need to do next is on the third floor \n",
+				"date_published": "2022-05-20T15:46:00-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/20/when-out-of.html",
+				"tags": ["Experiential"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/19/we-have-had.html",
+				
+				"content_html": "<p>We have had about three separate, significant hail storms at my house this year, in the space of a few weeks. I&rsquo;ve never seen this much hail anywhere I have lived in my whole life.</p>\n",
+				"content_text": "We have had about three separate, significant hail storms at my house this year, in the space of a few weeks. I've never seen this much hail anywhere I have lived in my whole life.\n",
+				"date_published": "2022-05-19T22:06:13-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/19/we-have-had.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/18/so-wierd-journalists.html",
+				
+				"content_html": "<p>So wierd journalists are shocked that Apple continues to support a production product (like an operating system) well into the development cycle of the replacement version. It&rsquo;s like people actively refuse to understand how they work. Cynical me remembers headlines drive clicks.</p>\n",
+				"content_text": "So wierd journalists are shocked that Apple continues to support a production product (like an operating system) well into the development cycle of the replacement version. It's like people actively refuse to understand how they work. Cynical me remembers headlines drive clicks.\n",
+				"date_published": "2022-05-18T14:43:17-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/18/so-wierd-journalists.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/18/its-a-triple.html",
+				
+				"content_html": "<p>It’s a triple espresso kind of morning. Fitbit says I slept okay but brain says it’s not feeling it.</p>\n",
+				"content_text": "It’s a triple espresso kind of morning. Fitbit says I slept okay but brain says it’s not feeling it.\n",
+				"date_published": "2022-05-18T09:15:22-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/18/its-a-triple.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/05/15/feeling-gimpy-feeling.html",
 				
 				"content_html": "<p>Feeling gimpy. Feeling old. Converse shoes don’t like me. Feet hurt. Knee hurts. Tylenol take me away.</p>\n",
@@ -18,7 +75,7 @@
 				"id": "http://hjalm.micro.blog/2022/05/09/hail-on-st.html",
 				
 				"content_html": "<p>Hail on St. Paul’s East Side. #MnWx #55119</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hail on St. Paul’s East Side. #MnWx #55119\n\n<img src=\"uploads/2022/18cebf9eaa.jpg\" width=\"389\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hail on St. Paul’s East Side. #MnWx #55119\n\n<img src=\"https://1-1.hjalmer.com/uploads/2022/18cebf9eaa.jpg\" width=\"389\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-09T17:39:10-05:00",
 				"url": "https://1-1.hjalmer.com/2022/05/09/hail-on-st.html",
 				"tags": ["Photos"]
