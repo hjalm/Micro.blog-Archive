@@ -7,28 +7,72 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/05/30/i-just-got.html",
+				
+				"content_html": "<p>I just got a markdown-native writing app, which I’m excited about. Particularly the Apple-native synchronization to iCloud and between devices. However, a new blank document is still a new blank document.</p>\n",
+				"content_text": "I just got a markdown-native writing app, which I’m excited about. Particularly the Apple-native synchronization to iCloud and between devices. However, a new blank document is still a new blank document.\n",
+				"date_published": "2022-05-30T10:38:25-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/30/i-just-got.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/27/its-funny-until.html",
+				
+				"content_html": "<p>It’s “funny”.  Until you read the bylines. <a href=\"https://www.theonion.com\">The Onion</a></p>\n",
+				"content_text": "It’s “funny”.  Until you read the bylines. [The Onion](https://www.theonion.com)\n",
+				"date_published": "2022-05-27T18:52:18-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/27/its-funny-until.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/27/im-not-proud.html",
+				
+				"content_html": "<p>I’m not proud of <a href=\"https://micro.blog/apple\">@apple</a> if the union-busting activity is real</p>\n",
+				"content_text": "I’m not proud of [@apple](https://micro.blog/apple) if the union-busting activity is real\n",
+				"date_published": "2022-05-27T18:28:46-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/27/im-not-proud.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/25/sometimes-its-color.html",
+				
+				"content_html": "<p>Sometimes it’s color that catches my eye</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sometimes it’s color that catches my eye\n\n<img src=\"uploads/2022/66d7c58e56.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-05-25T21:37:58-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/25/sometimes-its-color.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/05/24/i-had-the.html",
+				
+				"content_html": "<p>I had the privilege of attending a diversity, equity and inclusion presentation today. The good news is that I’m not oblivious. The other good news, I suppose, is that I have many opportunities to improve understanding and empathy. Wow.</p>\n",
+				"content_text": "I had the privilege of attending a diversity, equity and inclusion presentation today. The good news is that I’m not oblivious. The other good news, I suppose, is that I have many opportunities to improve understanding and empathy. Wow.\n",
+				"date_published": "2022-05-24T14:26:08-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/24/i-had-the.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/05/22/loved-the-reference.html",
 				
 				"content_html": "<p>Loved the reference to <em>The Big Lebowski</em> in <em>Family Guy</em>, tonight</p>\n",
 				"content_text": "Loved the reference to _The Big Lebowski_ in _Family Guy_, tonight\n",
-				"date_published": "2022-05-22T20:58:24-05:00",
-				"url": "https://1-1.hjalmer.com/2022/05/22/loved-the-reference.html"
+				"date_published": "2022-05-22T20:58:00-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/22/loved-the-reference.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/22/asking-honestly-is.html",
 				
 				"content_html": "<p>Asking honestly: is there like a group of people who are super sick and tired of all the shadiness done by people with power but who are still working to and honestly desire to make the world a better place? There is no red pill. There is no blue pill. There is just us.</p>\n",
 				"content_text": "Asking honestly: is there like a group of people who are super sick and tired of all the shadiness done by people with power but who are still working to and honestly desire to make the world a better place? There is no red pill. There is no blue pill. There is just us. \n",
-				"date_published": "2022-05-22T18:21:52-05:00",
-				"url": "https://1-1.hjalmer.com/2022/05/22/asking-honestly-is.html"
+				"date_published": "2022-05-22T18:21:00-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/22/asking-honestly-is.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/21/starting-the-day.html",
 				
 				"content_html": "<p>Starting the day with puppies in my lap, coffee, Nintendo and <em>Princess Bride</em>.</p>\n",
 				"content_text": "Starting the day with puppies in my lap, coffee, Nintendo and _Princess Bride_.\n",
-				"date_published": "2022-05-21T08:43:20-05:00",
-				"url": "https://1-1.hjalmer.com/2022/05/21/starting-the-day.html"
+				"date_published": "2022-05-21T08:43:00-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/21/starting-the-day.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/20/when-out-of.html",
@@ -50,10 +94,11 @@
 			{
 				"id": "http://hjalm.micro.blog/2022/05/18/so-wierd-journalists.html",
 				
-				"content_html": "<p>So wierd journalists are shocked that Apple continues to support a production product (like an operating system) well into the development cycle of the replacement version. It&rsquo;s like people actively refuse to understand how they work. Cynical me remembers headlines drive clicks.</p>\n",
-				"content_text": "So wierd journalists are shocked that Apple continues to support a production product (like an operating system) well into the development cycle of the replacement version. It's like people actively refuse to understand how they work. Cynical me remembers headlines drive clicks.\n",
-				"date_published": "2022-05-18T14:43:17-05:00",
-				"url": "https://1-1.hjalmer.com/2022/05/18/so-wierd-journalists.html"
+				"content_html": "<p>So wierd journalists are shocked that Apple continues to support a production product (like an operating system) well into the development cycle of the replacement version. It&rsquo;s like people actively refuse to understand how they work. Cynical me remembers: headlines drive clicks.</p>\n",
+				"content_text": "So wierd journalists are shocked that Apple continues to support a production product (like an operating system) well into the development cycle of the replacement version. It's like people actively refuse to understand how they work. Cynical me remembers: headlines drive clicks.\n",
+				"date_published": "2022-05-18T14:43:00-05:00",
+				"url": "https://1-1.hjalmer.com/2022/05/18/so-wierd-journalists.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/18/its-a-triple.html",
@@ -125,7 +170,7 @@
 				"id": "http://hjalm.micro.blog/2022/04/20/a-little-fog.html",
 				
 				"content_html": "<p>A little fog at night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A little fog at night\n\n<img src=\"uploads/2022/5928161208.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/a52b9b8973.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A little fog at night\n\n<img src=\"https://1-1.hjalmer.com/uploads/2022/5928161208.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://1-1.hjalmer.com/uploads/2022/a52b9b8973.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-20T23:33:11-05:00",
 				"url": "https://1-1.hjalmer.com/2022/04/20/a-little-fog.html",
 				"tags": ["Photos"]
