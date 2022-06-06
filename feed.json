@@ -7,12 +7,65 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/06/06/that-midnight-m.html",
+				
+				"content_html": "<p>That Midnight M2 MacBook Air is looking pretty fine</p>\n",
+				"content_text": "That Midnight M2 MacBook Air is looking pretty fine\n",
+				"date_published": "2022-06-06T14:05:17-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/06/that-midnight-m.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/05/watching-videos-on.html",
+				
+				"content_html": "<p>Watching videos on MTV, because Gen X.</p>\n<p>Old videos reminding me of a few minutes of my life when I believed I might be cool.</p>\n",
+				"content_text": "Watching videos on MTV, because Gen X.\r\n\r\nOld videos reminding me of a few minutes of my life when I believed I might be cool.\n",
+				"date_published": "2022-06-05T13:09:53-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/05/watching-videos-on.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/04/yeah-music-is.html",
+				
+				"content_html": "<p>Yeah. Music is just as likely to bring tears to my eyes as anything, anymore</p>\n",
+				"content_text": "Yeah. Music is just as likely to bring tears to my eyes as anything, anymore\n",
+				"date_published": "2022-06-04T20:19:21-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/04/yeah-music-is.html",
+				"tags": ["Experiential"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/04/my-dad-was.html",
+				
+				"content_html": "<p>My dad was emphatically not a Prince fan. But I had friends who had albums which I surreptitiously borrowed and dubbed to tape. Then I used my little portable deck and phones and carried the music with me.</p>\n",
+				"content_text": "My dad was emphatically not a Prince fan. But I had friends who had albums which I surreptitiously borrowed and dubbed to tape. Then I used my little portable deck and phones and carried the music with me. \n",
+				"date_published": "2022-06-04T19:14:18-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/04/my-dad-was.html",
+				"tags": ["Remembering"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/04/purple-rain-tour.html",
+				
+				"content_html": "<p><em>Purple Rain</em> tour concert film on PBS just started. I’m in.</p>\n",
+				"content_text": "_Purple Rain_ tour concert film on PBS just started. I’m in. \n",
+				"date_published": "2022-06-04T19:05:01-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/04/purple-rain-tour.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/04/saga-conversations-for.html",
+				
+				"content_html": "<p>Saga <a href=\"https://music.apple.com/us/album/conversations/1579893853?i=1579894490\">Conversations</a> — For reasons I don’t understand, this song has been an earworm for weeks. ¯_(ツ)_/¯</p>\n<p>From their <em>Worlds Apart</em> album, which is an old favorite of mine.</p>\n",
+				"content_text": "Saga [Conversations](https://music.apple.com/us/album/conversations/1579893853?i=1579894490) — For reasons I don’t understand, this song has been an earworm for weeks. ¯\\_(ツ)_/¯ \n\nFrom their _Worlds Apart_ album, which is an old favorite of mine. \n",
+				"date_published": "2022-06-04T11:29:13-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/04/saga-conversations-for.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/05/30/i-just-got.html",
 				
 				"content_html": "<p>I just got a markdown-native writing app, which I’m excited about. Particularly the Apple-native synchronization to iCloud and between devices. However, a new blank document is still a new blank document.</p>\n",
 				"content_text": "I just got a markdown-native writing app, which I’m excited about. Particularly the Apple-native synchronization to iCloud and between devices. However, a new blank document is still a new blank document.\n",
 				"date_published": "2022-05-30T10:38:25-05:00",
-				"url": "https://1-1.hjalmer.com/2022/05/30/i-just-got.html"
+				"url": "https://1-1.hjalmer.com/2022/05/30/i-just-got.html",
+				"tags": ["Status","Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/27/its-funny-until.html",
@@ -25,16 +78,17 @@
 			{
 				"id": "http://hjalm.micro.blog/2022/05/27/im-not-proud.html",
 				
-				"content_html": "<p>I’m not proud of <a href=\"https://micro.blog/apple\">@apple</a> if the union-busting activity is real</p>\n",
-				"content_text": "I’m not proud of [@apple](https://micro.blog/apple) if the union-busting activity is real\n",
+				"content_html": "<p>I’m not proud of <a href=\"https://www.apple.com/\">Apple</a> if the union-busting activity is real</p>\n",
+				"content_text": "I’m not proud of [Apple](https://www.apple.com/) if the union-busting activity is real\n",
 				"date_published": "2022-05-27T18:28:46-05:00",
-				"url": "https://1-1.hjalmer.com/2022/05/27/im-not-proud.html"
+				"url": "https://1-1.hjalmer.com/2022/05/27/im-not-proud.html",
+				"tags": ["Status","Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/25/sometimes-its-color.html",
 				
 				"content_html": "<p>Sometimes it’s color that catches my eye</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometimes it’s color that catches my eye\n\n<img src=\"uploads/2022/66d7c58e56.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sometimes it’s color that catches my eye\n\n<img src=\"https://1-1.hjalmer.com/uploads/2022/66d7c58e56.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-25T21:37:58-05:00",
 				"url": "https://1-1.hjalmer.com/2022/05/25/sometimes-its-color.html",
 				"tags": ["Photos"]
