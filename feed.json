@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/06/11/thank-you-syfy.html",
+				
+				"content_html": "<p>Thank you, SyFy Network, for reminding me how far back in history my childhood was.</p>\n",
+				"content_text": "Thank you, SyFy Network, for reminding me how far back in history my childhood was.\n",
+				"date_published": "2022-06-11T13:39:04-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/11/thank-you-syfy.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/09/that-feeling-when.html",
+				
+				"content_html": "<p>That feeling when you’re at work late because of, um, fixing a clerical error, when the quick thing you need to do on your laptop is thwarted by the statement “Updates are in progress.”</p>\n",
+				"content_text": "That feeling when you’re at work late because of, um, fixing a clerical error, when the quick thing you need to do on your laptop is thwarted by the statement “Updates are in progress.”\n",
+				"date_published": "2022-06-09T18:42:28-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/09/that-feeling-when.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/07/there-was-an.html",
+				
+				"content_html": "<p>There was an old man, who swallowed a moth:</p>\n<p>“I didn&rsquo;t plan to swallow a moth. It made me cough!”</p>\n",
+				"content_text": "There was an old man, who swallowed a moth:\r\n\r\n“I didn't plan to swallow a moth. It made me cough!”\n",
+				"date_published": "2022-06-07T22:31:04-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/07/there-was-an.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/07/technology-frustration-enterprise.html",
+				
+				"content_html": "<p>Technology Frustration: Enterprise class laptops that only support a single external display, learning the hard way in front of clients that this is so.</p>\n",
+				"content_text": "Technology Frustration: Enterprise class laptops that only support a single external display, learning the hard way in front of clients that this is so.\n",
+				"date_published": "2022-06-07T09:05:33-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/07/technology-frustration-enterprise.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/07/technology-frustration-sometime.html",
+				
+				"content_html": "<p>Technology frustration: Sometimes my phone will not connect to Car Play in my car. Rebooting phone or turning off car don’t make a difference. Waiting to plug in until after car is started, etc. And then the next time I go to drive, it works normally.</p>\n",
+				"content_text": "Technology frustration: Sometimes my phone will not connect to Car Play in my car. Rebooting phone or turning off car don’t make a difference. Waiting to plug in until after car is started, etc. And then the next time I go to drive, it works normally.\n",
+				"date_published": "2022-06-07T08:59:40-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/07/technology-frustration-sometime.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/06/07/technology-frustration-my.html",
+				
+				"content_html": "<p>Technology frustration: My daughter wanted to play Minecraft this morning. It wouldn’t launch. It wouldn’t reinstall. A half hour later I note my daughter is playing Minecraft because it just worked.</p>\n",
+				"content_text": "Technology frustration: My daughter wanted to play Minecraft this morning. It wouldn’t launch. It wouldn’t reinstall. A half hour later I note my daughter is playing Minecraft because it just worked.\n",
+				"date_published": "2022-06-07T08:57:59-05:00",
+				"url": "https://1-1.hjalmer.com/2022/06/07/technology-frustration-my.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/06/06/that-midnight-m.html",
 				
 				"content_html": "<p>That Midnight M2 MacBook Air is looking pretty fine</p>\n",
@@ -73,7 +121,8 @@
 				"content_html": "<p>It’s “funny”.  Until you read the bylines. <a href=\"https://www.theonion.com\">The Onion</a></p>\n",
 				"content_text": "It’s “funny”.  Until you read the bylines. [The Onion](https://www.theonion.com)\n",
 				"date_published": "2022-05-27T18:52:18-05:00",
-				"url": "https://1-1.hjalmer.com/2022/05/27/its-funny-until.html"
+				"url": "https://1-1.hjalmer.com/2022/05/27/its-funny-until.html",
+				"tags": ["Brilliant","Link"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/27/im-not-proud.html",
@@ -99,7 +148,8 @@
 				"content_html": "<p>I had the privilege of attending a diversity, equity and inclusion presentation today. The good news is that I’m not oblivious. The other good news, I suppose, is that I have many opportunities to improve understanding and empathy. Wow.</p>\n",
 				"content_text": "I had the privilege of attending a diversity, equity and inclusion presentation today. The good news is that I’m not oblivious. The other good news, I suppose, is that I have many opportunities to improve understanding and empathy. Wow.\n",
 				"date_published": "2022-05-24T14:26:08-05:00",
-				"url": "https://1-1.hjalmer.com/2022/05/24/i-had-the.html"
+				"url": "https://1-1.hjalmer.com/2022/05/24/i-had-the.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/22/loved-the-reference.html",
@@ -135,7 +185,7 @@
 				"content_text": "When, out of habit, you walk down the stairs of the atrium in your employer’s building, from the third to the first floor, to head back to your desk—and then realize the thing you need to do next is on the third floor \n",
 				"date_published": "2022-05-20T15:46:00-05:00",
 				"url": "https://1-1.hjalmer.com/2022/05/20/when-out-of.html",
-				"tags": ["Experiential"]
+				"tags": ["Status","Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2022/05/19/we-have-had.html",
