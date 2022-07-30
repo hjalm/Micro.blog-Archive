@@ -7,6 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/07/30/air-temp-f.html",
+				
+				"content_html": "<p>Air temp: 80F, water temp: 80F No chance of rain for the next several hours. No place to be for several hours.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Air temp: 80F, water temp: 80F No chance of rain for the next several hours. No place to be for several hours. \n\n<img src=\"uploads/2022/85399188a9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-07-30T10:51:07-05:00",
+				"url": "https://1-1.hjalmer.com/2022/07/30/air-temp-f.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/07/28/the-thing-about.html",
+				
+				"content_html": "<p>The thing about when you’re going to a chain in the Outer Banks to pick up an order is you need to be sure which location you’re headed to. Are you sure? The staff can’t help you much when you show up to the wrong one. #obx</p>\n",
+				"content_text": "The thing about when you’re going to a chain in the Outer Banks to pick up an order is you need to be sure which location you’re headed to. Are you sure? The staff can’t help you much when you show up to the wrong one. #obx\n",
+				"date_published": "2022-07-28T10:57:22-05:00",
+				"url": "https://1-1.hjalmer.com/2022/07/28/the-thing-about.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/07/27/at-the-beach.html",
+				
+				"content_html": "<p>At the beach #OBX #KillDevilHills</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "At the beach #OBX #KillDevilHills\n\n<img src=\"uploads/2022/120d87363a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-07-27T13:25:26-05:00",
+				"url": "https://1-1.hjalmer.com/2022/07/27/at-the-beach.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/07/26/am-i-grateful.html",
+				
+				"content_html": "<p>Am I grateful for all of the people who reach out to me despite my many long silences? Yeah. I don’t even have words.</p>\n",
+				"content_text": "Am I grateful for all of the people who reach out to me despite my many long silences? Yeah. I don’t even have words. \n",
+				"date_published": "2022-07-26T09:37:39-05:00",
+				"url": "https://1-1.hjalmer.com/2022/07/26/am-i-grateful.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/07/26/is-quiet-time.html",
+				
+				"content_html": "<p>Is quiet time on the beach good for the soul? I feel strongly that yes, yes it is.</p>\n",
+				"content_text": "Is quiet time on the beach good for the soul? I feel strongly that yes, yes it is.\n",
+				"date_published": "2022-07-26T09:36:38-05:00",
+				"url": "https://1-1.hjalmer.com/2022/07/26/is-quiet-time.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/07/24/scrapple-with-breakfast.html",
+				
+				"content_html": "<p>Scrapple with breakfast this morning. Cooking it well is a challenge, but I think I met it.</p>\n",
+				"content_text": "Scrapple with breakfast this morning. Cooking it well is a challenge, but I think I met it.\n",
+				"date_published": "2022-07-24T09:44:07-05:00",
+				"url": "https://1-1.hjalmer.com/2022/07/24/scrapple-with-breakfast.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/07/24/it-has-been.html",
+				
+				"content_html": "<p>It has been a while since I have road-tripped to the east coast of the US—maybe ten or 12 years since I have done it by car. I am astonished by the lengths of road that are all now 3 and 4 lanes in each direction. The amount and the scale of the roadways around the DC area continue to awe. My little midwestern cities are simply adorable by comparison.</p>\n",
+				"content_text": "It has been a while since I have road-tripped to the east coast of the US—maybe ten or 12 years since I have done it by car. I am astonished by the lengths of road that are all now 3 and 4 lanes in each direction. The amount and the scale of the roadways around the DC area continue to awe. My little midwestern cities are simply adorable by comparison.  \n",
+				"date_published": "2022-07-24T09:06:58-05:00",
+				"url": "https://1-1.hjalmer.com/2022/07/24/it-has-been.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/07/22/prepping-packing-and.html",
 				
 				"content_html": "<p>Prepping, packing and then loading the vehicle always takes longer than the time allotted. Nevertheless we have done the things and the journey has begun. Hoping to see ocean inside of the next 36 hours.</p>\n",
