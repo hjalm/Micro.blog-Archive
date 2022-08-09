@@ -7,10 +7,53 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/08/08/that-feeling-when.html",
+				
+				"content_html": "<p>That feeling when you and your significant other agree on the great candy from childhood.</p>\n",
+				"content_text": "That feeling when you and your significant other agree on the great candy from childhood. \n",
+				"date_published": "2022-08-08T20:47:43-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/08/that-feeling-when.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/08/05/last-night-of.html",
+				
+				"content_html": "<p>Last night of vacation. So bittersweet. Enjoying one more night on the porch knowing we need to get our things ready for the road trip home. Tomorrow night we will be in a hotel almost 700 miles away, but only half way home. Monday morning brings back the regular work week.</p>\n",
+				"content_text": "Last night of vacation. So bittersweet. Enjoying one more night on the porch knowing we need to get our things ready for the road trip home. Tomorrow night we will be in a hotel almost 700 miles away, but only half way home. Monday morning brings back the regular work week. \n",
+				"date_published": "2022-08-05T19:21:16-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/05/last-night-of.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/08/01/rainbow-at-sunset.html",
+				
+				"content_html": "<p>Rainbow at sunset</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Rainbow at sunset\n\n<img src=\"uploads/2022/9f517cd452.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-01T19:07:29-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/01/rainbow-at-sunset.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/08/01/on-roanoke-sound.html",
+				
+				"content_html": "<p>On Roanoke Sound</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "On Roanoke Sound\n\n<img src=\"uploads/2022/69694261d1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/5edb83b8b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-01T14:05:26-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/01/on-roanoke-sound.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/07/31/sunrise-obx.html",
+				
+				"content_html": "<p>Sunrise #OBX</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sunrise #OBX\n\n<img src=\"uploads/2022/64074fedb7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-07-31T05:30:03-05:00",
+				"url": "https://1-1.hjalmer.com/2022/07/31/sunrise-obx.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/07/30/air-temp-f.html",
 				
 				"content_html": "<p>Air temp: 80F, water temp: 80F No chance of rain for the next several hours. No place to be for several hours.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Air temp: 80F, water temp: 80F No chance of rain for the next several hours. No place to be for several hours. \n\n<img src=\"uploads/2022/85399188a9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Air temp: 80F, water temp: 80F No chance of rain for the next several hours. No place to be for several hours. \n\n<img src=\"https://1-1.hjalmer.com/uploads/2022/85399188a9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-30T10:51:07-05:00",
 				"url": "https://1-1.hjalmer.com/2022/07/30/air-temp-f.html",
 				"tags": ["Photos"]
@@ -27,7 +70,7 @@
 				"id": "http://hjalm.micro.blog/2022/07/27/at-the-beach.html",
 				
 				"content_html": "<p>At the beach #OBX #KillDevilHills</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At the beach #OBX #KillDevilHills\n\n<img src=\"uploads/2022/120d87363a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "At the beach #OBX #KillDevilHills\n\n<img src=\"https://1-1.hjalmer.com/uploads/2022/120d87363a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-27T13:25:26-05:00",
 				"url": "https://1-1.hjalmer.com/2022/07/27/at-the-beach.html",
 				"tags": ["Photos"]
