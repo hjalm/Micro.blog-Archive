@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/08/17/as-a-person.html",
+				
+				"content_html": "<p>As a person old enough to remember junk food (case in point, that phrase) before health scares, I am disappointed that my salty snacks aren’t as salty as they used to be.</p>\n",
+				"content_text": "As a person old enough to remember junk food (case in point, that phrase) before health scares, I am disappointed that my salty snacks aren’t as salty as they used to be. \n",
+				"date_published": "2022-08-17T21:13:39-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/17/as-a-person.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/08/14/loss-of-smell.html",
+				
+				"content_html": "<p>Loss of smell and taste is a quality of life thing that is not to be underestimated. Hope this is really temporary</p>\n",
+				"content_text": "Loss of smell and taste is a quality of life thing that is not to be underestimated. Hope this is really temporary \n",
+				"date_published": "2022-08-14T09:17:48-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/14/loss-of-smell.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/08/12/blast-it-home.html",
+				
+				"content_html": "<p>Blast it. Home test tonight says COVID.</p>\n",
+				"content_text": "Blast it. Home test tonight says COVID. \n",
+				"date_published": "2022-08-12T22:14:56-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/12/blast-it-home.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/08/10/if-you-liken.html",
+				
+				"content_html": "<p>If you liken the MRI experience to Noise Core, and think about how some of the sounds would feel set to beats and sent through a wall of bass drivers, it’s easier to get through</p>\n",
+				"content_text": "If you liken the MRI experience to Noise Core, and think about how some of the sounds would feel set to beats and sent through a wall of bass drivers, it’s easier to get through \n",
+				"date_published": "2022-08-10T16:08:44-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/10/if-you-liken.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/08/10/i-am-continually.html",
+				
+				"content_html": "<p>I am continually disappointed by my inability to type the simplest phrase without miskeying a great deal (including this post). Autocorrect is a wholly separate issue, but I&rsquo;m starting to feel cannot be blamed—based on my horrific input.</p>\n",
+				"content_text": "I am continually disappointed by my inability to type the simplest phrase without miskeying a great deal (including this post). Autocorrect is a wholly separate issue, but I'm starting to feel cannot be blamed—based on my horrific input.\n",
+				"date_published": "2022-08-10T11:04:34-05:00",
+				"url": "https://1-1.hjalmer.com/2022/08/10/i-am-continually.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/08/08/that-feeling-when.html",
 				
 				"content_html": "<p>That feeling when you and your significant other agree on the great candy from childhood.</p>\n",
@@ -26,7 +66,7 @@
 				"id": "http://hjalm.micro.blog/2022/08/01/rainbow-at-sunset.html",
 				
 				"content_html": "<p>Rainbow at sunset</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rainbow at sunset\n\n<img src=\"uploads/2022/9f517cd452.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Rainbow at sunset\n\n<img src=\"https://1-1.hjalmer.com/uploads/2022/9f517cd452.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-01T19:07:29-05:00",
 				"url": "https://1-1.hjalmer.com/2022/08/01/rainbow-at-sunset.html",
 				"tags": ["Photos"]
@@ -35,7 +75,7 @@
 				"id": "http://hjalm.micro.blog/2022/08/01/on-roanoke-sound.html",
 				
 				"content_html": "<p>On Roanoke Sound</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "On Roanoke Sound\n\n<img src=\"uploads/2022/69694261d1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/5edb83b8b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "On Roanoke Sound\n\n<img src=\"https://1-1.hjalmer.com/uploads/2022/69694261d1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://1-1.hjalmer.com/uploads/2022/5edb83b8b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-01T14:05:26-05:00",
 				"url": "https://1-1.hjalmer.com/2022/08/01/on-roanoke-sound.html",
 				"tags": ["Photos"]
@@ -44,7 +84,7 @@
 				"id": "http://hjalm.micro.blog/2022/07/31/sunrise-obx.html",
 				
 				"content_html": "<p>Sunrise #OBX</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunrise #OBX\n\n<img src=\"uploads/2022/64074fedb7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sunrise #OBX\n\n<img src=\"https://1-1.hjalmer.com/uploads/2022/64074fedb7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-31T05:30:03-05:00",
 				"url": "https://1-1.hjalmer.com/2022/07/31/sunrise-obx.html",
 				"tags": ["Photos"]
