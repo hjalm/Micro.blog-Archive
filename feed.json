@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/10/01/status.html",
+				
+				"content_html": "<p>Status</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Status\n\n<img src=\"uploads/2022/3410bfcac5.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2022-10-01T20:23:13-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/01/status.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/01/which-reminds-me.html",
+				
+				"content_html": "<p>Which reminds me: All progress bars lie.</p>\n",
+				"content_text": "Which reminds me: All progress bars lie. \n",
+				"date_published": "2022-10-01T17:13:47-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/01/which-reminds-me.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/01/grateful-for-applecare.html",
+				
+				"content_html": "<p>Grateful for AppleCare replacing a damaged display. Clean start with the hard drive wiped for service, but I forgot how for back the original OS was. Currently hammering my internet connection and watching progress bars</p>\n",
+				"content_text": "Grateful for AppleCare replacing a damaged display. Clean start with the hard drive wiped for service, but I forgot how for back the original OS was. Currently hammering my internet connection and watching progress bars\n",
+				"date_published": "2022-10-01T16:43:28-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/01/grateful-for-applecare.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/01/recommend-sapiensorg.html",
+				
+				"content_html": "<p>Recommend: <a href=\"https://www.sapiens.org/\">Sapiens.org</a></p>\n",
+				"content_text": "Recommend: [Sapiens.org](https://www.sapiens.org/)\n",
+				"date_published": "2022-10-01T11:24:20-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/01/recommend-sapiensorg.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/09/30/did-you-ever.html",
+				
+				"content_html": "<p>Did you ever have a day at work where you came face to face with change, where the documented processes in the knowledge base are simply wrong because the tools and access needed are different? Today was that day for me. Top to bottom.</p>\n",
+				"content_text": "Did you ever have a day at work where you came face to face with change, where the documented processes in the knowledge base are simply wrong because the tools and access needed are different? Today was that day for me. Top to bottom.\n",
+				"date_published": "2022-09-30T20:00:35-05:00",
+				"url": "https://1-1.hjalmer.com/2022/09/30/did-you-ever.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/09/30/tips-inapp-on.html",
+				
+				"content_html": "<p>Tips in-app on the Apple Watch. Well played! And thank you.</p>\n",
+				"content_text": "Tips in-app on the Apple Watch. Well played! And thank you.\n",
+				"date_published": "2022-09-30T19:46:07-05:00",
+				"url": "https://1-1.hjalmer.com/2022/09/30/tips-inapp-on.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/09/30/executive-dysfunction-spending.html",
+				
+				"content_html": "<p>Executive Dysfunction: Spending time looking for my coffee only to conclude that I drank the coffee and threw the cup away at some point previously. Hypothesis confirmed by seeing the paper cup in my trash can.</p>\n",
+				"content_text": "Executive Dysfunction: Spending time looking for my coffee only to conclude that I drank the coffee and threw the cup away at some point previously. Hypothesis confirmed by seeing the paper cup in my trash can.\n",
+				"date_published": "2022-09-30T12:20:54-05:00",
+				"url": "https://1-1.hjalmer.com/2022/09/30/executive-dysfunction-spending.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/09/26/advertisers-this-is.html",
 				
 				"content_html": "<p>Advertisers, this is Gen X speaking: Yello’s <em>Oh Yeah</em> was overused by the mid-90’s (the late 1900’s, as the kids on TikTok say). At this point it’s making me look the other way out of spite.  There’s other, awesome music. Try a little?</p>\n",
