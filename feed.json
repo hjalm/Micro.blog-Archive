@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/10/16/im-worried-about.html",
+				
+				"content_html": "<p>I’m worried about home sharing of media via Apple Home Sharing.</p>\n<p>I’m running a lot of beta software so this might be premature, but my MacBook isn’t sharing movies I have purchased and downloaded from Apple.</p>\n<p>I’m speculating the future will be all cloud and only cloud.</p>\n",
+				"content_text": "I’m worried about home sharing of media via Apple Home Sharing.\n\nI’m running a lot of beta software so this might be premature, but my MacBook isn’t sharing movies I have purchased and downloaded from Apple.\n\nI’m speculating the future will be all cloud and only cloud.\n",
+				"date_published": "2022-10-16T20:44:26-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/16/im-worried-about.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/14/i-did-not.html",
+				
+				"content_html": "<p>I did not expect the snow. But it is Minnesota so here we are.</p>\n",
+				"content_text": "I did not expect the snow. But it is Minnesota so here we are. \n",
+				"date_published": "2022-10-14T07:06:48-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/14/i-did-not.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/13/printer-wanted-yellow.html",
+				
+				"content_html": "<p>Printer wanted yellow ink. Would not print without. Ordered and installed yellow cartridge. Printer still won’t print now because it’s out of cyan and black. So I’m ordering those and magenta.</p>\n",
+				"content_text": "Printer wanted yellow ink. Would not print without. Ordered and installed yellow cartridge. Printer still won’t print now because it’s out of cyan and black. So I’m ordering those and magenta. \n",
+				"date_published": "2022-10-13T17:38:45-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/13/printer-wanted-yellow.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/10/may-i-suggest.html",
+				
+				"content_html": "<p>May I suggest, as your support person, that your project includes discussion of user experience up front? Addressing the user experience after the project is complete will cause pain in your organization.`</p>\n",
+				"content_text": "May I suggest, as your support person, that your project includes discussion of user experience up front? Addressing the user experience after the project is complete will cause pain in your organization.`\n",
+				"date_published": "2022-10-10T12:20:24-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/10/may-i-suggest.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/10/scheduling-conference-rooms.html",
+				
+				"content_html": "<p>Scheduling conference rooms seems like it should be a no-brainer. Introduce any technology, however, and now you have nuance—and long, recurring discussions about who can and can&rsquo;t, and how to make it as simple as possible, but not simpler.</p>\n",
+				"content_text": "Scheduling conference rooms seems like it should be a no-brainer. Introduce any technology, however, and now you have nuance—and long, recurring discussions about who can and can't, and how to make it as simple as possible, but not simpler.\n",
+				"date_published": "2022-10-10T12:16:28-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/10/scheduling-conference-rooms.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/10/09/the-plan-of.html",
 				
 				"content_html": "<p>The plan of Political Action Committees seems to be: put more attack ads in the middle of unrelated programming. It isnt helping. We deserve better. I don’t care about candidate endorsement. I don’t trust the propaganda of any political party. I do listen and watch and vote.</p>\n",
