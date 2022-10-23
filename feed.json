@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/10/23/we-are-slowly.html",
+				
+				"content_html": "<p>We are slowly making permanent changes to our home, culminating in a big bang in coming months. I felt bad today, cutting out some yew from the front of our house to make it easier to re-side later. Most likely the yew were planted by the first family that lived in the home, not long after it was built. One of the branches had 46 growth rings.</p>\n",
+				"content_text": "We are slowly making permanent changes to our home, culminating in a big bang in coming months. I felt bad today, cutting out some yew from the front of our house to make it easier to re-side later. Most likely the yew were planted by the first family that lived in the home, not long after it was built. One of the branches had 46 growth rings.\n",
+				"date_published": "2022-10-23T15:49:47-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/23/we-are-slowly.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/21/this-morning-an.html",
+				
+				"content_html": "<p>This morning an industrial track hit just right as I pulled into the parking lot at work. I turned it up so the baseline and that staccato kick drum made my car shake. And I finished my coffee.</p>\n",
+				"content_text": "This morning an industrial track hit just right as I pulled into the parking lot at work. I turned it up so the baseline and that staccato kick drum made my car shake. And I finished my coffee.  \n",
+				"date_published": "2022-10-21T09:10:43-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/21/this-morning-an.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/17/random-speculation-for.html",
+				
+				"content_html": "<p>Random speculation for Apple Fans: I doubt Apple is going to release an iPad dock if they aren&rsquo;t also introducing inductive charging. Using the same charging method as the Magic Keyboad case, it would have to allow for (or be) multiple sizes—not something I expect from Apple.</p>\n",
+				"content_text": "Random speculation for Apple Fans: I doubt Apple is going to release an iPad dock if they aren't also introducing inductive charging. Using the same charging method as the Magic Keyboad case, it would have to allow for (or be) multiple sizes—not something I expect from Apple.\n",
+				"date_published": "2022-10-17T13:28:17-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/17/random-speculation-for.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/10/17/i-think-this.html",
+				
+				"content_html": "<p>I think this is a valid question: can&rsquo;t we make sure the perforations included for sizing a paper towel actually requre less force than randomly tearing bits of paper off of the roll? Toilet paper people, I&rsquo;m looking at you, too.</p>\n",
+				"content_text": "I think this is a valid question: can't we make sure the perforations included for sizing a paper towel actually requre less force than randomly tearing bits of paper off of the roll? Toilet paper people, I'm looking at you, too.\n",
+				"date_published": "2022-10-17T13:15:13-05:00",
+				"url": "https://1-1.hjalmer.com/2022/10/17/i-think-this.html",
+				"tags": ["Curious"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/10/16/im-worried-about.html",
 				
 				"content_html": "<p>I’m worried about home sharing of media via Apple Home Sharing.</p>\n<p>I’m running a lot of beta software so this might be premature, but my MacBook isn’t sharing movies I have purchased and downloaded from Apple.</p>\n<p>I’m speculating the future will be all cloud and only cloud.</p>\n",
