@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/11/09/notification-fatigue-i.html",
+				
+				"content_html": "<p>Notification Fatigue:</p>\n<p>I read the message on my watch. I clear the notice on my iPhone screen, then I launch the Messages app to clear the notification on the app icon.</p>\n<p>In Apple’s house, using apps and hardware they themselves designed, I expect that to be a cleaner experience.</p>\n",
+				"content_text": "Notification Fatigue:\n\nI read the message on my watch. I clear the notice on my iPhone screen, then I launch the Messages app to clear the notification on the app icon.\n\nIn Apple’s house, using apps and hardware they themselves designed, I expect that to be a cleaner experience. \n",
+				"date_published": "2022-11-09T17:03:26-05:00",
+				"url": "https://1-1.hjalmer.com/2022/11/09/notification-fatigue-i.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/11/08/i-voted-my.html",
+				
+				"content_html": "<p>I voted my conscience. I choose to see voting as my responsibility, and I am grateful I live in a place where we can respectfully and privately add our input.</p>\n",
+				"content_text": "I voted my conscience. I choose to see voting as my responsibility, and I am grateful I live in a place where we can respectfully and privately add our input.\n",
+				"date_published": "2022-11-08T19:05:43-05:00",
+				"url": "https://1-1.hjalmer.com/2022/11/08/i-voted-my.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/11/01/is-this-our.html",
 				
 				"content_html": "<p><a href=\"https://lifehacker.com/is-this-our-last-daylight-saving-time-change-1849728556\">Is This Our Last Daylight Saving Time Change?</a></p>\n<p>Yeah: No.</p>\n<p>I still support ending the madness. Pick one and make it stick.</p>\n<p>Please.</p>\n",
