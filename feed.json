@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/11/14/this-just-in.html",
+				
+				"content_html": "<p>This just in: King size matresses resist. They do not want to be moved.</p>\n",
+				"content_text": "This just in: King size matresses resist. They do not want to be moved. \n",
+				"date_published": "2022-11-14T21:27:46-05:00",
+				"url": "https://1-1.hjalmer.com/2022/11/14/this-just-in.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/11/14/minnesota-where-we.html",
+				
+				"content_html": "<p>Minnesota, where we love to bitch about the weather and double or triple commute times. And, we chuckle at recent transplants who haven’t been through a full season, yet. Oh, and we are getting 3-5 inches today, and then the possibility of snow over the next three days.</p>\n",
+				"content_text": "Minnesota, where we love to bitch about the weather and double or triple commute times. And, we chuckle at recent transplants who haven’t been through a full season, yet. Oh, and we are getting 3-5 inches today, and then the possibility of snow over the next three days.\n",
+				"date_published": "2022-11-14T11:28:48-05:00",
+				"url": "https://1-1.hjalmer.com/2022/11/14/minnesota-where-we.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/11/11/i-dont-wanna.html",
+				
+				"content_html": "<p>“…I don&rsquo;t wanna belong to the… to any of it. I just wanna be…”</p>\n<p>—Iggy Pop sampled in Crystal Method’s <em><a href=\"https://music.apple.com/us/album/post-punk/1608253530?i=1608253927\">Post Punk</a></em></p>\n<p>I still maintain it’s difficult not to put a little swagger into your step when Crystal Method is stimulating your auditory nerves.</p>\n",
+				"content_text": "“…I don't wanna belong to the… to any of it. I just wanna be…”\n\n—Iggy Pop sampled in Crystal Method’s _[Post Punk](https://music.apple.com/us/album/post-punk/1608253530?i=1608253927)_ \n\nI still maintain it’s difficult not to put a little swagger into your step when Crystal Method is stimulating your auditory nerves. \n",
+				"date_published": "2022-11-11T19:16:36-05:00",
+				"url": "https://1-1.hjalmer.com/2022/11/11/i-dont-wanna.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/11/10/found-my-firstgen.html",
+				
+				"content_html": "<p>Found my first-Gen AirPods Pro in an easy chair that I sit in daily. Reported them lost in the Find My app. My phone was often within 2 or 3 feet of where I found them. Found them when looking in the chair for my phone. Possibly the metal chair mechanism blocked signal?</p>\n",
+				"content_text": "Found my first-Gen AirPods Pro in an easy chair that I sit in daily. Reported them lost in the Find My app. My phone was often within 2 or 3 feet of where I found them. Found them when looking in the chair for my phone. Possibly the metal chair mechanism blocked signal? \n",
+				"date_published": "2022-11-10T22:06:20-05:00",
+				"url": "https://1-1.hjalmer.com/2022/11/10/found-my-firstgen.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/11/09/notification-fatigue-i.html",
 				
 				"content_html": "<p>Notification Fatigue:</p>\n<p>I read the message on my watch. I clear the notice on my iPhone screen, then I launch the Messages app to clear the notification on the app icon.</p>\n<p>In Apple’s house, using apps and hardware they themselves designed, I expect that to be a cleaner experience.</p>\n",
