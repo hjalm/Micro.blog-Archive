@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2022/12/31/gateful-for-saturdays.html",
+				
+				"content_html": "<p>Gateful for Saturdays with no plans and nothing urgent. Grateful for cold brew coffee and half-and-half. Grateful for warm snuggly dogs.</p>\n",
+				"content_text": "Gateful for Saturdays with no plans and nothing urgent. Grateful for cold brew coffee and half-and-half. Grateful for warm snuggly dogs.\n",
+				"date_published": "2022-12-31T13:18:11-06:00",
+				"url": "https://1-1.hjalmer.com/2022/12/31/gateful-for-saturdays.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/12/28/the-end-of.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>The end of an era: <a href=\"https://www.commonrootscafe.com/thanks-for-the-memories\">Common Roots is closed</a>.</p>\n<p>They were a really integral part of making my wedding day amazing.</p>\n",
+				"date_published": "2022-12-28T22:53:22-06:00",
+				"url": "https://1-1.hjalmer.com/2022/12/28/the-end-of.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/12/28/i-just-wanted.html",
+				"title": "I just wanted to watch a YouTube video on my AppleTV.",
+				"content_html": "<p>We were going to check out a comedian&rsquo;s set after seeing a snippet on Tiktok.</p>\n<p>Even though the TV audio was set as one of the Apple TV audio outputs, sound from the Apple TV was only playing via a HomePod Mini in a different room. I had to leave the YouTube app and the video I was watching to go into the system settings to set the audio output to the TV speakers only.</p>\n<p>But that didn&rsquo;t fix the problem. The TV showed the volume was responding to the remote control, but there was still no sound.</p>\n<p>Switching to Apple Music gave the same result. No audio. No clicks, no pops, just silence.</p>\n<p>Back to system settings to restart the Apple TV.</p>\n<p>That &ldquo;worked.&rdquo; I&rsquo;m getting system sounds now as I move the focus and make selections.</p>\n<p>I relaunched the YouTube app to watch the video I had previously started. YouTube makes no effort to remember what was happaneing previously, not the video nor my place in it. At least the app remembered my search.</p>\n<p>Now, the audio is playing correctly, but the HDMI pass-through for volume control isn&rsquo;t working. This means I have to restart my TV, via a hard power cycle.</p>\n<p>I&rsquo;ve been supporting technology for a long time, and I understand everything that can go wrong. On good days I&rsquo;m grateful that everything works as well as it does as often as it does. But we aren&rsquo;t doing ourselves any favors with the complexity.</p>\n<p>I have to reset both the Apple TV and the TV itself to get everything back to <em>nominal</em> operation. I&rsquo;m not doing anything unsupported, but the electronics and the software fail with alarming and disappointing regularity.</p>\n<p>It&rsquo;s no wonder people hate technology. This is so stupid.</p>\n<p>Also broken? The iPhone QR scanning functionality. Because I wanted to sign into the YouTube app without booting my laptop. The YouTube app on the Apple TV and on my iPhone are allegedly supposed to be able to detect one-another to validate my sign-in. Naturally this detection failed, even after several tries. Method two is to scan a QR code. Allegedly, the QR Scanner function from the iPhone Control Center opens links in Safari, but God help you if you have to switch away for a Multi-Factor Authentication code in a different iPhone app. Because whatever you were doing just disappeared and you have to start again. While you&rsquo;re doing so, your authenticator code times out, so that is a wholly broken system and that verification method necessarily failed. There&rsquo;s also no sharing the shortcut from the QR code to open in an instance of Safari—because apparently you&rsquo;re already there, in a way that is ephemeral beyond belief. You can leave any time you like but you can never come back.</p>\n<p>Fortunately I could get a code via SMS and Apple did thoughtfully allow me to easily paste that code from the clipboard into the authenticaton screen without having to switch to the messaging app or the code generator app.</p>\n<p>I get it. It&rsquo;s not necessarily the Apple TV on its own, it&rsquo;s not the TV on its own. But isn&rsquo;t it? Are these devices designed to a spec or aren&rsquo;t they?</p>\n<p>I don&rsquo;t know. It works unless it doesn&rsquo;t. It seems so dumb that everything suddenly requires a full reset to return to normal operation.</p>\n<p>Thank you for reading my rant. It&rsquo;s my frustration at doing what seems to be all of the right things but still having consequences I can&rsquo;t control or remediate.</p>\n<p>I&rsquo;m sure the engineers who design these things can tell me why I&rsquo;m being unreasonable.</p>\n",
+				"content_text": "We were going to check out a comedian's set after seeing a snippet on Tiktok.\n\nEven though the TV audio was set as one of the Apple TV audio outputs, sound from the Apple TV was only playing via a HomePod Mini in a different room. I had to leave the YouTube app and the video I was watching to go into the system settings to set the audio output to the TV speakers only.\n\nBut that didn't fix the problem. The TV showed the volume was responding to the remote control, but there was still no sound.\n\nSwitching to Apple Music gave the same result. No audio. No clicks, no pops, just silence.\n\nBack to system settings to restart the Apple TV.\n\nThat \"worked.\" I'm getting system sounds now as I move the focus and make selections.\n\nI relaunched the YouTube app to watch the video I had previously started. YouTube makes no effort to remember what was happaneing previously, not the video nor my place in it. At least the app remembered my search.\n\nNow, the audio is playing correctly, but the HDMI pass-through for volume control isn't working. This means I have to restart my TV, via a hard power cycle.\n\nI've been supporting technology for a long time, and I understand everything that can go wrong. On good days I'm grateful that everything works as well as it does as often as it does. But we aren't doing ourselves any favors with the complexity.\n\nI have to reset both the Apple TV and the TV itself to get everything back to _nominal_ operation. I'm not doing anything unsupported, but the electronics and the software fail with alarming and disappointing regularity.\n\nIt's no wonder people hate technology. This is so stupid.\n\nAlso broken? The iPhone QR scanning functionality. Because I wanted to sign into the YouTube app without booting my laptop. The YouTube app on the Apple TV and on my iPhone are allegedly supposed to be able to detect one-another to validate my sign-in. Naturally this detection failed, even after several tries. Method two is to scan a QR code. Allegedly, the QR Scanner function from the iPhone Control Center opens links in Safari, but God help you if you have to switch away for a Multi-Factor Authentication code in a different iPhone app. Because whatever you were doing just disappeared and you have to start again. While you're doing so, your authenticator code times out, so that is a wholly broken system and that verification method necessarily failed. There's also no sharing the shortcut from the QR code to open in an instance of Safari—because apparently you're already there, in a way that is ephemeral beyond belief. You can leave any time you like but you can never come back.\n\nFortunately I could get a code via SMS and Apple did thoughtfully allow me to easily paste that code from the clipboard into the authenticaton screen without having to switch to the messaging app or the code generator app.\n\nI get it. It's not necessarily the Apple TV on its own, it's not the TV on its own. But isn't it? Are these devices designed to a spec or aren't they?\n\nI don't know. It works unless it doesn't. It seems so dumb that everything suddenly requires a full reset to return to normal operation.\n\nThank you for reading my rant. It's my frustration at doing what seems to be all of the right things but still having consequences I can't control or remediate.\n\nI'm sure the engineers who design these things can tell me why I'm being unreasonable.\n",
+				"date_published": "2022-12-28T14:08:11-06:00",
+				"url": "https://1-1.hjalmer.com/2022/12/28/i-just-wanted.html",
+				"tags": ["Status","Experiential"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/12/26/elon-musk-was.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/commentisfree/2022/dec/21/elon-musk-liberal-twitter-plans-benevolent\">Elon Musk was never a liberal, and his plans for Twitter were never benevolent - Thomas Zimmer - The Guardian</a></p>\n<p>It’s not just me.</p>\n",
+				"content_text": " [Elon Musk was never a liberal, and his plans for Twitter were never benevolent - Thomas Zimmer - The Guardian](https://www.theguardian.com/commentisfree/2022/dec/21/elon-musk-liberal-twitter-plans-benevolent)\n\nIt’s not just me. \n",
+				"date_published": "2022-12-26T18:08:06-06:00",
+				"url": "https://1-1.hjalmer.com/2022/12/26/elon-musk-was.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/12/26/im-thinking-about.html",
+				
+				"content_html": "<p>I’m thinking about the uncertainty that I have, and that I see others demonstrate, regarding social media services. Do I hang on, hoping for the best, or do I cut ties because I can provably show toxicity? If I cut ties, am I abdicating responsibility? How responsible am I?</p>\n",
+				"content_text": "I’m thinking about the uncertainty that I have, and that I see others demonstrate, regarding social media services. Do I hang on, hoping for the best, or do I cut ties because I can provably show toxicity? If I cut ties, am I abdicating responsibility? How responsible am I?\n",
+				"date_published": "2022-12-26T16:25:23-06:00",
+				"url": "https://1-1.hjalmer.com/2022/12/26/im-thinking-about.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/12/26/our-social-media.html",
+				
+				"content_html": "<p>Our social media is imperfect, like we are. All of our good intentions come back to us with their unintended consequences. And there it is, all on the record.</p>\n",
+				"content_text": "Our social media is imperfect, like we are. All of our good intentions come back to us with their unintended consequences. And there it is, all on the record.\n",
+				"date_published": "2022-12-26T16:20:12-06:00",
+				"url": "https://1-1.hjalmer.com/2022/12/26/our-social-media.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2022/12/25/perhaps-moreso-on.html",
+				
+				"content_html": "<p>Perhaps moreso on the holidays than at other times, but always:</p>\n<p>There are too many dirty dishes to do your kitchen prep.</p>\n<p>The bag for the garbage can was just changed, how is it so full?</p>\n<p>How has it already been a week since I did the laundry?</p>\n",
+				"content_text": "Perhaps moreso on the holidays than at other times, but always:\n\nThere are too many dirty dishes to do your kitchen prep.\n\nThe bag for the garbage can was just changed, how is it so full?\n\nHow has it already been a week since I did the laundry?\n",
+				"date_published": "2022-12-25T15:47:07-06:00",
+				"url": "https://1-1.hjalmer.com/2022/12/25/perhaps-moreso-on.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/12/25/watched-its-a.html",
 				
 				"content_html": "<p>Watched <em>It’s a Wonderful Life</em>, again, today. I’m not sure how many times I’ve seen it from start to finish. It’s easy to point to the happy ending to instantly paint it as “Hollywood” or too simplistic. But if you’re a survivor, the titular message is profound.</p>\n",
