@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/01/01/today-i-was.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>Today, I was reminded that I am in fact a Vikings fan. And tonight’s loss affected my mood in a way that I’m not proud of.</p>\n",
+				"date_published": "2023-01-01T20:55:38-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/01/today-i-was.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2022/12/31/gateful-for-saturdays.html",
 				
 				"content_html": "<p>Gateful for Saturdays with no plans and nothing urgent. Grateful for cold brew coffee and half-and-half. Grateful for warm snuggly dogs.</p>\n",
