@@ -7,6 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/01/26/i-just-saw.html",
+				
+				"content_html": "<p>I just saw an ad for the 50th anniversary of <em>Schoolhouse Rock</em>.</p>\n<p>I can’t even.</p>\n<p>Also? An interjection starts your sentence right.</p>\n",
+				"content_text": "I just saw an ad for the 50th anniversary of _Schoolhouse Rock_.\n\nI can’t even. \n\nAlso? An interjection starts your sentence right. \n",
+				"date_published": "2023-01-26T20:24:30-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/26/i-just-saw.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/01/24/first-two-episodes.html",
+				
+				"content_html": "<p>First two episodes of That 90’s Show were funny and amazingly nostalgic.</p>\n",
+				"content_text": "First two episodes of That 90’s Show were funny and amazingly nostalgic.\n",
+				"date_published": "2023-01-24T20:43:07-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/24/first-two-episodes.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/01/24/related-some-friends.html",
+				
+				"content_html": "<p>Related: Some friends of mine used to joke about wearing bandoliers for our tech daily carry. Maybe now is the time.</p>\n",
+				"content_text": "Related: Some friends of mine used to joke about wearing bandoliers for our tech daily carry. Maybe now is the time. \n",
+				"date_published": "2023-01-24T16:01:43-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/24/related-some-friends.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/01/24/my-work-phone.html",
+				
+				"content_html": "<p>My work phone, in my pocket, unbeknownst to me, while I was seated in a meeting, interpreted simultaneous button presses as the need to call emergency services. So. Now, I’m trying to suss carrying two phones in a way that doesn’t cause that problem a second time.</p>\n",
+				"content_text": "My work phone, in my pocket, unbeknownst to me, while I was seated in a meeting, interpreted simultaneous button presses as the need to call emergency services. So. Now, I’m trying to suss carrying two phones in a way that doesn’t cause that problem a second time. \n",
+				"date_published": "2023-01-24T15:51:58-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/24/my-work-phone.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/01/24/the-builtin-qr.html",
+				
+				"content_html": "<p>The built-in QR Code Scanner functionality is broken on iOS if you actually have to interact with the web page in the same way you would in a Safari session. The fact that it doesn&rsquo;t actually send the link to Safari kills me. If you switch away, it vanishes.</p>\n",
+				"content_text": "The built-in QR Code Scanner functionality is broken on iOS if you actually have to interact with the web page in the same way you would in a Safari session. The fact that it doesn't actually send the link to Safari kills me. If you switch away, it vanishes.\n",
+				"date_published": "2023-01-24T08:51:57-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/24/the-builtin-qr.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/01/23/absolutely-one-of.html",
+				
+				"content_html": "<p>Absolutely one of the best articles I have read about &ldquo;internet&rdquo; business practices: <a href=\"https://www.wired.com/story/tiktok-platforms-cory-doctorow/\">The ‘Enshittification’ of TikTok — Or how, exactly, platforms die.</a></p>\n<p>This is just one more reason to go indie.</p>\n",
+				"content_text": "Absolutely one of the best articles I have read about \"internet\" business practices: [The ‘Enshittification’ of TikTok — Or how, exactly, platforms die.](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)\r\n\r\nThis is just one more reason to go indie.\n",
+				"date_published": "2023-01-23T21:11:53-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/23/absolutely-one-of.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/01/22/the-more-i.html",
+				
+				"content_html": "<p>The more I listen with second-gen AirPods Pro, the happier I am. Kick drum and bass sound more like they would with much larger over-the-ear headphones. They&rsquo;re definitely improved over the first generation.</p>\n",
+				"content_text": "The more I listen with second-gen AirPods Pro, the happier I am. Kick drum and bass sound more like they would with much larger over-the-ear headphones. They're definitely improved over the first generation.\n",
+				"date_published": "2023-01-22T22:31:28-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/22/the-more-i.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/01/22/apple-music-infinite.html",
+				
+				"content_html": "<p>Apple Music infinite autoplay lead me to <a href=\"https://moneykills.bandcamp.com/album/money\">Money&rsquo;s <em>Money - EP</em></a> on the heels of listening to <a href=\"https://willkraus.bandcamp.com/album/path\">Kraus&rsquo;s <em>Path</em></a>. Purchased both. Listening to more Kraus ATM</p>\n",
+				"content_text": "Apple Music infinite autoplay lead me to [Money's _Money - EP_](https://moneykills.bandcamp.com/album/money) on the heels of listening to [Kraus's _Path_](https://willkraus.bandcamp.com/album/path). Purchased both. Listening to more Kraus ATM\n",
+				"date_published": "2023-01-22T22:25:35-06:00",
+				"url": "https://1-1.hjalmer.com/2023/01/22/apple-music-infinite.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/01/21/i-was-today.html",
 				
 				"content_html": "<p>I was today years old when I learned about the <a href=\"https://www.metrotransit.org/gold-line-project\">Gold Line Bus Rapid Transit Project</a> in my city. I am now likely over-subscribed on email updates from several government agencies. I had seen construction begin in many places, but did not know the connection between them all.</p>\n",
