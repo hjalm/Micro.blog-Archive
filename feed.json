@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/02/17/i-miss-my.html",
+				
+				"content_html": "<p>I miss my gloves. I remember I put them somewhere they would be visible, however that place was not where they belonged. One day I will find them, serendipitously. #ADHDproblems</p>\n",
+				"content_text": "I miss my gloves. I remember I put them somewhere they would be visible, however that place was not where they belonged. One day I will find them, serendipitously. #ADHDproblems\n",
+				"date_published": "2023-02-17T12:38:28-06:00",
+				"url": "https://1-1.hjalmer.com/2023/02/17/i-miss-my.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/02/14/staring-at-my.html",
+				
+				"content_html": "<p>Staring at my screen and my password just isn’t there</p>\n",
+				"content_text": "Staring at my screen and my password just isn’t there\n",
+				"date_published": "2023-02-14T09:35:31-06:00",
+				"url": "https://1-1.hjalmer.com/2023/02/14/staring-at-my.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/02/12/whos-afraid-of.html",
+				
+				"content_html": "<p><a href=\"https://www.theatlantic.com/ideas/archive/2023/02/margaret-atwood-handmaids-tale-virginia-book-ban-library-removal/673013/?utm_source=feed\">Who’s Afraid of The Handmaid’s Tale?</a> By Margaret Atwood. Lovely essay about decisions, context, and consequences. I was able to read the full article via RSS, though the web site wants you to subscribe.</p>\n",
+				"content_text": "[Who’s Afraid of The Handmaid’s Tale?](https://www.theatlantic.com/ideas/archive/2023/02/margaret-atwood-handmaids-tale-virginia-book-ban-library-removal/673013/?utm_source=feed) By Margaret Atwood. Lovely essay about decisions, context, and consequences. I was able to read the full article via RSS, though the web site wants you to subscribe.\n",
+				"date_published": "2023-02-12T15:34:22-06:00",
+				"url": "https://1-1.hjalmer.com/2023/02/12/whos-afraid-of.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/02/10/spent-some-time.html",
+				
+				"content_html": "<p>Spent some time tonight playing Hogwarts Legacy. Sorted myself into the wrong house and started making friends with the wrong people. It’s going to be fun!</p>\n",
+				"content_text": "Spent some time tonight playing Hogwarts Legacy. Sorted myself into the wrong house and started making friends with the wrong people. It’s going to be fun!\n",
+				"date_published": "2023-02-10T22:14:38-06:00",
+				"url": "https://1-1.hjalmer.com/2023/02/10/spent-some-time.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/02/09/burt-bacharach-has.html",
 				
 				"content_html": "<p>Burt Bacharach has passed. If you&rsquo;re of a certain age, he was behind a lot of music you grew up with, even if he wasn&rsquo;t the artist on the cover.</p>\n<p><a href=\"https://music.apple.com/us/song/do-you-know-the-way-to-san-jose/258596707\">Do you know the way to San Jose?</a></p>\n",
