@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/03/24/the-camera-doesnt.html",
+				
+				"content_html": "<p>The camera doesn’t show what I could see. But I’m 54 and I have never seen the night sky so full of light.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The camera doesn’t show what I could see. But I’m 54 and I have never seen the night sky so full of light. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2023/0e186a946b.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2023/d605d3a5f0.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-03-24T01:22:16-05:00",
+				"url": "https://1-1.hjalmer.com/2023/03/24/the-camera-doesnt.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/03/17/sigur-rs-is.html",
+				
+				"content_html": "<p>Sigur Rós is coming to the State Theater in Minneapolis in August. Tickets aren&rsquo;t on sale just yet</p>\n",
+				"content_text": "Sigur Rós is coming to the State Theater in Minneapolis in August. Tickets aren't on sale just yet\n",
+				"date_published": "2023-03-17T19:21:09-05:00",
+				"url": "https://1-1.hjalmer.com/2023/03/17/sigur-rs-is.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/03/17/i-think-i.html",
 				
 				"content_html": "<p>I think I learned my lesson. Twice in the last week Power Nap burned through all my battery to the point where my 2019 MacBook won’t boot for about a half hour. Assuming I can get back in before I forget, will be turning Power Nap off.</p>\n",
