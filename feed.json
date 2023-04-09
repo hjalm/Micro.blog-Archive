@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/04/09/ive-realized-now.html",
+				
+				"content_html": "<p>I&rsquo;ve realized now that, due to a series of well-meaning decisions, I&rsquo;ve probably cost myself decades of email archives. While I may be able to recover some of it, part of me is just wanting to move on. Additionally, going to be saving more of my life outside of email. Hard lesson.</p>\n",
+				"content_text": "I've realized now that, due to a series of well-meaning decisions, I've probably cost myself decades of email archives. While I may be able to recover some of it, part of me is just wanting to move on. Additionally, going to be saving more of my life outside of email. Hard lesson.\n",
+				"date_published": "2023-04-09T15:27:54-05:00",
+				"url": "https://1-1.hjalmer.com/2023/04/09/ive-realized-now.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/04/01/in-a-way.html",
+				
+				"content_html": "<p>“In a way, April Fools’ Day is now the most honest day of the year, as at least the people pranking us are willing to admit it’s all fake.”</p>\n<p>Via <a href=\"https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968\">LifeHacker</a></p>\n",
+				"content_text": "“In a way, April Fools’ Day is now the most honest day of the year, as at least the people pranking us are willing to admit it’s all fake.”\n\nVia [LifeHacker](https://lifehacker.com/the-real-history-of-april-fool-s-day-and-why-it-isn-t-1850271968)\n",
+				"date_published": "2023-04-01T21:18:11-05:00",
+				"url": "https://1-1.hjalmer.com/2023/04/01/in-a-way.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/04/01/pwned-by-lego.html",
+				
+				"content_html": "<p>Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced <a href=\"https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316\">Rivendell</a></p>\n",
+				"content_text": "Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced [Rivendell](https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316)\n",
+				"date_published": "2023-04-01T14:41:27-05:00",
+				"url": "https://1-1.hjalmer.com/2023/04/01/pwned-by-lego.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/03/31/feels-silly-to.html",
+				
+				"content_html": "<p>Feels silly to complain about snow when towns in states south of mine are getting leveled. Watch the sky and stay safe, everyone.</p>\n",
+				"content_text": "Feels silly to complain about snow when towns in states south of mine are getting leveled. Watch the sky and stay safe, everyone.\n",
+				"date_published": "2023-03-31T18:31:42-05:00",
+				"url": "https://1-1.hjalmer.com/2023/03/31/feels-silly-to.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/03/27/decided-to-finally.html",
 				
 				"content_html": "<p>Decided to finally dig into this track: <em><a href=\"https://music.apple.com/us/album/time-moves-slow/1608122086?i=1608122095\">Time Moves Slow</a></em> by BADBADNOTGOOD. I&rsquo;ve frequently heard a much sped-up version of this song, but really like this original version. Purchased this and two other tracks from the album <em><a href=\"https://music.apple.com/us/album/iv/1608122086\">IV</a></em></p>\n",
@@ -18,7 +50,7 @@
 				"id": "http://hjalm.micro.blog/2023/03/24/aurora-borealis-images.html",
 				
 				"content_html": "<p>Aurora Borealis, images taken before midnight on March 23, 2023</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Aurora Borealis, images taken before midnight on March 23, 2023\n\n<img src=\"uploads/2023/aab0e54b66.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/edfaaddda8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/6948e6ace2.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/1f91712e85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Aurora Borealis, images taken before midnight on March 23, 2023\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/aab0e54b66.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2023/edfaaddda8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2023/6948e6ace2.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2023/1f91712e85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-24T01:26:49-05:00",
 				"url": "https://1-1.hjalmer.com/2023/03/24/aurora-borealis-images.html",
 				"tags": ["Photos"]
@@ -27,7 +59,7 @@
 				"id": "http://hjalm.micro.blog/2023/03/24/the-camera-doesnt.html",
 				
 				"content_html": "<p>The camera doesn’t show what I could see. But I’m 54 and I have never seen the night sky so full of light.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The camera doesn’t show what I could see. But I’m 54 and I have never seen the night sky so full of light. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2023/0e186a946b.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2023/d605d3a5f0.png\" preload=\"none\"></video>\n",
+				"content_text": "The camera doesn’t show what I could see. But I’m 54 and I have never seen the night sky so full of light. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/4676/2023/0e186a946b.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2023/d605d3a5f0.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-03-24T01:22:16-05:00",
 				"url": "https://1-1.hjalmer.com/2023/03/24/the-camera-doesnt.html"
 			},
