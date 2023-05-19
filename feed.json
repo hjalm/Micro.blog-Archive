@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/05/19/got-this-from.html",
+				
+				"content_html": "<p>Got this from a long-time colleague at work this morning. I’m the best. I’m modest. And I don’t brag. Honestly, though, need to work to meet that.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got this from a long-time colleague at work this morning. I’m the best. I’m modest. And I don’t brag. Honestly, though, need to work to meet that. \n\n<img src=\"uploads/2023/fd6e322b06.jpg\" width=\"600\" height=\"592\" alt=\"\">\n",
+				"date_published": "2023-05-19T09:53:00-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/19/got-this-from.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/05/17/via-autoblog-i.html",
+				
+				"content_html": "<p>Via Autoblog: <a href=\"https://www.autoblog.com/2023/05/17/i-can-instantly-make-you-a-better-driver-opinion/\">I can instantly make you a better driver</a></p>\n",
+				"content_text": "Via Autoblog: [I can instantly make you a better driver](https://www.autoblog.com/2023/05/17/i-can-instantly-make-you-a-better-driver-opinion/)\n",
+				"date_published": "2023-05-17T16:02:02-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/17/via-autoblog-i.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/05/15/am-excited-about.html",
+				
+				"content_html": "<p>Am excited about news of WatchOS 10, but worried. I have a series 4 watch and my concern is either that I will be excluded from this release, or this will be the release that makes my watch run too slowly.</p>\n",
+				"content_text": "Am excited about news of WatchOS 10, but worried. I have a series 4 watch and my concern is either that I will be excluded from this release, or this will be the release that makes my watch run too slowly.\n",
+				"date_published": "2023-05-15T10:31:19-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/15/am-excited-about.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/05/14/listened-to-two.html",
+				
+				"content_html": "<p>Listened to two <a href=\"https://desertamusic.com\">Deserta</a> albums. Bought two Deserta albums. More, please!</p>\n",
+				"content_text": "Listened to two [Deserta](https://desertamusic.com) albums. Bought two Deserta albums. More, please!\n",
+				"date_published": "2023-05-14T19:13:15-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/14/listened-to-two.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/05/14/listening-to-desertas.html",
+				
+				"content_html": "<p>Listening to Deserta&rsquo;s 2020 album called <em><a href=\"https://music.apple.com/us/album/black-aura-my-sun/1486228239\">Black Aura My Sun</a></em>. It&rsquo;s somewhere between M83 and Ulrich Schnauss—as if shoegaze arrived via 80s pop, instead of via New Wave/Alternative. More synth, and less guitar.</p>\n",
+				"content_text": "Listening to Deserta's 2020 album called _[Black Aura My Sun](https://music.apple.com/us/album/black-aura-my-sun/1486228239)_. It's somewhere between M83 and Ulrich Schnauss—as if shoegaze arrived via 80s pop, instead of via New Wave/Alternative. More synth, and less guitar.\n",
+				"date_published": "2023-05-14T18:05:22-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/14/listening-to-desertas.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/05/12/always-a-treat.html",
 				
 				"content_html": "<p>Always a treat to know a favorite album hasn&rsquo;t been forgotten: <a href=\"https://boingboing.net/2023/05/12/the-ongoing-legacies-of-the-disposable-heroes-of-hiphoprisy.html\">The ongoing legacies of The Disposable Heroes of Hiphoprisy</a></p>\n",
