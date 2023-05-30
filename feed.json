@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/05/29/i-guess-it.html",
+				
+				"content_html": "<p>I guess it has begun in St. Paul with the Summer fireworks shenanigans. I hope it’s fireworks.</p>\n",
+				"content_text": "I guess it has begun in St. Paul with the Summer fireworks shenanigans. I hope it’s fireworks. \n",
+				"date_published": "2023-05-29T21:05:29-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/29/i-guess-it.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/05/29/memorial-day.html",
+				"title": "Memorial Day",
+				"content_html": "<p>I wish I could tell you more about him. He was my mother&rsquo;s mother&rsquo;s brother, a great uncle, but I never met him.</p>\n<p>My grandmother said she called him &ldquo;Jumbo,&rdquo; and she was hoping I would take to the same nickname. As an awkward preteen at the time, I didn&rsquo;t want to be associated with being overweight. I didn&rsquo;t hear the love in her request.</p>\n<p>From what I understand, he was 28 when killed in Germany. He had probably a 6th grade education and was a farm worker. I think he was working with his brothers on the family farm, which at one point was a fairly sizable operation. I don&rsquo;t know what loves he may have had and I don&rsquo;t think he had a family of his own.</p>\n<p>I never asked my grandma or my grandpa what he was like. I believe my mom has more pictures of him than the one I have seen recently, which is a very handsome man in uniform. But even what she knows is second-hand. We know people who knew him. Or knew, because time passes and people do, too.</p>\n<p>But I have his name.</p>\n<p>His death, fighting for the country and values and family he loved, is part of my story.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I wish I could tell you more about him. He was my mother's mother's brother, a great uncle, but I never met him.\r\n\r\nMy grandmother said she called him \"Jumbo,\" and she was hoping I would take to the same nickname. As an awkward preteen at the time, I didn't want to be associated with being overweight. I didn't hear the love in her request.\r\n\r\nFrom what I understand, he was 28 when killed in Germany. He had probably a 6th grade education and was a farm worker. I think he was working with his brothers on the family farm, which at one point was a fairly sizable operation. I don't know what loves he may have had and I don't think he had a family of his own.\r\n\r\nI never asked my grandma or my grandpa what he was like. I believe my mom has more pictures of him than the one I have seen recently, which is a very handsome man in uniform. But even what she knows is second-hand. We know people who knew him. Or knew, because time passes and people do, too.\r\n\r\nBut I have his name.\r\n\r\nHis death, fighting for the country and values and family he loved, is part of my story.\n\n<img src=\"uploads/2023/ec15304c50.jpg\" width=\"400\" height=\"600\" alt=\"Grave Marker for Hjalmer O Lindberg with flags\">\n",
+				"date_published": "2023-05-29T13:26:26-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/29/memorial-day.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/05/25/in-other-news.html",
+				
+				"content_html": "<p>In other news, today I learned my Nintendo Switch has the ability to be a host. Not only with a WiFi hotspot but also a web server. I haven’t done a great deal of local play with other switch owners, but I guess those technologies makes sense for group play.</p>\n",
+				"content_text": "In other news, today I learned my Nintendo Switch has the ability to be a host. Not only with a WiFi hotspot but also a web server. I haven’t done a great deal of local play with other switch owners, but I guess those technologies makes sense for group play. \n",
+				"date_published": "2023-05-25T23:05:08-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/25/in-other-news.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/05/25/have-spent-some.html",
+				
+				"content_html": "<p>Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.\n\n<img src=\"uploads/2023/873dd2e63b.jpg\" width=\"600\" height=\"337\" alt=\"Animal Crossing New Horizons  Map and Dream Address DA-3459-2622-7968\">\n",
+				"date_published": "2023-05-25T22:58:07-05:00",
+				"url": "https://1-1.hjalmer.com/2023/05/25/have-spent-some.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/05/24/there-is-a.html",
 				
 				"content_html": "<p>There is a Lime &amp; Jalapeño flavor of Ruffles that is offensely delicious and I am completely disappointed in my ability to stop eating them</p>\n",
@@ -26,7 +60,7 @@
 				"id": "http://hjalm.micro.blog/2023/05/19/got-this-from.html",
 				
 				"content_html": "<p>Got this from a long-time colleague at work this morning. I’m the best. I’m modest. And I don’t brag. Honestly, though, need to work to meet that.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got this from a long-time colleague at work this morning. I’m the best. I’m modest. And I don’t brag. Honestly, though, need to work to meet that. \n\n<img src=\"uploads/2023/fd6e322b06.jpg\" width=\"600\" height=\"592\" alt=\"\">\n",
+				"content_text": "Got this from a long-time colleague at work this morning. I’m the best. I’m modest. And I don’t brag. Honestly, though, need to work to meet that. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/fd6e322b06.jpg\" width=\"600\" height=\"592\" alt=\"\">\n",
 				"date_published": "2023-05-19T09:53:00-05:00",
 				"url": "https://1-1.hjalmer.com/2023/05/19/got-this-from.html",
 				"tags": ["Photos"]
