@@ -7,12 +7,77 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/06/27/for-a-few.html",
+				
+				"content_html": "<p>For a few minutes, I was thinking today was Thursday. I was thinking about winding my week down and what I was looking forward to on Saturday and Sunday. Then, realizing today was actually Tuesday, I have been forced to make different plans.</p>\n",
+				"content_text": "For a few minutes, I was thinking today was Thursday. I was thinking about winding my week down and what I was looking forward to on Saturday and Sunday. Then, realizing today was actually Tuesday, I have been forced to make different plans.\n",
+				"date_published": "2023-06-27T16:27:56-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/27/for-a-few.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/21/im-drinking-coffee.html",
+				
+				"content_html": "<p>I’m drinking coffee too late in the day. Still? Mmm. Delicious</p>\n",
+				"content_text": "I’m drinking coffee too late in the day. Still? Mmm. Delicious\n",
+				"date_published": "2023-06-21T14:15:46-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/21/im-drinking-coffee.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/19/unboxing-takes-time.html",
+				
+				"content_html": "<p>Unboxing takes time, but all the things are back home. It feels good. I am grateful to be back.</p>\n",
+				"content_text": "Unboxing takes time, but all the things are back home. It feels good. I am grateful to be back. \n",
+				"date_published": "2023-06-19T14:57:18-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/19/unboxing-takes-time.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/18/best-fathers-day.html",
+				
+				"content_html": "<p>Best Father’s Day gift ever: I found my wallet. Intact. Or, maybe the giant remodel we just finished and we can move in tomorrow. It’s a great day.</p>\n",
+				"content_text": "Best Father’s Day gift ever: I found my wallet. Intact. Or, maybe the giant remodel we just finished and we can move in tomorrow. It’s a great day. \n",
+				"date_published": "2023-06-18T19:40:25-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/18/best-fathers-day.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/17/on-the-other.html",
+				
+				"content_html": "<p>On the other hand, Bluesky isn&rsquo;t picking up every post, today. I&rsquo;m wondering if syndication is limited on some level or is simply not reliable yet.</p>\n",
+				"content_text": "On the other hand, Bluesky isn't picking up every post, today. I'm wondering if syndication is limited on some level or is simply not reliable yet.\n",
+				"date_published": "2023-06-17T16:18:12-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/17/on-the-other.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/17/one-feature-im.html",
+				
+				"content_html": "<p>One feature I&rsquo;m excited for in iOS 17 is the Journal. I realize, technically, I can use the Notes app for this. Every bit as much as I went back to Evernote from DayOne after I realized it, too, is a database with a UI. I&rsquo;m still interested in using native tools as much as possible. The thing with Evernote is that I can use the native client at work (Windows), and I have found the web clipping to be my favorite, so far.</p>\n",
+				"content_text": "One feature I'm excited for in iOS 17 is the Journal. I realize, technically, I can use the Notes app for this. Every bit as much as I went back to Evernote from DayOne after I realized it, too, is a database with a UI. I'm still interested in using native tools as much as possible. The thing with Evernote is that I can use the native client at work (Windows), and I have found the web clipping to be my favorite, so far.\n",
+				"date_published": "2023-06-17T16:01:10-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/17/one-feature-im.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/17/syndication-from-microblog.html",
+				
+				"content_html": "<p>Syndication from Micro.blog to Bluesky works better than to Twitter or Mastodon in that formatting and links are preserved.</p>\n",
+				"content_text": "Syndication from Micro.blog to Bluesky works better than to Twitter or Mastodon in that formatting and links are preserved.\n",
+				"date_published": "2023-06-17T15:50:43-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/17/syndication-from-microblog.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/17/dns-changes-work.html",
+				
+				"content_html": "<p>DNS changes work way better when typos are removed.</p>\n",
+				"content_text": "DNS changes work way better when typos are removed.\n",
+				"date_published": "2023-06-17T15:30:28-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/17/dns-changes-work.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/06/17/novice-that-i.html",
 				
-				"content_html": "<p>Novice that I am, made some DNS changes. Finally sunk in that I only need DNS from registrar, not also from my web host, had my host remove DNS service. Added a txt record for an experiment. If I broke something, I assume I may not know for a day or two.</p>\n",
-				"content_text": "Novice that I am, made some DNS changes. Finally sunk in that I only need DNS from registrar, not also from my web host, had my host remove DNS service. Added a txt record for an experiment. If I broke something, I assume I may not know for a day or two.\n",
+				"content_html": "<p>Novice that I am, made some DNS changes. Finally sunk in that I only need DNS from registrar, not also from my web host. Therefore I had my host remove DNS service. Added a txt record for an experiment. If I broke something, I assume I may not know for a day or two.</p>\n",
+				"content_text": "Novice that I am, made some DNS changes. Finally sunk in that I only need DNS from registrar, not also from my web host. Therefore I had my host remove DNS service. Added a txt record for an experiment. If I broke something, I assume I may not know for a day or two.\n",
 				"date_published": "2023-06-17T14:31:49-05:00",
-				"url": "https://1-1.hjalmer.com/2023/06/17/novice-that-i.html"
+				"url": "https://1-1.hjalmer.com/2023/06/17/novice-that-i.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2023/06/14/it-feels-like.html",
@@ -91,7 +156,7 @@
 				"id": "http://hjalm.micro.blog/2023/05/25/have-spent-some.html",
 				
 				"content_html": "<p>Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/873dd2e63b.jpg\" width=\"600\" height=\"337\" alt=\"Animal Crossing New Horizons  Map and Dream Address DA-3459-2622-7968\">\n",
+				"content_text": "Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.\n\n<img src=\"uploads/2023/873dd2e63b.jpg\" width=\"600\" height=\"337\" alt=\"Animal Crossing New Horizons  Map and Dream Address DA-3459-2622-7968\">\n",
 				"date_published": "2023-05-25T22:58:07-05:00",
 				"url": "https://1-1.hjalmer.com/2023/05/25/have-spent-some.html",
 				"tags": ["Photos"]
