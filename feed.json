@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/07/01/my-day-started.html",
+				
+				"content_html": "<p>My day started with disappointment in myself. I got a lot of sleep, but in doing so, I slept through plans I had for the cooler part of the day. No harm, no foul, but I still want to do all the things.</p>\n",
+				"content_text": "My day started with disappointment in myself. I got a lot of sleep, but in doing so, I slept through plans I had for the cooler part of the day. No harm, no foul, but I still want to do all the things.\n",
+				"date_published": "2023-07-01T12:51:54-05:00",
+				"url": "https://1-1.hjalmer.com/2023/07/01/my-day-started.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/29/siri-understands-lumos.html",
+				
+				"content_html": "<p>Siri understands “Lumos” and “Nox.”</p>\n",
+				"content_text": "Siri understands “Lumos” and “Nox.”\n",
+				"date_published": "2023-06-29T23:23:41-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/29/siri-understands-lumos.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/29/we-are-still.html",
+				
+				"content_html": "<p>We are still dependent on others to maintain safe spaces and store our digital things. It will be a long time before we can help each other build and maintain such things on our own. Today, we recommend products and services that are affordable, but we remain faceless consumers.</p>\n",
+				"content_text": "We are still dependent on others to maintain safe spaces and store our digital things. It will be a long time before we can help each other build and maintain such things on our own. Today, we recommend products and services that are affordable, but we remain faceless consumers.\n",
+				"date_published": "2023-06-29T21:19:25-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/29/we-are-still.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/29/my-concern-about.html",
+				
+				"content_html": "<p>My concern about the decentralized communities is the technical burden. Knowledge sufficient to launch and sustain servers and networks, maintain bandwidth, keep plenty of disk space for endless growth, and somehow also maintain time and enthusiasm to participate.</p>\n",
+				"content_text": "My concern about the decentralized communities is the technical burden. Knowledge sufficient to launch and sustain servers and networks, maintain bandwidth, keep plenty of disk space for endless growth, and somehow also maintain time and enthusiasm to participate.\n",
+				"date_published": "2023-06-29T21:13:38-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/29/my-concern-about.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/29/im-intrigued-by.html",
+				
+				"content_html": "<p>I&rsquo;m intrigued by Lemmy and Mastodon and decentralized projects. Every bit as much as ARPANET was built to be a platform for communication that can route around damage, I believe that decentralized online communities can be similarly sustainable.</p>\n",
+				"content_text": "I'm intrigued by Lemmy and Mastodon and decentralized projects. Every bit as much as ARPANET was built to be a platform for communication that can route around damage, I believe that decentralized online communities can be similarly sustainable.\n",
+				"date_published": "2023-06-29T21:09:59-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/29/im-intrigued-by.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/29/modern-tools-are.html",
+				
+				"content_html": "<p>Modern tools are suddenly very hardcore about PIN codes, passwords and biometrics. Humans are not.</p>\n<p>All I can say, as your support professional, is that it&rsquo;s time to get serious. You don&rsquo;t have to remember every password as long as you invest some time in a tool that will.</p>\n",
+				"content_text": "Modern tools are suddenly very hardcore about PIN codes, passwords and biometrics. Humans are not.\r\n\r\nAll I can say, as your support professional, is that it's time to get serious. You don't have to remember every password as long as you invest some time in a tool that will.\n",
+				"date_published": "2023-06-29T21:02:31-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/29/modern-tools-are.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/28/saints-at-bat.html",
+				
+				"content_html": "<p>Saints at bat versus the Stripers</p>\n<!-- raw HTML omitted -->\n<p>📷</p>\n<p>Storybook ending to the game: Saints were down by one at the bottom of the ninth. Bases were loaded after 2 outs. Final hit of the game hit the home run wall. Saints won, 13-9.</p>\n",
+				"content_text": "Saints at bat versus the Stripers\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n📷\n\nStorybook ending to the game: Saints were down by one at the bottom of the ninth. Bases were loaded after 2 outs. Final hit of the game hit the home run wall. Saints won, 13-9.\n",
+				"date_published": "2023-06-28T13:40:38-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/28/saints-at-bat.html",
+				"tags": ["Photos","Brilliant","Status"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/06/27/for-a-few.html",
 				
 				"content_html": "<p>For a few minutes, I was thinking today was Thursday. I was thinking about winding my week down and what I was looking forward to on Saturday and Sunday. Then, realizing today was actually Tuesday, I have been forced to make different plans.</p>\n",
@@ -69,6 +126,14 @@
 				"content_text": "DNS changes work way better when typos are removed.\n",
 				"date_published": "2023-06-17T15:30:28-05:00",
 				"url": "https://1-1.hjalmer.com/2023/06/17/dns-changes-work.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/06/17/was-thinking-about.html",
+				
+				"content_html": "<p>Was thinking about distributed discussion groups, given the state of Reddit. Then I remembered USENET. And Enshittification (<a href=\"https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys\">source</a>, <a href=\"https://kottke.org/23/01/the-enshittification-lifecycle-of-online-platforms\">source</a>). Now I&rsquo;m sad.</p>\n",
+				"content_text": "Was thinking about distributed discussion groups, given the state of Reddit. Then I remembered USENET. And Enshittification ([source](https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys), [source](https://kottke.org/23/01/the-enshittification-lifecycle-of-online-platforms)). Now I'm sad.\n",
+				"date_published": "2023-06-17T14:50:42-05:00",
+				"url": "https://1-1.hjalmer.com/2023/06/17/was-thinking-about.html"
 			},
 			{
 				"id": "http://hjalm.micro.blog/2023/06/17/novice-that-i.html",
@@ -156,7 +221,7 @@
 				"id": "http://hjalm.micro.blog/2023/05/25/have-spent-some.html",
 				
 				"content_html": "<p>Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.\n\n<img src=\"uploads/2023/873dd2e63b.jpg\" width=\"600\" height=\"337\" alt=\"Animal Crossing New Horizons  Map and Dream Address DA-3459-2622-7968\">\n",
+				"content_text": "Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/873dd2e63b.jpg\" width=\"600\" height=\"337\" alt=\"Animal Crossing New Horizons  Map and Dream Address DA-3459-2622-7968\">\n",
 				"date_published": "2023-05-25T22:58:07-05:00",
 				"url": "https://1-1.hjalmer.com/2023/05/25/have-spent-some.html",
 				"tags": ["Photos"]
@@ -9148,7 +9213,7 @@
 				"id": "http://hjalm.micro.blog/2018/10/10/a-little-trash.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>A little trash talk from a favorite vendor</p>\n",
-				"content_text": "<a href=\"http://1-1.hjalmer.com/4676/2018/cf10db5b39.jpg\"><img src=\"http://1-1.hjalmer.com/4676/2018/cf10db5b39.jpg\" width=\"600\" height=\"194\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nA little trash talk from a favorite vendor\n\n",
+				"content_text": "<a href=\"https://cdn.uploads.micro.blog/4676/2018/cf10db5b39.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/cf10db5b39.jpg\" width=\"600\" height=\"194\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nA little trash talk from a favorite vendor\n\n",
 				"date_published": "2018-10-10T09:43:22-05:00",
 				"url": "https://1-1.hjalmer.com/2018/10/10/a-little-trash.html",
 				"tags": ["Photos"]
@@ -9157,7 +9222,7 @@
 				"id": "http://hjalm.micro.blog/2018/09/23/going-to-learn.html",
 				
 				"content_html": "<p>Going to learn about how an iPhone and a Kindle Fire work with an external keyboard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Going to learn about how an iPhone and a Kindle Fire work with an external keyboard.\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/a63b609d21.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Going to learn about how an iPhone and a Kindle Fire work with an external keyboard.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/a63b609d21.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-23T15:14:23-05:00",
 				"url": "https://1-1.hjalmer.com/2018/09/23/going-to-learn.html",
 				"tags": ["Photos"]
@@ -9166,7 +9231,7 @@
 				"id": "http://hjalm.micro.blog/2018/09/22/when-you-find.html",
 				
 				"content_html": "<p>When you find an accidental selfie in your photo roll</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When you find an accidental selfie in your photo roll\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/8aa2e0c3c1.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "When you find an accidental selfie in your photo roll\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/8aa2e0c3c1.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-22T12:27:25-05:00",
 				"url": "https://1-1.hjalmer.com/2018/09/22/when-you-find.html",
 				"tags": ["Photos","Himself"]
@@ -9175,7 +9240,7 @@
 				"id": "http://hjalm.micro.blog/2018/09/19/sending-good-thoughts.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Sending good thoughts forward and hoping for the best good. It’s a privilege to be in a position to help.</p>\n",
-				"content_text": "<a href=\"http://1-1.hjalmer.com/4676/2018/ce55413ffe.jpg\"><img src=\"http://1-1.hjalmer.com/4676/2018/ce55413ffe.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSending good thoughts forward and hoping for the best good. It’s a privilege to be in a position to help. \n\n",
+				"content_text": "<a href=\"https://cdn.uploads.micro.blog/4676/2018/ce55413ffe.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/ce55413ffe.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSending good thoughts forward and hoping for the best good. It’s a privilege to be in a position to help. \n\n",
 				"date_published": "2018-09-19T10:38:59-05:00",
 				"url": "https://1-1.hjalmer.com/2018/09/19/sending-good-thoughts.html",
 				"tags": ["Photos","Himself"]
@@ -9184,7 +9249,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/31/first-exercise-set.html",
 				
 				"content_html": "<p>First exercise set is to get the equipment in place. Test pilot Sofia confirms all systems operational.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First exercise set is to get the equipment in place. Test pilot Sofia confirms all systems operational.\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/223c8469d5.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "First exercise set is to get the equipment in place. Test pilot Sofia confirms all systems operational.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/223c8469d5.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-08-31T16:10:04-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/31/first-exercise-set.html",
 				"tags": ["Photos"]
@@ -9193,7 +9258,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/26/225537.html",
 				"title": "Summer Sunday Back-to-School Project",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>📷 📸 #flatpack #IKEA</p>\n",
-				"content_text": "\n<a href=\"http://1-1.hjalmer.com/4676/2018/3331bfffa7.jpg\"><img src=\"http://1-1.hjalmer.com/4676/2018/3331bfffa7.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://1-1.hjalmer.com/4676/2018/5071bb8f24.jpg\"><img src=\"http://1-1.hjalmer.com/4676/2018/5071bb8f24.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n📷 📸 #flatpack #IKEA\n\n",
+				"content_text": "\n<a href=\"https://cdn.uploads.micro.blog/4676/2018/3331bfffa7.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/3331bfffa7.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/4676/2018/5071bb8f24.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/5071bb8f24.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n📷 📸 #flatpack #IKEA\n\n",
 				"date_published": "2018-08-26T17:55:37-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/26/225537.html",
 				"tags": ["Photos"]
@@ -9202,7 +9267,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/23/223546.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"http://1-1.hjalmer.com/4676/2018/7eafc2495e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/7eafc2495e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-23T17:35:46-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/23/223546.html",
 				"tags": ["Photos"]
@@ -9211,7 +9276,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/23/005450.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"http://1-1.hjalmer.com/4676/2018/8b24eb3b80.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/8b24eb3b80.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-22T19:54:50-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/22/005450.html",
 				"tags": ["Photos"]
@@ -9220,7 +9285,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/12/who-doesnt-want.html",
 				
 				"content_html": "<p>Who doesn’t want the chance to drive a fire engine?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Who doesn’t want the chance to drive a fire engine?\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/e3ff4f4919.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Who doesn’t want the chance to drive a fire engine?\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/e3ff4f4919.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-11T19:23:42-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/11/who-doesnt-want.html",
 				"tags": ["Photos","Himself"]
@@ -9229,7 +9294,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/11/201928.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"http://1-1.hjalmer.com/4676/2018/61ce9b8123.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/61ce9b8123.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2018-08-11T15:19:28-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/11/201928.html",
 				"tags": ["Photos"]
@@ -9238,7 +9303,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/11/laprsmidi-lhtel.html",
 				
 				"content_html": "<p>L’après-midi à l’hôtel</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "L’après-midi à l’hôtel\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/839af2f27d.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "L’après-midi à l’hôtel\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/839af2f27d.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-11T12:28:47-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/11/laprsmidi-lhtel.html",
 				"tags": ["Photos","Himself"]
@@ -9247,7 +9312,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/08/test-post.html",
 				"title": "Test Post",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Testing the Sunlit app for posting</p>\n",
-				"content_text": "<a href=\"http://1-1.hjalmer.com/4676/2018/876f9a04c2.jpg\"><img src=\"http://1-1.hjalmer.com/4676/2018/876f9a04c2.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nTesting the Sunlit app for posting\n\n",
+				"content_text": "<a href=\"https://cdn.uploads.micro.blog/4676/2018/876f9a04c2.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/876f9a04c2.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nTesting the Sunlit app for posting\n\n",
 				"date_published": "2018-08-07T19:22:35-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/07/test-post.html",
 				"tags": ["Photos","Himself"]
@@ -9256,7 +9321,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/02/021822.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"http://1-1.hjalmer.com/4676/2018/7721975c57.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/4676/2018/7721975c57.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-01T21:18:22-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/01/021822.html",
 				"tags": ["Photos","Himself"]
@@ -9265,7 +9330,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/02/daim-is-one.html",
 				
 				"content_html": "<p>Daim is one of my favorite things, ever.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Daim is one of my favorite things, ever.\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/a34599e10a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Daim is one of my favorite things, ever.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/a34599e10a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-01T20:57:21-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/01/daim-is-one.html",
 				"tags": ["Photos"]
@@ -9274,7 +9339,7 @@
 				"id": "http://hjalm.micro.blog/2018/07/16/015623.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"http://1-1.hjalmer.com/4676/2018/fe0012207c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/fe0012207c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-15T20:56:23-05:00",
 				"url": "https://1-1.hjalmer.com/2018/07/15/015623.html",
 				"tags": ["Photos"]
@@ -9283,7 +9348,7 @@
 				"id": "http://hjalm.micro.blog/2018/07/14/so-happy-i.html",
 				
 				"content_html": "<p>So happy I found this! It’s a magazine logo from another era… #Mondo2000 #wereapiratemindstation #howfastareyouhowdense #findtheothers</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So happy I found this! It’s a magazine logo from another era… #Mondo2000 #wereapiratemindstation #howfastareyouhowdense #findtheothers\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/a98e2f93d7.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "So happy I found this! It’s a magazine logo from another era… #Mondo2000 #wereapiratemindstation #howfastareyouhowdense #findtheothers\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/a98e2f93d7.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-14T13:22:38-05:00",
 				"url": "https://1-1.hjalmer.com/2018/07/14/so-happy-i.html",
 				"tags": ["Photos"]
@@ -9292,7 +9357,7 @@
 				"id": "http://hjalm.micro.blog/2018/06/23/234434.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"http://1-1.hjalmer.com/4676/2018/5fd3454950.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/5fd3454950.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-23T18:44:34-05:00",
 				"url": "https://1-1.hjalmer.com/2018/06/23/234434.html",
 				"tags": ["Photos"]
@@ -9301,7 +9366,7 @@
 				"id": "http://hjalm.micro.blog/2018/06/23/kicking-off-summer.html",
 				
 				"content_html": "<p>Kicking off Summer in St Paul</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kicking off Summer in St Paul\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/f726f85dc2.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Kicking off Summer in St Paul\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/f726f85dc2.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-23T18:12:05-05:00",
 				"url": "https://1-1.hjalmer.com/2018/06/23/kicking-off-summer.html",
 				"tags": ["Photos","Himself"]
@@ -9310,7 +9375,7 @@
 				"id": "http://hjalm.micro.blog/2018/06/02/odin-will-not.html",
 				
 				"content_html": "<p>“Odin will not save you but he will give you inspiration and courage to save yourself…” I don’t remember where I first read, but I like it. #selfie #bearded #dramamuch</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Odin will not save you but he will give you inspiration and courage to save yourself…” I don’t remember where I first read, but I like it. #selfie #bearded #dramamuch\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/cbdaa81fc6.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "“Odin will not save you but he will give you inspiration and courage to save yourself…” I don’t remember where I first read, but I like it. #selfie #bearded #dramamuch\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/cbdaa81fc6.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-01T19:49:18-05:00",
 				"url": "https://1-1.hjalmer.com/2018/06/01/odin-will-not.html",
 				"tags": ["Photos","Himself"]
@@ -9319,7 +9384,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/31/my-first-im.html",
 				
 				"content_html": "<p>My first! I’m excited! #unimitsubishipencil #kurutoga</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first! I’m excited! #unimitsubishipencil #kurutoga\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/7eb93949b4.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "My first! I’m excited! #unimitsubishipencil #kurutoga\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/7eb93949b4.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-31T18:59:35-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/31/my-first-im.html",
 				"tags": ["Photos"]
@@ -9328,7 +9393,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/23/in-the-business.html",
 				
 				"content_html": "<p>In the business parlance of our times, I have some “deltas” or “do-betters”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In the business parlance of our times, I have some “deltas” or “do-betters”\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/dd7273d0c5.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "In the business parlance of our times, I have some “deltas” or “do-betters”\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/dd7273d0c5.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-23T13:00:32-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/23/in-the-business.html",
 				"tags": ["Photos"]
@@ -9337,7 +9402,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/20/155934.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"http://1-1.hjalmer.com/4676/2018/bb452902d4.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/bb452902d4.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-20T10:59:34-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/20/155934.html",
 				"tags": ["Photos"]
@@ -9346,7 +9411,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/12/brand-new-journal.html",
 				
 				"content_html": "<p>Brand new journal #leuchtturm1917 #startatthebeginning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brand new journal #leuchtturm1917 #startatthebeginning\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/273e8c818d.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Brand new journal #leuchtturm1917 #startatthebeginning\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/273e8c818d.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-12T14:19:49-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/12/brand-new-journal.html",
 				"tags": ["Photos"]
@@ -9355,7 +9420,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/12/current-status.html",
 				
 				"content_html": "<p>Current Status</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Current Status\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/c254ccffa8.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Current Status\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/c254ccffa8.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-12T10:53:34-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/12/current-status.html",
 				"tags": ["Photos"]
@@ -9364,7 +9429,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/06/learning-more-every.html",
 				
 				"content_html": "<p>Learning more every day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Learning more every day\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/91094f9bec.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Learning more every day\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/91094f9bec.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-06T18:37:55-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/06/learning-more-every.html",
 				"tags": ["Photos"]
@@ -9373,7 +9438,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/26/oh-look-it.html",
 				
 				"content_html": "<p>Oh look, it it’s finally at the log in screen. But, wait, no! No it is not …</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh look, it it’s finally at the log in screen. But, wait, no! No it is not …\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/1eebec0792.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Oh look, it it’s finally at the log in screen. But, wait, no! No it is not …\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/1eebec0792.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-25T19:18:43-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/25/oh-look-it.html",
 				"tags": ["Photos","Himself"]
@@ -9382,7 +9447,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/14/currently-mnwx-blizzardwarning.html",
 				
 				"content_html": "<p>Currently #mnwx #blizzardwarning #ramseycounty #snow</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently #mnwx #blizzardwarning #ramseycounty #snow\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/86885ba5ce.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Currently #mnwx #blizzardwarning #ramseycounty #snow\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/86885ba5ce.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-14T13:03:00-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/14/currently-mnwx-blizzardwarning.html",
 				"tags": ["Photos"]
@@ -9391,7 +9456,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/14/its-not-snowmagedon.html",
 				
 				"content_html": "<p>It’s not #snowmagedon, but we planned ahead with provisions and are cocooning this weekend. #mnwx</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s not #snowmagedon, but we planned ahead with provisions and are cocooning this weekend. #mnwx\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/c35f59270a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "It’s not #snowmagedon, but we planned ahead with provisions and are cocooning this weekend. #mnwx\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/c35f59270a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-14T08:57:28-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/14/its-not-snowmagedon.html",
 				"tags": ["Photos"]
@@ -9400,7 +9465,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/09/morning-cuppa-thank.html",
 				
 				"content_html": "<p>Morning cuppa. Thank you, @joelgroethe  #apisupply #apisupplylifts</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning cuppa. Thank you, @joelgroethe  #apisupply #apisupplylifts\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/c32c3213af.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Morning cuppa. Thank you, @joelgroethe  #apisupply #apisupplylifts\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/c32c3213af.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-09T08:21:53-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/09/morning-cuppa-thank.html",
 				"tags": ["Photos"]
@@ -9409,7 +9474,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/04/springtime-more-than.html",
 				
 				"content_html": "<p>Springtime. More than eight inches of snow today, because Minnesota. #mnwx #stpaul #bearded #beardstagram #theboldnorth</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Springtime. More than eight inches of snow today, because Minnesota. #mnwx #stpaul #bearded #beardstagram #theboldnorth\n\n<img src=\"http://1-1.hjalmer.com/4676/2018/013e3beb95.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Springtime. More than eight inches of snow today, because Minnesota. #mnwx #stpaul #bearded #beardstagram #theboldnorth\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/013e3beb95.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-03T21:57:16-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/03/springtime-more-than.html",
 				"tags": ["Photos","Himself"]
