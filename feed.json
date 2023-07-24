@@ -7,6 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/07/24/internet-says-i.html",
+				
+				"content_html": "<p>Internet says I am not the first person to wonder if Elon&rsquo;s going to be found infringing on the X Windows trademark.</p>\n",
+				"content_text": "Internet says I am not the first person to wonder if Elon's going to be found infringing on the X Windows trademark. \n",
+				"date_published": "2023-07-24T15:21:54-05:00",
+				"url": "https://1-1.hjalmer.com/2023/07/24/internet-says-i.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/07/19/for-the-last.html",
+				
+				"content_html": "<p>For the last few weeks I have been listening to music used in the Hulu series Letterkenny. I noticed as I have been working through watching the series that I like <em>a lot</em> of the music. I started using Shazam, but then wondered if anyone had assembled a playlist. They have. Spotify and Apple Music.</p>\n",
+				"content_text": "For the last few weeks I have been listening to music used in the Hulu series Letterkenny. I noticed as I have been working through watching the series that I like _a lot_ of the music. I started using Shazam, but then wondered if anyone had assembled a playlist. They have. Spotify and Apple Music. \n",
+				"date_published": "2023-07-19T22:42:30-05:00",
+				"url": "https://1-1.hjalmer.com/2023/07/19/for-the-last.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/07/19/just-discovered-a.html",
+				
+				"content_html": "<p>Just discovered a musician named Anthony Vincent tonight, because TikTok. Video was of <em>Enter Sandman</em> done in the style of David Bowie. It’s beautifully done—it is released as <em>Enter Starman.</em></p>\n<p>If you’re okay with that, he also has a track called <em>Down with the Sickness Tears</em>, which is also very 80s.</p>\n",
+				"content_text": "Just discovered a musician named Anthony Vincent tonight, because TikTok. Video was of _Enter Sandman_ done in the style of David Bowie. It’s beautifully done—it is released as _Enter Starman._ \n\nIf you’re okay with that, he also has a track called _Down with the Sickness Tears_, which is also very 80s. \n",
+				"date_published": "2023-07-19T22:12:46-05:00",
+				"url": "https://1-1.hjalmer.com/2023/07/19/just-discovered-a.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/07/18/i-didnt-really.html",
+				
+				"content_html": "<p>I didn&rsquo;t really want Watch OS to be changed. Been rocking a Series 4 since it was new. But I&rsquo;m coming around to the changes in Watch OS 10. Won&rsquo;t lie, some of the changes were maddening at first, but I&rsquo;m noticing the polish now and I&rsquo;m happy. The Snoopy watch face has to be seen to be believed.</p>\n",
+				"content_text": "I didn't really want Watch OS to be changed. Been rocking a Series 4 since it was new. But I'm coming around to the changes in Watch OS 10. Won't lie, some of the changes were maddening at first, but I'm noticing the polish now and I'm happy. The Snoopy watch face has to be seen to be believed.\n",
+				"date_published": "2023-07-18T21:17:00-05:00",
+				"url": "https://1-1.hjalmer.com/2023/07/18/i-didnt-really.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/07/18/i-opted-to.html",
+				
+				"content_html": "<p>I opted to follow all the same accounts on Threads as Instagram. Unintended consequence: Lots of notifications of accepting follow requests and even a few follow-backs.</p>\n",
+				"content_text": "I opted to follow all the same accounts on Threads as Instagram. Unintended consequence: Lots of notifications of accepting follow requests and even a few follow-backs.\n",
+				"date_published": "2023-07-18T19:20:12-05:00",
+				"url": "https://1-1.hjalmer.com/2023/07/18/i-opted-to.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/07/18/the-quiet-purgatory.html",
+				
+				"content_html": "<p>The quiet purgatory of the exam room.</p>\n<p>Just visiting. Quartely check-up.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The quiet purgatory of the exam room.\n\nJust visiting. Quartely check-up.\n\n<img src=\"uploads/2023/a5a717dc30.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-18T16:23:10-05:00",
+				"url": "https://1-1.hjalmer.com/2023/07/18/the-quiet-purgatory.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/07/17/i-use-a.html",
+				
+				"content_html": "<p>I use a 4K panel and a 2K panel at work and I’m amazed by the amount of screen real estate applications think they are entitled to. There is nothing that I want in a window that consumes either display, and I would love applications that remember this.</p>\n",
+				"content_text": "I use a 4K panel and a 2K panel at work and I’m amazed by the amount of screen real estate applications think they are entitled to. There is nothing that I want in a window that consumes either display, and I would love applications that remember this.\n",
+				"date_published": "2023-07-17T14:29:13-05:00",
+				"url": "https://1-1.hjalmer.com/2023/07/17/i-use-a.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/07/17/i-am-working.html",
 				
 				"content_html": "<p>I am working hard to increase my step count. This makes me grateful for the Tylenol in the desk drawer.</p>\n",
