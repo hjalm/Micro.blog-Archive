@@ -7,10 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/08/19/from-experience-ill.html",
+				
+				"content_html": "<p>From experience, I’ll say that your iPhone doesn’t work in your dream, even after you restart it.</p>\n",
+				"content_text": "From experience, I’ll say that your iPhone doesn’t work in your dream, even after you restart it. \n",
+				"date_published": "2023-08-19T06:21:37-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/19/from-experience-ill.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/08/14/on-my-work.html",
+				
+				"content_html": "<p>On my work MacBook this morning I got a system message that SharePoint is being added as a login item. I don’t see a matching app in my Applications folder, so I am intrigued by this.</p>\n",
+				"content_text": "On my work MacBook this morning I got a system message that SharePoint is being added as a login item. I don’t see a matching app in my Applications folder, so I am intrigued by this. \n",
+				"date_published": "2023-08-14T09:15:14-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/14/on-my-work.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/08/11/if-my-mac.html",
+				
+				"content_html": "<p>If my mac has an indicator on the setting icon that there is an update, and I click on the item in System Settings that shows there is an operating system update, why does the settings app then need to check for updates?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "If my mac has an indicator on the setting icon that there is an update, and I click on the item in System Settings that shows there is an operating system update, why does the settings app then need to check for updates?\r\n\r\n\n\n<img src=\"uploads/2023/screenshot-2023-08-11-at-9.33.37am.png\" width=\"600\" height=\"192\" alt=\"\">\n",
+				"date_published": "2023-08-11T09:34:33-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/11/if-my-mac.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/08/10/ive-decided-its.html",
+				
+				"content_html": "<p>I’ve decided it’s not loyalty points that companies offer, it’s urgency. When you have “points” that “expire,” that’s not loyalty. That’s a trick. Shame on me for trusting you.</p>\n",
+				"content_text": "I’ve decided it’s not loyalty points that companies offer, it’s urgency. When you have “points” that “expire,” that’s not loyalty. That’s a trick. Shame on me for trusting you.\n",
+				"date_published": "2023-08-10T22:33:04-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/10/ive-decided-its.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/08/10/challenges-to-installing.html",
+				
+				"content_html": "<p>Challenges to installing the most recent Apple public OS beta release 3. Watch took a reset before it would get past an error message. A laptop today took four checks before it noticed there was an update. Homepods didn’t notice a beta was available last night. Phones, iPad were mixed.</p>\n",
+				"content_text": "Challenges to installing the most recent Apple public OS beta release 3. Watch took a reset before it would get past an error message. A laptop today took four checks before it noticed there was an update. Homepods didn’t notice a beta was available last night. Phones, iPad were mixed.\n",
+				"date_published": "2023-08-10T12:22:17-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/10/challenges-to-installing.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/08/09/coming-facetoface-with.html",
 				
 				"content_html": "<p>Coming face-to-face with the idea that I am the same age as old people. AC/DC in the foreground, Kinks in the background.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Coming face-to-face with the idea that I am the same age as old people. AC/DC in the foreground, Kinks in the background. \n\n<img src=\"uploads/2023/eceddc3069.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Coming face-to-face with the idea that I am the same age as old people. AC/DC in the foreground, Kinks in the background. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/eceddc3069.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-09T20:01:52-05:00",
 				"url": "https://1-1.hjalmer.com/2023/08/09/coming-facetoface-with.html",
 				"tags": ["Photos"]
