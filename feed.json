@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/08/27/i-do-wish.html",
+				
+				"content_html": "<p>I do wish iPad OS had a dictionary and thesaurus app like Mac OS has. I am probably going to grudgingly give money to Oxford. Sometimes I want to look up something that isn’t in an app I’m running on the device I’m using. That service doesn’t account for every use case for a curious person.</p>\n",
+				"content_text": "I do wish iPad OS had a dictionary and thesaurus app like Mac OS has. I am probably going to grudgingly give money to Oxford. Sometimes I want to look up something that isn’t in an app I’m running on the device I’m using. That service doesn’t account for every use case for a curious person.\n",
+				"date_published": "2023-08-27T15:06:27-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/27/i-do-wish.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/08/23/this-week-i.html",
+				
+				"content_html": "<p>This week I learned how catastrophic it can be for dogs that overheat, and how quickly it can lead to organ failure and death. Be careful out there. And keep an eye on your puppies!</p>\n",
+				"content_text": "This week I learned how catastrophic it can be for dogs that overheat, and how quickly it can lead to organ failure and death. Be careful out there. And keep an eye on your puppies!\n",
+				"date_published": "2023-08-23T10:37:55-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/23/this-week-i.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/08/21/i-know-its.html",
+				
+				"content_html": "<p>I know it’s not as exciting, but we could call them posts. It’s a term that already exists in common usage—and I don’t see a need to have a unique term per vendor.</p>\n",
+				"content_text": "I know it’s not as exciting, but we could call them posts. It’s a term that already exists in common usage—and I don’t see a need to have a unique term per vendor.\n",
+				"date_published": "2023-08-21T11:57:37-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/21/i-know-its.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/08/19/from-experience-ill.html",
 				
 				"content_html": "<p>From experience, I’ll say that your iPhone doesn’t work in your dream, even after you restart it.</p>\n",
@@ -17,16 +41,17 @@
 			{
 				"id": "http://hjalm.micro.blog/2023/08/14/on-my-work.html",
 				
-				"content_html": "<p>On my work MacBook this morning I got a system message that SharePoint is being added as a login item. I don’t see a matching app in my Applications folder, so I am intrigued by this.</p>\n",
-				"content_text": "On my work MacBook this morning I got a system message that SharePoint is being added as a login item. I don’t see a matching app in my Applications folder, so I am intrigued by this. \n",
+				"content_html": "<p>On my work MacBook this morning I got a system message that SharePoint is being added as a login item. I don’t see a matching app in my Applications folder, so I am intrigued by this.</p>\n<p>UPDATE: I learned this is a component of OneDrive, which is surprisingly honest—as OneDrive sits atop SharePoint technology. I can only hope it truly auto-launches and auto-syncs my folders, as in the past I have needed to specifically launch OneDrive to have access to items in the cloud.</p>\n",
+				"content_text": "On my work MacBook this morning I got a system message that SharePoint is being added as a login item. I don’t see a matching app in my Applications folder, so I am intrigued by this. \n\nUPDATE: I learned this is a component of OneDrive, which is surprisingly honest—as OneDrive sits atop SharePoint technology. I can only hope it truly auto-launches and auto-syncs my folders, as in the past I have needed to specifically launch OneDrive to have access to items in the cloud.\n",
 				"date_published": "2023-08-14T09:15:14-05:00",
-				"url": "https://1-1.hjalmer.com/2023/08/14/on-my-work.html"
+				"url": "https://1-1.hjalmer.com/2023/08/14/on-my-work.html",
+				"tags": ["TIL","Tech Support"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2023/08/11/if-my-mac.html",
 				
 				"content_html": "<p>If my mac has an indicator on the setting icon that there is an update, and I click on the item in System Settings that shows there is an operating system update, why does the settings app then need to check for updates?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If my mac has an indicator on the setting icon that there is an update, and I click on the item in System Settings that shows there is an operating system update, why does the settings app then need to check for updates?\r\n\r\n\n\n<img src=\"uploads/2023/screenshot-2023-08-11-at-9.33.37am.png\" width=\"600\" height=\"192\" alt=\"\">\n",
+				"content_text": "If my mac has an indicator on the setting icon that there is an update, and I click on the item in System Settings that shows there is an operating system update, why does the settings app then need to check for updates?\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/screenshot-2023-08-11-at-9.33.37am.png\" width=\"600\" height=\"192\" alt=\"\">\n",
 				"date_published": "2023-08-11T09:34:33-05:00",
 				"url": "https://1-1.hjalmer.com/2023/08/11/if-my-mac.html",
 				"tags": ["Photos"]
