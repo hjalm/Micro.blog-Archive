@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/09/02/my-wife-played.html",
+				
+				"content_html": "<p>My wife played <a href=\"https://www.themoviedb.org/movie/337404-cruella\">Cruella</a>. It was more compelling than I hoped. But the hook, for me was the soundtrack. I didn’t know it was a period piece.</p>\n<p><a href=\"https://music.apple.com/us/playlist/cruella-official-playlist/pl.9d5b5f91d6244c769579f12f6ed70c34\">There’s a playlist</a> on Apple Music.</p>\n",
+				"content_text": "My wife played [Cruella](https://www.themoviedb.org/movie/337404-cruella). It was more compelling than I hoped. But the hook, for me was the soundtrack. I didn’t know it was a period piece. \n\n[There’s a playlist](https://music.apple.com/us/playlist/cruella-official-playlist/pl.9d5b5f91d6244c769579f12f6ed70c34) on Apple Music. \n",
+				"date_published": "2023-09-02T21:15:29-05:00",
+				"url": "https://1-1.hjalmer.com/2023/09/02/my-wife-played.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/08/29/three-kinds-of.html",
+				
+				"content_html": "<p>Three kinds of feels recently:</p>\n<ol>\n<li>Getting an education on a tool you previously felt pretty good at.</li>\n<li>Find a tool exactly where it should be, after you already looked there.</li>\n<li>That awesome song comes on while driving and everyone in front of you is driving slower than you.</li>\n</ol>\n",
+				"content_text": "Three kinds of feels recently:\n\n1. Getting an education on a tool you previously felt pretty good at.\n2. Find a tool exactly where it should be, after you already looked there.\n3. That awesome song comes on while driving and everyone in front of you is driving slower than you.\n",
+				"date_published": "2023-08-29T19:05:14-05:00",
+				"url": "https://1-1.hjalmer.com/2023/08/29/three-kinds-of.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/08/27/i-do-wish.html",
 				
 				"content_html": "<p>I do wish iPad OS had a dictionary and thesaurus app like Mac OS has. I am probably going to grudgingly give money to Oxford. Sometimes I want to look up something that isn’t in an app I’m running on the device I’m using. That service doesn’t account for every use case for a curious person.</p>\n",
