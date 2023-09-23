@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/09/23/remember-listening-to.html",
+				
+				"content_html": "<p>Remember listening to whole albums?</p>\n<p>Sometimes one from the past demands my attention. Lately it’s <a href=\"https://music.apple.com/us/album/tinderbox-remastered-expanded/1443841582\">Tinderbox</a></p>\n",
+				"content_text": "Remember listening to whole albums?\n\nSometimes one from the past demands my attention. Lately it’s [Tinderbox](https://music.apple.com/us/album/tinderbox-remastered-expanded/1443841582)\n",
+				"date_published": "2023-09-23T18:18:26-05:00",
+				"url": "https://1-1.hjalmer.com/2023/09/23/remember-listening-to.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/09/11/i-dont-remember.html",
+				
+				"content_html": "<p>I don’t remember hurting myself, but it’s clear to me now—at some point, the coffee was too hot.</p>\n",
+				"content_text": "I don’t remember hurting myself, but it’s clear to me now—at some point, the coffee was too hot.\n",
+				"date_published": "2023-09-11T10:41:53-05:00",
+				"url": "https://1-1.hjalmer.com/2023/09/11/i-dont-remember.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/09/09/i-was-reminded.html",
+				
+				"content_html": "<p>I was reminded today of why I stopped using drive-through fast-food procurement. So much easier to deal with issues at the counter, instead of trying to do an inventory in-car. What a mess.</p>\n",
+				"content_text": "I was reminded today of why I stopped using drive-through fast-food procurement. So much easier to deal with issues at the counter, instead of trying to do an inventory in-car. What a mess.\n",
+				"date_published": "2023-09-09T18:13:43-05:00",
+				"url": "https://1-1.hjalmer.com/2023/09/09/i-was-reminded.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/09/07/the-street-finds.html",
 				
 				"content_html": "<p>“…the street finds its own uses for things” —William Gibson, from <em>Burning Chrome</em></p>\n<p>I have always loved the Cyberdecks, which have always seemed to me to inspired by Gibson’s writing. I also love any small, capable tech tool.</p>\n<p>See also: <a href=\"https://hackaday.com/2023/09/07/2023-cyberdeck-challenge-the-best-decks-on-the-net/\">2023 Cyberdeck Challenge</a></p>\n",
@@ -107,7 +131,7 @@
 				"id": "http://hjalm.micro.blog/2023/08/11/if-my-mac.html",
 				
 				"content_html": "<p>If my mac has an indicator on the setting icon that there is an update, and I click on the item in System Settings that shows there is an operating system update, why does the settings app then need to check for updates?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "If my mac has an indicator on the setting icon that there is an update, and I click on the item in System Settings that shows there is an operating system update, why does the settings app then need to check for updates?\r\n\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/screenshot-2023-08-11-at-9.33.37am.png\" width=\"600\" height=\"192\" alt=\"\">\n",
+				"content_text": "If my mac has an indicator on the setting icon that there is an update, and I click on the item in System Settings that shows there is an operating system update, why does the settings app then need to check for updates?\r\n\r\n\n\n<img src=\"uploads/2023/screenshot-2023-08-11-at-9.33.37am.png\" width=\"600\" height=\"192\" alt=\"\">\n",
 				"date_published": "2023-08-11T09:34:33-05:00",
 				"url": "https://1-1.hjalmer.com/2023/08/11/if-my-mac.html",
 				"tags": ["Photos"]
@@ -132,7 +156,7 @@
 				"id": "http://hjalm.micro.blog/2023/08/09/coming-facetoface-with.html",
 				
 				"content_html": "<p>Coming face-to-face with the idea that I am the same age as old people. AC/DC in the foreground, Kinks in the background.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Coming face-to-face with the idea that I am the same age as old people. AC/DC in the foreground, Kinks in the background. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/eceddc3069.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Coming face-to-face with the idea that I am the same age as old people. AC/DC in the foreground, Kinks in the background. \n\n<img src=\"uploads/2023/eceddc3069.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-08-09T20:01:52-05:00",
 				"url": "https://1-1.hjalmer.com/2023/08/09/coming-facetoface-with.html",
 				"tags": ["Photos"]
@@ -229,7 +253,7 @@
 				"id": "http://hjalm.micro.blog/2023/07/18/the-quiet-purgatory.html",
 				
 				"content_html": "<p>The quiet purgatory of the exam room.</p>\n<p>Just visiting. Quartely check-up.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The quiet purgatory of the exam room.\n\nJust visiting. Quartely check-up.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/a5a717dc30.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The quiet purgatory of the exam room.\n\nJust visiting. Quartely check-up.\n\n<img src=\"uploads/2023/a5a717dc30.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-07-18T16:23:10-05:00",
 				"url": "https://1-1.hjalmer.com/2023/07/18/the-quiet-purgatory.html",
 				"tags": ["Photos"]
@@ -342,7 +366,7 @@
 				"id": "http://hjalm.micro.blog/2023/06/28/saints-at-bat.html",
 				
 				"content_html": "<p>Saints at bat versus the Stripers</p>\n<!-- raw HTML omitted -->\n<p>📷</p>\n<p>Storybook ending to the game: Saints were down by one at the bottom of the ninth. Bases were loaded after 2 outs. Final hit of the game hit the home run wall. Saints won, 13-9.</p>\n",
-				"content_text": "Saints at bat versus the Stripers\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n📷\n\nStorybook ending to the game: Saints were down by one at the bottom of the ninth. Bases were loaded after 2 outs. Final hit of the game hit the home run wall. Saints won, 13-9.\n",
+				"content_text": "Saints at bat versus the Stripers\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n📷\n\nStorybook ending to the game: Saints were down by one at the bottom of the ninth. Bases were loaded after 2 outs. Final hit of the game hit the home run wall. Saints won, 13-9.\n",
 				"date_published": "2023-06-28T13:40:38-05:00",
 				"url": "https://1-1.hjalmer.com/2023/06/28/saints-at-bat.html",
 				"tags": ["Photos","Brilliant","Status"]
@@ -488,7 +512,7 @@
 				"id": "http://hjalm.micro.blog/2023/05/29/memorial-day.html",
 				"title": "Memorial Day",
 				"content_html": "<p>I wish I could tell you more about him. He was my mother&rsquo;s mother&rsquo;s brother, a great uncle, but I never met him.</p>\n<p>My grandmother said she called him &ldquo;Jumbo,&rdquo; and she was hoping I would take to the same nickname. As an awkward preteen at the time, I didn&rsquo;t want to be associated with being overweight. I didn&rsquo;t hear the love in her request.</p>\n<p>From what I understand, he was 28 when killed in Germany. He had probably a 6th grade education and was a farm worker. I think he was working with his brothers on the family farm, which at one point was a fairly sizable operation. I don&rsquo;t know what loves he may have had and I don&rsquo;t think he had a family of his own.</p>\n<p>I never asked my grandma or my grandpa what he was like. I believe my mom has more pictures of him than the one I have seen recently, which is a very handsome man in uniform. But even what she knows is second-hand. We know people who knew him. Or knew, because time passes and people do, too.</p>\n<p>But I have his name.</p>\n<p>His death, fighting for the country and values and family he loved, is part of my story.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I wish I could tell you more about him. He was my mother's mother's brother, a great uncle, but I never met him.\r\n\r\nMy grandmother said she called him \"Jumbo,\" and she was hoping I would take to the same nickname. As an awkward preteen at the time, I didn't want to be associated with being overweight. I didn't hear the love in her request.\r\n\r\nFrom what I understand, he was 28 when killed in Germany. He had probably a 6th grade education and was a farm worker. I think he was working with his brothers on the family farm, which at one point was a fairly sizable operation. I don't know what loves he may have had and I don't think he had a family of his own.\r\n\r\nI never asked my grandma or my grandpa what he was like. I believe my mom has more pictures of him than the one I have seen recently, which is a very handsome man in uniform. But even what she knows is second-hand. We know people who knew him. Or knew, because time passes and people do, too.\r\n\r\nBut I have his name.\r\n\r\nHis death, fighting for the country and values and family he loved, is part of my story.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/ec15304c50.jpg\" width=\"400\" height=\"600\" alt=\"Grave Marker for Hjalmer O Lindberg with flags\">\n",
+				"content_text": "I wish I could tell you more about him. He was my mother's mother's brother, a great uncle, but I never met him.\r\n\r\nMy grandmother said she called him \"Jumbo,\" and she was hoping I would take to the same nickname. As an awkward preteen at the time, I didn't want to be associated with being overweight. I didn't hear the love in her request.\r\n\r\nFrom what I understand, he was 28 when killed in Germany. He had probably a 6th grade education and was a farm worker. I think he was working with his brothers on the family farm, which at one point was a fairly sizable operation. I don't know what loves he may have had and I don't think he had a family of his own.\r\n\r\nI never asked my grandma or my grandpa what he was like. I believe my mom has more pictures of him than the one I have seen recently, which is a very handsome man in uniform. But even what she knows is second-hand. We know people who knew him. Or knew, because time passes and people do, too.\r\n\r\nBut I have his name.\r\n\r\nHis death, fighting for the country and values and family he loved, is part of my story.\n\n<img src=\"uploads/2023/ec15304c50.jpg\" width=\"400\" height=\"600\" alt=\"Grave Marker for Hjalmer O Lindberg with flags\">\n",
 				"date_published": "2023-05-29T13:26:26-05:00",
 				"url": "https://1-1.hjalmer.com/2023/05/29/memorial-day.html",
 				"tags": ["Photos"]
@@ -505,7 +529,7 @@
 				"id": "http://hjalm.micro.blog/2023/05/25/have-spent-some.html",
 				
 				"content_html": "<p>Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/873dd2e63b.jpg\" width=\"600\" height=\"337\" alt=\"Animal Crossing New Horizons  Map and Dream Address DA-3459-2622-7968\">\n",
+				"content_text": "Have spent some time on Animal Crossing, now I’m starting to look around at what others have done.\n\n<img src=\"uploads/2023/873dd2e63b.jpg\" width=\"600\" height=\"337\" alt=\"Animal Crossing New Horizons  Map and Dream Address DA-3459-2622-7968\">\n",
 				"date_published": "2023-05-25T22:58:07-05:00",
 				"url": "https://1-1.hjalmer.com/2023/05/25/have-spent-some.html",
 				"tags": ["Photos"]
@@ -530,7 +554,7 @@
 				"id": "http://hjalm.micro.blog/2023/05/19/got-this-from.html",
 				
 				"content_html": "<p>Got this from a long-time colleague at work this morning. I’m the best. I’m modest. And I don’t brag. Honestly, though, need to work to meet that.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Got this from a long-time colleague at work this morning. I’m the best. I’m modest. And I don’t brag. Honestly, though, need to work to meet that. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/fd6e322b06.jpg\" width=\"600\" height=\"592\" alt=\"\">\n",
+				"content_text": "Got this from a long-time colleague at work this morning. I’m the best. I’m modest. And I don’t brag. Honestly, though, need to work to meet that. \n\n<img src=\"uploads/2023/fd6e322b06.jpg\" width=\"600\" height=\"592\" alt=\"\">\n",
 				"date_published": "2023-05-19T09:53:00-05:00",
 				"url": "https://1-1.hjalmer.com/2023/05/19/got-this-from.html",
 				"tags": ["Photos"]
@@ -619,7 +643,7 @@
 				"id": "http://hjalm.micro.blog/2023/05/01/this-was-taped.html",
 				
 				"content_html": "<p>This was taped to the outside of my cube one morning. I’m proud of my beard’s accomplishments</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This was taped to the outside of my cube one morning. I’m proud of my beard’s accomplishments\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/4cae48300c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "This was taped to the outside of my cube one morning. I’m proud of my beard’s accomplishments\n\n<img src=\"uploads/2023/4cae48300c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-01T10:48:04-05:00",
 				"url": "https://1-1.hjalmer.com/2023/05/01/this-was-taped.html",
 				"tags": ["Photos"]
@@ -708,7 +732,7 @@
 				"id": "http://hjalm.micro.blog/2023/04/19/air-travel-is.html",
 				
 				"content_html": "<p>Air travel is still amazing. This morning I was in New Jersey. Posting this from my living room in St. Paul, MN. First pic is proof I was there from a friend. Second shot is my favorite of the day.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Air travel is still amazing. This morning I was in New Jersey. Posting this from my living room in St. Paul, MN. First pic is proof I was there from a friend. Second shot is my favorite of the day. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/34dba419d7.jpg\" width=\"599\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2023/a74d6e050e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Air travel is still amazing. This morning I was in New Jersey. Posting this from my living room in St. Paul, MN. First pic is proof I was there from a friend. Second shot is my favorite of the day. \n\n<img src=\"uploads/2023/34dba419d7.jpg\" width=\"599\" height=\"600\" alt=\"\"><img src=\"uploads/2023/a74d6e050e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-19T18:19:31-05:00",
 				"url": "https://1-1.hjalmer.com/2023/04/19/air-travel-is.html",
 				"tags": ["Photos"]
@@ -789,7 +813,7 @@
 				"id": "http://hjalm.micro.blog/2023/03/24/aurora-borealis-images.html",
 				
 				"content_html": "<p>Aurora Borealis, images taken before midnight on March 23, 2023</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Aurora Borealis, images taken before midnight on March 23, 2023\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/aab0e54b66.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2023/edfaaddda8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2023/6948e6ace2.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2023/1f91712e85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Aurora Borealis, images taken before midnight on March 23, 2023\n\n<img src=\"uploads/2023/aab0e54b66.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/edfaaddda8.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/6948e6ace2.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/1f91712e85.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-24T01:26:49-05:00",
 				"url": "https://1-1.hjalmer.com/2023/03/24/aurora-borealis-images.html",
 				"tags": ["Photos"]
@@ -798,7 +822,7 @@
 				"id": "http://hjalm.micro.blog/2023/03/24/the-camera-doesnt.html",
 				
 				"content_html": "<p>The camera doesn’t show what I could see. But I’m 54 and I have never seen the night sky so full of light.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The camera doesn’t show what I could see. But I’m 54 and I have never seen the night sky so full of light. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/4676/2023/0e186a946b.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2023/d605d3a5f0.png\" preload=\"none\"></video>\n",
+				"content_text": "The camera doesn’t show what I could see. But I’m 54 and I have never seen the night sky so full of light. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2023/0e186a946b.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2023/d605d3a5f0.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-03-24T01:22:16-05:00",
 				"url": "https://1-1.hjalmer.com/2023/03/24/the-camera-doesnt.html"
 			},
@@ -831,7 +855,7 @@
 				"id": "http://hjalm.micro.blog/2023/03/12/surgery-complete-magnetic.html",
 				
 				"content_html": "<p>Surgery complete. Magnetic joysticks from  GuliKit, buttons from ExtremeRate, plus tools and manuals from iFixit. I wish the buttons were a better color match to the Joycons, but it is uniquely mine, now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Surgery complete. Magnetic joysticks from  GuliKit, buttons from ExtremeRate, plus tools and manuals from iFixit. I wish the buttons were a better color match to the Joycons, but it is uniquely mine, now. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/7a001c95e0.jpg\" width=\"600\" height=\"257\" alt=\"\">\n",
+				"content_text": "Surgery complete. Magnetic joysticks from  GuliKit, buttons from ExtremeRate, plus tools and manuals from iFixit. I wish the buttons were a better color match to the Joycons, but it is uniquely mine, now. \n\n<img src=\"uploads/2023/7a001c95e0.jpg\" width=\"600\" height=\"257\" alt=\"\">\n",
 				"date_published": "2023-03-12T19:00:18-05:00",
 				"url": "https://1-1.hjalmer.com/2023/03/12/surgery-complete-magnetic.html",
 				"tags": ["Photos"]
@@ -1169,7 +1193,7 @@
 				"id": "http://hjalm.micro.blog/2023/01/12/do-not-love.html",
 				
 				"content_html": "<p>Do not love wearing a mask. But Doc says “Do.” #CheckUp</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Do not love wearing a mask. But Doc says “Do.” #CheckUp\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/2291481906.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Do not love wearing a mask. But Doc says “Do.” #CheckUp\n\n\n\n<img src=\"uploads/2023/2291481906.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-12T16:28:29-05:00",
 				"url": "https://1-1.hjalmer.com/2023/01/12/do-not-love.html",
 				"tags": ["Photos"]
@@ -1592,7 +1616,7 @@
 				"id": "http://hjalm.micro.blog/2022/11/16/house-was-born.html",
 				
 				"content_html": "<p>House was born in 1947. Not zero risk of lead-based paint.</p>\n<p>Demo for renovation starting soon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "House was born in 1947. Not zero risk of lead-based paint.\n\nDemo for renovation starting soon. \n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/54d5bd56ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "House was born in 1947. Not zero risk of lead-based paint.\n\nDemo for renovation starting soon. \n\n\n<img src=\"uploads/2022/54d5bd56ad.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-16T11:26:34-05:00",
 				"url": "https://1-1.hjalmer.com/2022/11/16/house-was-born.html",
 				"tags": ["Photos"]
@@ -1826,7 +1850,7 @@
 				"id": "http://hjalm.micro.blog/2022/10/01/status.html",
 				
 				"content_html": "<p>Status</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Status\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/3410bfcac5.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "Status\n\n<img src=\"uploads/2022/3410bfcac5.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2022-10-01T20:23:13-05:00",
 				"url": "https://1-1.hjalmer.com/2022/10/01/status.html",
 				"tags": ["Photos"]
@@ -1966,7 +1990,7 @@
 				"id": "http://hjalm.micro.blog/2022/09/15/heilung-myth.html",
 				
 				"content_html": "<p>#Heilung #Myth</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#Heilung #Myth\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/a49aa0213e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "#Heilung #Myth\n\n<img src=\"uploads/2022/a49aa0213e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-15T20:46:19-05:00",
 				"url": "https://1-1.hjalmer.com/2022/09/15/heilung-myth.html",
 				"tags": ["Photos"]
@@ -1975,7 +1999,7 @@
 				"id": "http://hjalm.micro.blog/2022/09/15/antici-heilung-myth.html",
 				
 				"content_html": "<p>Antici-</p>\n<p>#Heilung #Myth</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Antici-\n\n#Heilung #Myth\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/a62722eaba.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Antici-\n\n#Heilung #Myth\n\n<img src=\"uploads/2022/a62722eaba.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-15T20:11:27-05:00",
 				"url": "https://1-1.hjalmer.com/2022/09/15/antici-heilung-myth.html",
 				"tags": ["Photos"]
@@ -2033,7 +2057,7 @@
 				"id": "http://hjalm.micro.blog/2022/09/04/took-a-drive.html",
 				
 				"content_html": "<p>Took a drive tonight to see if we could catch a glimpse. Ended up in Harris, MN. #auroraborealis #mnwx</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Took a drive tonight to see if we could catch a glimpse. Ended up in Harris, MN. #auroraborealis #mnwx\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/77ae6a2da3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2022/e54d4c7ce3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2022/bfb8814f6a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2022/6ab23afeeb.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2022/01e97650e0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Took a drive tonight to see if we could catch a glimpse. Ended up in Harris, MN. #auroraborealis #mnwx\n\n<img src=\"uploads/2022/77ae6a2da3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/e54d4c7ce3.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/bfb8814f6a.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/6ab23afeeb.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/01e97650e0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-09-04T01:55:24-05:00",
 				"url": "https://1-1.hjalmer.com/2022/09/04/took-a-drive.html",
 				"tags": ["Photos"]
@@ -2178,7 +2202,7 @@
 				"id": "http://hjalm.micro.blog/2022/08/01/rainbow-at-sunset.html",
 				
 				"content_html": "<p>Rainbow at sunset</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Rainbow at sunset\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/9f517cd452.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Rainbow at sunset\n\n<img src=\"uploads/2022/9f517cd452.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-01T19:07:29-05:00",
 				"url": "https://1-1.hjalmer.com/2022/08/01/rainbow-at-sunset.html",
 				"tags": ["Photos"]
@@ -2187,7 +2211,7 @@
 				"id": "http://hjalm.micro.blog/2022/08/01/on-roanoke-sound.html",
 				
 				"content_html": "<p>On Roanoke Sound</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "On Roanoke Sound\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/69694261d1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2022/5edb83b8b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "On Roanoke Sound\n\n<img src=\"uploads/2022/69694261d1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/5edb83b8b0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-01T14:05:26-05:00",
 				"url": "https://1-1.hjalmer.com/2022/08/01/on-roanoke-sound.html",
 				"tags": ["Photos"]
@@ -2196,7 +2220,7 @@
 				"id": "http://hjalm.micro.blog/2022/07/31/sunrise-obx.html",
 				
 				"content_html": "<p>Sunrise #OBX</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunrise #OBX\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/64074fedb7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sunrise #OBX\n\n<img src=\"uploads/2022/64074fedb7.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-31T05:30:03-05:00",
 				"url": "https://1-1.hjalmer.com/2022/07/31/sunrise-obx.html",
 				"tags": ["Photos"]
@@ -2205,7 +2229,7 @@
 				"id": "http://hjalm.micro.blog/2022/07/30/air-temp-f.html",
 				
 				"content_html": "<p>Air temp: 80F, water temp: 80F No chance of rain for the next several hours. No place to be for several hours.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Air temp: 80F, water temp: 80F No chance of rain for the next several hours. No place to be for several hours. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/85399188a9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Air temp: 80F, water temp: 80F No chance of rain for the next several hours. No place to be for several hours. \n\n<img src=\"uploads/2022/85399188a9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-07-30T10:51:07-05:00",
 				"url": "https://1-1.hjalmer.com/2022/07/30/air-temp-f.html",
 				"tags": ["Photos"]
@@ -2222,7 +2246,7 @@
 				"id": "http://hjalm.micro.blog/2022/07/27/at-the-beach.html",
 				
 				"content_html": "<p>At the beach #OBX #KillDevilHills</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At the beach #OBX #KillDevilHills\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/120d87363a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "At the beach #OBX #KillDevilHills\n\n<img src=\"uploads/2022/120d87363a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-27T13:25:26-05:00",
 				"url": "https://1-1.hjalmer.com/2022/07/27/at-the-beach.html",
 				"tags": ["Photos"]
@@ -2343,7 +2367,7 @@
 				"id": "http://hjalm.micro.blog/2022/06/30/my-wife-saw.html",
 				
 				"content_html": "<p>My wife saw this picture and said “Full-on Lorax”</p>\n<!-- raw HTML omitted -->\n<p>I and my beard are in the middle</p>\n",
-				"content_text": "My wife saw this picture and said “Full-on Lorax”\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/ea566f6354.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n\nI and my beard are in the middle\n",
+				"content_text": "My wife saw this picture and said “Full-on Lorax”\n\n<img src=\"uploads/2022/ea566f6354.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n\nI and my beard are in the middle\n",
 				"date_published": "2022-06-30T23:21:24-05:00",
 				"url": "https://1-1.hjalmer.com/2022/06/30/my-wife-saw.html",
 				"tags": ["Photos"]
@@ -2352,7 +2376,7 @@
 				"id": "http://hjalm.micro.blog/2022/06/30/pizza-and-cider.html",
 				
 				"content_html": "<p>Pizza and cider with an old friend</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pizza and cider with an old friend \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/58d89a3c1a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Pizza and cider with an old friend \n\n<img src=\"uploads/2022/58d89a3c1a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-30T19:01:22-05:00",
 				"url": "https://1-1.hjalmer.com/2022/06/30/pizza-and-cider.html",
 				"tags": ["Photos"]
@@ -2539,7 +2563,7 @@
 				"id": "http://hjalm.micro.blog/2022/05/25/sometimes-its-color.html",
 				
 				"content_html": "<p>Sometimes it’s color that catches my eye</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sometimes it’s color that catches my eye\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/66d7c58e56.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sometimes it’s color that catches my eye\n\n<img src=\"uploads/2022/66d7c58e56.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-25T21:37:58-05:00",
 				"url": "https://1-1.hjalmer.com/2022/05/25/sometimes-its-color.html",
 				"tags": ["Photos"]
@@ -2626,7 +2650,7 @@
 				"id": "http://hjalm.micro.blog/2022/05/09/hail-on-st.html",
 				
 				"content_html": "<p>Hail on St. Paul’s East Side. #MnWx #55119</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hail on St. Paul’s East Side. #MnWx #55119\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/18cebf9eaa.jpg\" width=\"389\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hail on St. Paul’s East Side. #MnWx #55119\n\n<img src=\"uploads/2022/18cebf9eaa.jpg\" width=\"389\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-05-09T17:39:10-05:00",
 				"url": "https://1-1.hjalmer.com/2022/05/09/hail-on-st.html",
 				"tags": ["Photos"]
@@ -2676,7 +2700,7 @@
 				"id": "http://hjalm.micro.blog/2022/04/20/a-little-fog.html",
 				
 				"content_html": "<p>A little fog at night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A little fog at night\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/5928161208.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2022/a52b9b8973.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A little fog at night\n\n<img src=\"uploads/2022/5928161208.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/a52b9b8973.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-20T23:33:11-05:00",
 				"url": "https://1-1.hjalmer.com/2022/04/20/a-little-fog.html",
 				"tags": ["Photos"]
@@ -2709,7 +2733,7 @@
 				"id": "http://hjalm.micro.blog/2022/04/13/two-gallons-so.html",
 				
 				"content_html": "<p>Two gallons, so far.</p>\n<p>#DonorForLife</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Two gallons, so far.\r\n\r\n#DonorForLife\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/4797e67ec7.gif\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Two gallons, so far.\r\n\r\n#DonorForLife\n\n<img src=\"uploads/2022/4797e67ec7.gif\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-13T12:23:56-05:00",
 				"url": "https://1-1.hjalmer.com/2022/04/13/two-gallons-so.html",
 				"tags": ["Photos"]
@@ -2822,7 +2846,7 @@
 				"id": "http://hjalm.micro.blog/2022/03/16/the-moon-has.html",
 				
 				"content_html": "<p>The Moon has a halo tonight</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The Moon has a halo tonight\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/06281f1138.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2022/ede85d2884.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "The Moon has a halo tonight\n\n<img src=\"uploads/2022/06281f1138.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/ede85d2884.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-16T20:45:37-05:00",
 				"url": "https://1-1.hjalmer.com/2022/03/16/the-moon-has.html",
 				"tags": ["Photos"]
@@ -2943,7 +2967,7 @@
 				"id": "http://hjalm.micro.blog/2022/02/22/there-is-a.html",
 				
 				"content_html": "<p>There is a lot of ice in that beard, post snow-blowing, but it’s hard to see</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There is a lot of ice in that beard, post snow-blowing, but it’s hard to see \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2022/c2ae034f3c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "There is a lot of ice in that beard, post snow-blowing, but it’s hard to see \n\n<img src=\"uploads/2022/c2ae034f3c.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-22T21:06:01-05:00",
 				"url": "https://1-1.hjalmer.com/2022/02/22/there-is-a.html",
 				"tags": ["Photos"]
@@ -3195,7 +3219,7 @@
 				"id": "http://hjalm.micro.blog/2021/12/24/merry-christmas-may.html",
 				
 				"content_html": "<p>Merry Christmas!</p>\n<p>May you find gratitude\nMay you find joy in each other</p>\n<p>And let there be peace on Earth</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Merry Christmas!\n\nMay you find gratitude \nMay you find joy in each other\n\nAnd let there be peace on Earth\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/6ef29c8329.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Merry Christmas!\n\nMay you find gratitude \nMay you find joy in each other\n\nAnd let there be peace on Earth\n\n<img src=\"uploads/2021/6ef29c8329.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-25T00:40:46-05:00",
 				"url": "https://1-1.hjalmer.com/2021/12/24/merry-christmas-may.html",
 				"tags": ["Photos"]
@@ -3228,7 +3252,7 @@
 				"id": "http://hjalm.micro.blog/2021/12/21/tough-times-in.html",
 				
 				"content_html": "<p>Tough times in Puppy Town</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tough times in Puppy Town\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/7e1976867d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Tough times in Puppy Town\n\n<img src=\"uploads/2021/7e1976867d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-21T17:24:59-05:00",
 				"url": "https://1-1.hjalmer.com/2021/12/21/tough-times-in.html",
 				"tags": ["Photos"]
@@ -3294,7 +3318,7 @@
 				"id": "http://hjalm.micro.blog/2021/12/15/bloodselfie.html",
 				
 				"content_html": "<p>#BloodSelfie</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#BloodSelfie\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/ed663fd310.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "#BloodSelfie\n\n<img src=\"uploads/2021/ed663fd310.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-15T11:29:14-05:00",
 				"url": "https://1-1.hjalmer.com/2021/12/15/bloodselfie.html",
 				"tags": ["Photos"]
@@ -3303,7 +3327,7 @@
 				"id": "http://hjalm.micro.blog/2021/12/14/my-top-three.html",
 				
 				"content_html": "<p>My top three. I have had these locked in for a while. So these are my picks for tonight’s announcement:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My top three. I have had these locked in for a while. So these are my picks for tonight’s announcement:\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/483d088f8e.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My top three. I have had these locked in for a while. So these are my picks for tonight’s announcement:\n\n\n\n<img src=\"uploads/2021/483d088f8e.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-14T21:08:04-05:00",
 				"url": "https://1-1.hjalmer.com/2021/12/14/my-top-three.html",
 				"tags": ["Photos"]
@@ -3613,7 +3637,7 @@
 				"id": "http://hjalm.micro.blog/2021/10/31/status-tricked-and.html",
 				
 				"content_html": "<p>Status: tricked and treated</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Status: tricked and treated\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/109a9334a6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Status: tricked and treated\n\n<img src=\"uploads/2021/109a9334a6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-31T19:16:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/10/31/status-tricked-and.html",
 				"tags": ["Photos","Status"]
@@ -3640,7 +3664,7 @@
 				"id": "http://hjalm.micro.blog/2021/10/19/theres-a-moon.html",
 				
 				"content_html": "<p>There’s a Moon over Margaret Street tonight…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There’s a Moon over Margaret Street tonight…\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/bf4f33f0d8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "There’s a Moon over Margaret Street tonight…\n\n<img src=\"uploads/2021/bf4f33f0d8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-19T18:43:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/10/19/theres-a-moon.html",
 				"tags": ["Photos","Experiential"]
@@ -3727,7 +3751,7 @@
 				"id": "http://hjalm.micro.blog/2021/09/27/this-is-from.html",
 				
 				"content_html": "<p>This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented me a cropped version highlighting her face—which I attempted to emulate, here. I was really struck by the quality of the light and shadow.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented me a cropped version highlighting her face—which I attempted to emulate, here. I was really struck by the quality of the light and shadow. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/457f052d81.jpg\" width=\"600\" height=\"339\" alt=\"\" />\n",
+				"content_text": "This is from a selfie my daughter took with her iPod. The Photos widget in iOS presented me a cropped version highlighting her face—which I attempted to emulate, here. I was really struck by the quality of the light and shadow. \n\n<img src=\"uploads/2021/457f052d81.jpg\" width=\"600\" height=\"339\" alt=\"\" />\n",
 				"date_published": "2021-09-27T22:43:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/27/this-is-from.html",
 				"tags": ["Photos"]
@@ -3736,7 +3760,7 @@
 				"id": "http://hjalm.micro.blog/2021/09/27/jupiter-saturn-and.html",
 				
 				"content_html": "<p>Jupiter, Saturn, and lens flare</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Jupiter, Saturn, and lens flare\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/59e648c68e.jpg\" width=\"419\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Jupiter, Saturn, and lens flare\n\n<img src=\"uploads/2021/59e648c68e.jpg\" width=\"419\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-27T22:16:14-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/27/jupiter-saturn-and.html",
 				"tags": ["Photos"]
@@ -3817,7 +3841,7 @@
 				"id": "http://hjalm.micro.blog/2021/09/20/donating-my-th.html",
 				
 				"content_html": "<p>Donating my 14th pint #bloodselfie</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Donating my 14th pint #bloodselfie\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/5587b44469.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Donating my 14th pint #bloodselfie\n\n<img src=\"uploads/2021/5587b44469.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-20T11:18:19-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/20/donating-my-th.html",
 				"tags": ["Photos"]
@@ -3850,7 +3874,7 @@
 				"id": "http://hjalm.micro.blog/2021/09/10/straw-hat-at.html",
 				
 				"content_html": "<p>Straw hat at sunset</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Straw hat at sunset\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/218ec24f4c.jpg\" width=\"450\" height=\"600\" alt=\"hat-wearing man at sunset\" />\n",
+				"content_text": "Straw hat at sunset\n\n<img src=\"uploads/2021/218ec24f4c.jpg\" width=\"450\" height=\"600\" alt=\"hat-wearing man at sunset\" />\n",
 				"date_published": "2021-09-10T21:01:39-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/10/straw-hat-at.html",
 				"tags": ["Photos"]
@@ -3901,7 +3925,7 @@
 				"id": "http://hjalm.micro.blog/2021/09/05/status-somewhere-in.html",
 				
 				"content_html": "<p>Status: somewhere in Indiana</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Status: somewhere in Indiana\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/6aed8140cb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Status: somewhere in Indiana\n\n<img src=\"uploads/2021/6aed8140cb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-05T10:07:24-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/05/status-somewhere-in.html",
 				"tags": ["Photos"]
@@ -3919,7 +3943,7 @@
 				"id": "http://hjalm.micro.blog/2021/09/04/the-shifting-shafts.html",
 				
 				"content_html": "<p>“…The shifting shafts of shining weave the fabric of their dreams.”</p>\n<p>Sunrise, Kill Devil Hills, NC</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“…The shifting shafts of shining weave the fabric of their dreams.”\n\nSunrise, Kill Devil Hills, NC\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/064583007a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "“…The shifting shafts of shining weave the fabric of their dreams.”\n\nSunrise, Kill Devil Hills, NC\n\n<img src=\"uploads/2021/064583007a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-09-04T05:49:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/04/the-shifting-shafts.html",
 				"tags": ["Photos","Experiential"]
@@ -3945,7 +3969,7 @@
 				"id": "http://hjalm.micro.blog/2021/09/02/status.html",
 				
 				"content_html": "<p>Status</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Status\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/bcb54037d8.jpg\" width=\"600\" height=\"490\" alt=\"\" />\n",
+				"content_text": "Status\n\n<img src=\"uploads/2021/bcb54037d8.jpg\" width=\"600\" height=\"490\" alt=\"\" />\n",
 				"date_published": "2021-09-02T15:43:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/02/status.html",
 				"tags": ["Photos","Status"]
@@ -3963,7 +3987,7 @@
 				"id": "http://hjalm.micro.blog/2021/09/01/me-and-louie.html",
 				
 				"content_html": "<p>Me and Louie</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Me and Louie\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/30de930c96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Me and Louie\n\n<img src=\"uploads/2021/30de930c96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-01T06:36:47-05:00",
 				"url": "https://1-1.hjalmer.com/2021/09/01/me-and-louie.html",
 				"tags": ["Photos"]
@@ -3989,7 +4013,7 @@
 				"id": "http://hjalm.micro.blog/2021/08/30/good-morning-from.html",
 				
 				"content_html": "<p>Good morning from the Outer Banks!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good morning from the Outer Banks!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/b93ff4dbb2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Good morning from the Outer Banks!\n\n<img src=\"uploads/2021/b93ff4dbb2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-30T07:00:44-05:00",
 				"url": "https://1-1.hjalmer.com/2021/08/30/good-morning-from.html",
 				"tags": ["Photos"]
@@ -4014,7 +4038,7 @@
 				"id": "http://hjalm.micro.blog/2021/08/24/scrapple-with-breakfast.html",
 				
 				"content_html": "<p>Scrapple with breakfast. Cheer wine with dinner.</p>\n<p>We are <em>not</em> in Minnesota.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Scrapple with breakfast. Cheer wine with dinner. \n\nWe are *not* in Minnesota. \n\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/f7545be819.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Scrapple with breakfast. Cheer wine with dinner. \n\nWe are *not* in Minnesota. \n\n\n\n<img src=\"uploads/2021/f7545be819.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-24T18:41:58-05:00",
 				"url": "https://1-1.hjalmer.com/2021/08/24/scrapple-with-breakfast.html",
 				"tags": ["Photos"]
@@ -4063,7 +4087,7 @@
 				"id": "http://hjalm.micro.blog/2021/07/31/found-my-bike.html",
 				
 				"content_html": "<p>Found my bike helmet. It’s about twenty years old, by now, but never suffered an impact. Working on getting back in the saddle.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Found my bike helmet. It’s about twenty years old, by now, but never suffered an impact. Working on getting back in the saddle.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/273086de16.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Found my bike helmet. It’s about twenty years old, by now, but never suffered an impact. Working on getting back in the saddle.\n\n<img src=\"uploads/2021/273086de16.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-31T19:51:36-05:00",
 				"url": "https://1-1.hjalmer.com/2021/07/31/found-my-bike.html",
 				"tags": ["Photos"]
@@ -4195,7 +4219,7 @@
 				"id": "http://hjalm.micro.blog/2021/06/22/a-lovely-night.html",
 				
 				"content_html": "<p>A lovely night for a pint</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A lovely night for a pint\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/f424a1979f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A lovely night for a pint\n\n<img src=\"uploads/2021/f424a1979f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-22T20:30:33-05:00",
 				"url": "https://1-1.hjalmer.com/2021/06/22/a-lovely-night.html",
 				"tags": ["Photos"]
@@ -4204,7 +4228,7 @@
 				"id": "http://hjalm.micro.blog/2021/06/20/this-includes-my.html",
 				
 				"content_html": "<p>This includes my Dad’s favorite chair in a favorite room.</p>\n<p>I took this shot, visiting my mom, a few months after he passed away in 2015.</p>\n<p>Naturally, the Photos widget chose Father’s Day 2021 to present it to me from all the images it could have picked.</p>\n<p>To all the fathers, to all the people who have fathers, to all the people contemplating becoming fathers, this day is richly varied, emotionally. I’m sure my experiences and yours overlap at least a little. I feel you.</p>\n<p>If anything, being a father has shown me so many ways to improve who I am and what I do in the world. It is supremely humbling.</p>\n<p>On this day, I wish you peace, joy, and love.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This includes my Dad’s favorite chair in a favorite room.\n\nI took this shot, visiting my mom, a few months after he passed away in 2015. \n\nNaturally, the Photos widget chose Father’s Day 2021 to present it to me from all the images it could have picked. \n\nTo all the fathers, to all the people who have fathers, to all the people contemplating becoming fathers, this day is richly varied, emotionally. I’m sure my experiences and yours overlap at least a little. I feel you. \n\nIf anything, being a father has shown me so many ways to improve who I am and what I do in the world. It is supremely humbling. \n\nOn this day, I wish you peace, joy, and love. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/88acbdbc68.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "This includes my Dad’s favorite chair in a favorite room.\n\nI took this shot, visiting my mom, a few months after he passed away in 2015. \n\nNaturally, the Photos widget chose Father’s Day 2021 to present it to me from all the images it could have picked. \n\nTo all the fathers, to all the people who have fathers, to all the people contemplating becoming fathers, this day is richly varied, emotionally. I’m sure my experiences and yours overlap at least a little. I feel you. \n\nIf anything, being a father has shown me so many ways to improve who I am and what I do in the world. It is supremely humbling. \n\nOn this day, I wish you peace, joy, and love. \n\n<img src=\"uploads/2021/88acbdbc68.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-20T10:50:38-05:00",
 				"url": "https://1-1.hjalmer.com/2021/06/20/this-includes-my.html",
 				"tags": ["Photos"]
@@ -4389,7 +4413,7 @@
 				"id": "http://hjalm.micro.blog/2021/05/15/second-dose-acquired.html",
 				
 				"content_html": "<p>Second dose acquired.</p>\n<p>The Vaccination, Part II: Return to House Pfizer</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Second dose acquired. \n\nThe Vaccination, Part II: Return to House Pfizer\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/a22e4be075.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Second dose acquired. \n\nThe Vaccination, Part II: Return to House Pfizer\n\n<img src=\"uploads/2021/a22e4be075.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-15T10:34:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/05/15/second-dose-acquired.html",
 				"tags": ["Photos","Status"]
@@ -4476,7 +4500,7 @@
 				"id": "http://hjalm.micro.blog/2021/04/25/minute-wait-after.html",
 				
 				"content_html": "<p>15-minute wait after first vaccination. This place is huge and I appreciate the clear mobilization of the National Guard to make this work</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "15-minute wait after first vaccination. This place is huge and I appreciate the clear mobilization of the National Guard to make this work\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/93c20b3475.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2021/cd7bb60851.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2021/48f497f0dd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "15-minute wait after first vaccination. This place is huge and I appreciate the clear mobilization of the National Guard to make this work\n\n<img src=\"uploads/2021/93c20b3475.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/cd7bb60851.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/48f497f0dd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-25T12:47:51-05:00",
 				"url": "https://1-1.hjalmer.com/2021/04/25/minute-wait-after.html",
 				"tags": ["Photos"]
@@ -4537,7 +4561,7 @@
 				"id": "http://hjalm.micro.blog/2021/04/17/status.html",
 				
 				"content_html": "<p>Status</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Status\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/1aaaaed6d8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Status\n\n<img src=\"uploads/2021/1aaaaed6d8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-04-17T20:29:23-05:00",
 				"url": "https://1-1.hjalmer.com/2021/04/17/status.html",
 				"tags": ["Photos"]
@@ -4589,7 +4613,7 @@
 				"id": "http://hjalm.micro.blog/2021/04/10/180011.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/8a6112e9f1.jpg\" width=\"600\" height=\"125\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/8a6112e9f1.jpg\" width=\"600\" height=\"125\" alt=\"\" />\n",
 				"date_published": "2021-04-10T18:00:11-05:00",
 				"url": "https://1-1.hjalmer.com/2021/04/10/180011.html",
 				"tags": ["Photos"]
@@ -4616,7 +4640,7 @@
 				"id": "http://hjalm.micro.blog/2021/03/30/one-of-these.html",
 				
 				"content_html": "<p>One of these things is not like the other</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of these things is not like the other \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/5608c79330.jpg\" width=\"600\" height=\"303\" alt=\"\" />\n",
+				"content_text": "One of these things is not like the other \n\n<img src=\"uploads/2021/5608c79330.jpg\" width=\"600\" height=\"303\" alt=\"\" />\n",
 				"date_published": "2021-03-30T15:22:42-05:00",
 				"url": "https://1-1.hjalmer.com/2021/03/30/one-of-these.html",
 				"tags": ["Photos"]
@@ -4625,7 +4649,7 @@
 				"id": "http://hjalm.micro.blog/2021/03/28/185210.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/4f722f5bc0.jpg\" width=\"600\" height=\"347\" alt=\"\" />\n",
+				"content_text": "\n<img src=\"uploads/2021/4f722f5bc0.jpg\" width=\"600\" height=\"347\" alt=\"\" />\n",
 				"date_published": "2021-03-28T18:52:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/03/28/185210.html",
 				"tags": ["Photos","Status","Experiential"]
@@ -4634,7 +4658,7 @@
 				"id": "http://hjalm.micro.blog/2021/03/28/125024.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/83b1a94232.jpg\" width=\"600\" height=\"195\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2021/83b1a94232.jpg\" width=\"600\" height=\"195\" alt=\"\" />\n",
 				"date_published": "2021-03-28T12:50:24-05:00",
 				"url": "https://1-1.hjalmer.com/2021/03/28/125024.html",
 				"tags": ["Photos"]
@@ -4973,7 +4997,7 @@
 				"id": "http://hjalm.micro.blog/2021/02/04/when-the-wind.html",
 				
 				"content_html": "<p>When the wind makes it feel colder than it is… 15 degrees Fahrenheit</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When the wind makes it feel colder than it is… 15 degrees Fahrenheit \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/09f89be291.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "When the wind makes it feel colder than it is… 15 degrees Fahrenheit \n\n<img src=\"uploads/2021/09f89be291.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-04T19:34:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/02/04/when-the-wind.html",
 				"tags": ["Photos","Himself","Status"]
@@ -4991,7 +5015,7 @@
 				"id": "http://hjalm.micro.blog/2021/02/03/good-morning.html",
 				
 				"content_html": "<p>Good morning!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good morning!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/7447dc4162.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Good morning!\n\n<img src=\"uploads/2021/7447dc4162.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-03T11:00:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/02/03/good-morning.html",
 				"tags": ["Photos","Status"]
@@ -5000,7 +5024,7 @@
 				"id": "http://hjalm.micro.blog/2021/02/01/poppa-and-sofia.html",
 				
 				"content_html": "<p>Poppa and Sofia. And beard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Poppa and Sofia. And beard. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2021/b121cb4a79.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Poppa and Sofia. And beard. \n\n<img src=\"uploads/2021/b121cb4a79.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-02-01T20:23:00-05:00",
 				"url": "https://1-1.hjalmer.com/2021/02/01/poppa-and-sofia.html",
 				"tags": ["Photos","Himself"]
@@ -5090,7 +5114,7 @@
 				"id": "http://hjalm.micro.blog/2020/12/26/tonights-project-i.html",
 				
 				"content_html": "<p>Tonight’s project. I actually thought for some time that I had been shorted one critical piece. Then I had to backtrack when I learned I had used an extra piece in error.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tonight’s project. I actually thought for some time that I had been shorted one critical piece. Then I had to backtrack when I learned I had used an extra piece in error. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/9c8c4e1e62.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Tonight’s project. I actually thought for some time that I had been shorted one critical piece. Then I had to backtrack when I learned I had used an extra piece in error. \n\n<img src=\"uploads/2020/9c8c4e1e62.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-26T19:55:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/12/26/tonights-project-i.html",
 				"tags": ["Photos","Brilliant"]
@@ -5117,7 +5141,7 @@
 				"id": "http://hjalm.micro.blog/2020/12/24/a-right-jolly.html",
 				
 				"content_html": "<p>“…A right jolly old elf”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“…A right jolly old elf”\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/ee2b802c2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "“…A right jolly old elf”\n\n<img src=\"uploads/2020/ee2b802c2e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-24T22:22:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/12/24/a-right-jolly.html",
 				"tags": ["Photos","Himself"]
@@ -5180,7 +5204,7 @@
 				"id": "http://hjalm.micro.blog/2020/12/08/saturday-living-room.html",
 				
 				"content_html": "<p>Saturday: Living room re-arranged<br>\nSunday: Tree selected and placed<br>\nMonday: Cranberry and popcorn garlands strung<br>\nTuesday: Garlands, lights and ornaments hung</p>\n<p>Soundtrack: <em><a href=\"https://www.mannheimsteamroller.com/\">Mannheim Steamroller</a></em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Saturday: Living room re-arranged  \nSunday: Tree selected and placed  \nMonday: Cranberry and popcorn garlands strung  \nTuesday: Garlands, lights and ornaments hung  \n\nSoundtrack: _[Mannheim Steamroller](https://www.mannheimsteamroller.com/)_\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/57edf1079f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Saturday: Living room re-arranged  \nSunday: Tree selected and placed  \nMonday: Cranberry and popcorn garlands strung  \nTuesday: Garlands, lights and ornaments hung  \n\nSoundtrack: _[Mannheim Steamroller](https://www.mannheimsteamroller.com/)_\n\n<img src=\"uploads/2020/57edf1079f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-08T22:34:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/12/08/saturday-living-room.html",
 				"tags": ["Photos","Status"]
@@ -5198,7 +5222,7 @@
 				"id": "http://hjalm.micro.blog/2020/12/04/what-i-have.html",
 				
 				"content_html": "<p>What I have realized is that photos can’t capture thoughts or feelings. Not exactly. They don’t capture the love we feel, the joy of a certain moment, the sense of place we may feel, or a feeling of belonging with family or friends. They just capture the light in the moment the shutter is released by causing a chemical reaction in a film or sensors in an array to record their states.</p>\n<p>In this, photographs lie to us by showing an objective truth.</p>\n<p>The image evokes recollection, or the image transports us through time, or invites us into a new way of seeing, challenges notions or perspectives.</p>\n<p>The art in photography is that it makes us think and feel, even though our thoughts and feelings may only be loosely related to the subjects of our gazes.</p>\n<p>All this from photons, transformed, in the tiniest slices of time.</p>\n<p>When I snapped this image, I had been enjoying the contrast of the dark tree limbs against the orange and amber of the sunset.</p>\n<p>By the time it occurred to me to attempt to capture it, launch my camera app on my phone, and frame an image I hoped might not be hideous, the sky changed.</p>\n<p>The image doesn’t show any of that. Just an amateurish shot by someone who intended well.</p>\n<p>But I remember.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What I have realized is that photos can’t capture thoughts or feelings. Not exactly. They don’t capture the love we feel, the joy of a certain moment, the sense of place we may feel, or a feeling of belonging with family or friends. They just capture the light in the moment the shutter is released by causing a chemical reaction in a film or sensors in an array to record their states.\n\nIn this, photographs lie to us by showing an objective truth.\n\nThe image evokes recollection, or the image transports us through time, or invites us into a new way of seeing, challenges notions or perspectives.\n\nThe art in photography is that it makes us think and feel, even though our thoughts and feelings may only be loosely related to the subjects of our gazes. \n\nAll this from photons, transformed, in the tiniest slices of time.\n\nWhen I snapped this image, I had been enjoying the contrast of the dark tree limbs against the orange and amber of the sunset.\n\nBy the time it occurred to me to attempt to capture it, launch my camera app on my phone, and frame an image I hoped might not be hideous, the sky changed.\n\nThe image doesn’t show any of that. Just an amateurish shot by someone who intended well.\n\nBut I remember. \n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/5c98cee819.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "What I have realized is that photos can’t capture thoughts or feelings. Not exactly. They don’t capture the love we feel, the joy of a certain moment, the sense of place we may feel, or a feeling of belonging with family or friends. They just capture the light in the moment the shutter is released by causing a chemical reaction in a film or sensors in an array to record their states.\n\nIn this, photographs lie to us by showing an objective truth.\n\nThe image evokes recollection, or the image transports us through time, or invites us into a new way of seeing, challenges notions or perspectives.\n\nThe art in photography is that it makes us think and feel, even though our thoughts and feelings may only be loosely related to the subjects of our gazes. \n\nAll this from photons, transformed, in the tiniest slices of time.\n\nWhen I snapped this image, I had been enjoying the contrast of the dark tree limbs against the orange and amber of the sunset.\n\nBy the time it occurred to me to attempt to capture it, launch my camera app on my phone, and frame an image I hoped might not be hideous, the sky changed.\n\nThe image doesn’t show any of that. Just an amateurish shot by someone who intended well.\n\nBut I remember. \n\n\n<img src=\"uploads/2020/5c98cee819.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-04T23:09:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/12/04/what-i-have.html",
 				"tags": ["Photos","Experiential"]
@@ -5290,7 +5314,7 @@
 				"id": "http://hjalm.micro.blog/2020/11/12/finally.html",
 				
 				"content_html": "<p>Finally!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/dfe0807ab1.png\" width=\"600\" height=\"463\" alt=\"\" />\n",
+				"content_text": "Finally!\n\n<img src=\"uploads/2020/dfe0807ab1.png\" width=\"600\" height=\"463\" alt=\"\" />\n",
 				"date_published": "2020-11-12T21:21:43-05:00",
 				"url": "https://1-1.hjalmer.com/2020/11/12/finally.html",
 				"tags": ["Photos"]
@@ -5299,7 +5323,7 @@
 				"id": "http://hjalm.micro.blog/2020/11/12/my-big-sur.html",
 				
 				"content_html": "<p>My Big Sur experience since noon today on my non-beta (10.15.7) laptop</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My Big Sur experience since noon today on my non-beta (10.15.7) laptop\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/5d64cf6fd2.png\" width=\"600\" height=\"235\" alt=\"\" />\n",
+				"content_text": "My Big Sur experience since noon today on my non-beta (10.15.7) laptop\n\n<img src=\"uploads/2020/5d64cf6fd2.png\" width=\"600\" height=\"235\" alt=\"\" />\n",
 				"date_published": "2020-11-12T16:23:37-05:00",
 				"url": "https://1-1.hjalmer.com/2020/11/12/my-big-sur.html",
 				"tags": ["Photos"]
@@ -5332,7 +5356,7 @@
 				"id": "http://hjalm.micro.blog/2020/10/31/scary-halloween-pic.html",
 				
 				"content_html": "<p>Scary Halloween pic.</p>\n<!-- raw HTML omitted -->\n<p>Silvertone is my favorite filter.</p>\n",
-				"content_text": "Scary Halloween pic.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/36bc544ffa.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n\nSilvertone is my favorite filter.\n",
+				"content_text": "Scary Halloween pic.\n\n<img src=\"uploads/2020/36bc544ffa.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n\nSilvertone is my favorite filter.\n",
 				"date_published": "2020-10-31T13:14:11-05:00",
 				"url": "https://1-1.hjalmer.com/2020/10/31/scary-halloween-pic.html",
 				"tags": ["Photos"]
@@ -5341,7 +5365,7 @@
 				"id": "http://hjalm.micro.blog/2020/10/31/the-first-james.html",
 				
 				"content_html": "<p>The first James Bond movie I remember seeing, on TV, in the late 1970s, was <em>You Only Live Twice</em>. It starred Sean Connery. Therefore, for me, he is the true Bond.</p>\n<p>I enjoyed his part in <em>The Untouchables</em>. His line &ldquo;Enough of this running shit!&rdquo; will live forever in my brain.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The first James Bond movie I remember seeing, on TV, in the late 1970s, was _You Only Live Twice_. It starred Sean Connery. Therefore, for me, he is the true Bond.\r\n\r\nI enjoyed his part in _The Untouchables_. His line \"Enough of this running shit!\" will live forever in my brain.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/6b873efa0f.jpg\" width=\"397\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The first James Bond movie I remember seeing, on TV, in the late 1970s, was _You Only Live Twice_. It starred Sean Connery. Therefore, for me, he is the true Bond.\r\n\r\nI enjoyed his part in _The Untouchables_. His line \"Enough of this running shit!\" will live forever in my brain.\n\n<img src=\"uploads/2020/6b873efa0f.jpg\" width=\"397\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-10-31T12:49:19-05:00",
 				"url": "https://1-1.hjalmer.com/2020/10/31/the-first-james.html",
 				"tags": ["Photos"]
@@ -5415,7 +5439,7 @@
 				"id": "http://hjalm.micro.blog/2020/10/15/when-your-daughter.html",
 				
 				"content_html": "<p>When your daughter makes you a treat. Clever girl!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When your daughter makes you a treat. Clever girl!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/f6b924bbf7.jpg\" width=\"450\" height=\"600\" alt=\"Brown E\" />\n",
+				"content_text": "When your daughter makes you a treat. Clever girl!\n\n<img src=\"uploads/2020/f6b924bbf7.jpg\" width=\"450\" height=\"600\" alt=\"Brown E\" />\n",
 				"date_published": "2020-10-15T23:25:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/10/15/when-your-daughter.html",
 				"tags": ["Photos","Brilliant"]
@@ -5424,7 +5448,7 @@
 				"id": "http://hjalm.micro.blog/2020/10/14/dead-leaf-echo.html",
 				"title": "Dead Leaf Echo",
 				"content_html": "<p>Listened to <a href=\"http://www.deadleafechonyc.com\">Dead Leaf Echo</a> tonight for the first time, via Apple Music.  Their recent full-length album Beyond.Desire is there as well as several EPs and a much earlier LP. Possibly their full catalog is on Bandcamp.</p>\n<p>The sound was in a sweet spot for me. I heard sounds that reminded me of Cocteau Twins, My Bloody Valentine, Swervedriver, Love and Rockets, Kitchens of Distinction, Bailter Space, and others. When I read of all the bands they have toured with, I was disappointed I hadn’t listened to them sooner. God bless streaming music!</p>\n<p>I will likely be collecting their sounds.</p>\n<!-- raw HTML omitted -->\n<p>See also: <a href=\"https://1-1.hjalmer.com/therial/\">ætherial</a></p>\n",
-				"content_text": "Listened to [Dead Leaf Echo](http://www.deadleafechonyc.com) tonight for the first time, via Apple Music.  Their recent full-length album Beyond.Desire is there as well as several EPs and a much earlier LP. Possibly their full catalog is on Bandcamp.\n\nThe sound was in a sweet spot for me. I heard sounds that reminded me of Cocteau Twins, My Bloody Valentine, Swervedriver, Love and Rockets, Kitchens of Distinction, Bailter Space, and others. When I read of all the bands they have toured with, I was disappointed I hadn’t listened to them sooner. God bless streaming music!\n\nI will likely be collecting their sounds.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/1b3e371735.jpg\" width=\"486\" height=\"485\" alt=\"\" />\n\nSee also: [ætherial](https://1-1.hjalmer.com/therial/)\n",
+				"content_text": "Listened to [Dead Leaf Echo](http://www.deadleafechonyc.com) tonight for the first time, via Apple Music.  Their recent full-length album Beyond.Desire is there as well as several EPs and a much earlier LP. Possibly their full catalog is on Bandcamp.\n\nThe sound was in a sweet spot for me. I heard sounds that reminded me of Cocteau Twins, My Bloody Valentine, Swervedriver, Love and Rockets, Kitchens of Distinction, Bailter Space, and others. When I read of all the bands they have toured with, I was disappointed I hadn’t listened to them sooner. God bless streaming music!\n\nI will likely be collecting their sounds.\n\n<img src=\"uploads/2020/1b3e371735.jpg\" width=\"486\" height=\"485\" alt=\"\" />\n\nSee also: [ætherial](https://1-1.hjalmer.com/therial/)\n",
 				"date_published": "2020-10-14T22:36:50-05:00",
 				"url": "https://1-1.hjalmer.com/2020/10/14/dead-leaf-echo.html",
 				"tags": ["Photos"]
@@ -5433,7 +5457,7 @@
 				"id": "http://hjalm.micro.blog/2020/10/13/i-remember-loving.html",
 				
 				"content_html": "<p>I remember loving Pointcast and installing it on home and work computers. At the time I also loved HotBot and Internet Explorer and WIRED Magazine and A Declaration of the Independance of Cyberspace.</p>\n<p>And Techno.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I remember loving Pointcast and installing it on home and work computers. At the time I also loved HotBot and Internet Explorer and WIRED Magazine and A Declaration of the Independance of Cyberspace.\n\nAnd Techno. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/9a649174e2.jpg\" width=\"352\" height=\"314\" alt=\"image of PointCast UI circa late 1990s\" />\n",
+				"content_text": "I remember loving Pointcast and installing it on home and work computers. At the time I also loved HotBot and Internet Explorer and WIRED Magazine and A Declaration of the Independance of Cyberspace.\n\nAnd Techno. \n\n<img src=\"uploads/2020/9a649174e2.jpg\" width=\"352\" height=\"314\" alt=\"image of PointCast UI circa late 1990s\" />\n",
 				"date_published": "2020-10-13T22:25:02-05:00",
 				"url": "https://1-1.hjalmer.com/2020/10/13/i-remember-loving.html",
 				"tags": ["Photos"]
@@ -5466,7 +5490,7 @@
 				"id": "http://hjalm.micro.blog/2020/09/28/the-halloween-tree.html",
 				"title": "The Halloween Tree",
 				"content_html": "<!-- raw HTML omitted -->\n<p>I love the novel <a href=\"https://en.wikipedia.org/wiki/The_Halloween_Tree\"><em>The Halloween Tree</em></a> by Ray Bradbury.</p>\n<p>It was one of the early young adult novels I read in my life, and possibly my first exposure to Ray Bradbury as a youth. As a boy it was the first time I had deeply considered death.</p>\n<p>What I appreciated most was the historical scope and sweep of history, but I won&rsquo;t lie that I don&rsquo;t appreciate being so deeply mislead about <a href=\"https://en.wikipedia.org/wiki/Samhain\">Samhain</a>. It&rsquo;s fiction, of course. An author can write what he wishes. Powerful imagery, but… wrong.</p>\n<p>Yet I own paper and electronic versions.</p>\n<p>It means that much to me.</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/4676/2020/aab6da5bff.jpg\" width=\"518\" height=\"762\" alt=\"\" />\n\nI love the novel [*The Halloween Tree*](https://en.wikipedia.org/wiki/The_Halloween_Tree) by Ray Bradbury.\n\nIt was one of the early young adult novels I read in my life, and possibly my first exposure to Ray Bradbury as a youth. As a boy it was the first time I had deeply considered death.\n\nWhat I appreciated most was the historical scope and sweep of history, but I won't lie that I don't appreciate being so deeply mislead about [Samhain](https://en.wikipedia.org/wiki/Samhain). It's fiction, of course. An author can write what he wishes. Powerful imagery, but… wrong.\n\nYet I own paper and electronic versions.\n\nIt means that much to me.\n",
+				"content_text": "<img src=\"uploads/2020/aab6da5bff.jpg\" width=\"518\" height=\"762\" alt=\"\" />\n\nI love the novel [*The Halloween Tree*](https://en.wikipedia.org/wiki/The_Halloween_Tree) by Ray Bradbury.\n\nIt was one of the early young adult novels I read in my life, and possibly my first exposure to Ray Bradbury as a youth. As a boy it was the first time I had deeply considered death.\n\nWhat I appreciated most was the historical scope and sweep of history, but I won't lie that I don't appreciate being so deeply mislead about [Samhain](https://en.wikipedia.org/wiki/Samhain). It's fiction, of course. An author can write what he wishes. Powerful imagery, but… wrong.\n\nYet I own paper and electronic versions.\n\nIt means that much to me.\n",
 				"date_published": "2020-09-28T20:15:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/09/28/the-halloween-tree.html",
 				"tags": ["Brilliant"]
@@ -5475,7 +5499,7 @@
 				"id": "http://hjalm.micro.blog/2020/09/28/danse-macabre-op.html",
 				"title": "Danse Macabre, Op. 40",
 				"content_html": "<!-- raw HTML omitted -->\n<p>My love affair with Danse Macabre began in elementary school. Mrs. Otten played Halloween songs on the piano and we sang from mimeographed lyric sheets.</p>\n<p>I was introduced to parts of the melody via a song called the <em>Halloween Song</em>, which has stuck in my head ever since, because the refrain includes singing the letters that spell the holiday.</p>\n<p><a href=\"https://www.youtube.com/watch?v=mjkh8ninN2Y\">It sounded a lot like this YouTube.</a> I&rsquo;m certain my teacher played a copy of this very recording.</p>\n<p>In music classes in later years we listened to the symphonic version while watching filmstrips of artistic conceptions of what the various parts of the music could represent.</p>\n<p><a href=\"https://www.cbc.ca/music/read/danse-macabre-a-brief-history-of-halloween-s-haunting-anthem-1.5062586\">Here&rsquo;s a great article from CBC</a> which includes some great background on the piece and some really enjoyable renditions including one for two pianos.</p>\n<p>For me the piece is tied to Autumn and to All Hallow&rsquo;s Evening, even though it wasn&rsquo;t the intent of the composer.</p>\n<p>Schools don&rsquo;t track holidays the same way as they did, a long time ago. So for my daughter, I have work to do If I want this to stick.</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/4676/2020/96ef298a5d.png\" width=\"301\" height=\"341\" alt=\"\" />\n\nMy love affair with Danse Macabre began in elementary school. Mrs. Otten played Halloween songs on the piano and we sang from mimeographed lyric sheets.\n\nI was introduced to parts of the melody via a song called the *Halloween Song*, which has stuck in my head ever since, because the refrain includes singing the letters that spell the holiday.\n\n[It sounded a lot like this YouTube.](https://www.youtube.com/watch?v=mjkh8ninN2Y) I'm certain my teacher played a copy of this very recording.\n\nIn music classes in later years we listened to the symphonic version while watching filmstrips of artistic conceptions of what the various parts of the music could represent.\n\n[Here's a great article from CBC](https://www.cbc.ca/music/read/danse-macabre-a-brief-history-of-halloween-s-haunting-anthem-1.5062586) which includes some great background on the piece and some really enjoyable renditions including one for two pianos.\n\nFor me the piece is tied to Autumn and to All Hallow's Evening, even though it wasn't the intent of the composer.\n\nSchools don't track holidays the same way as they did, a long time ago. So for my daughter, I have work to do If I want this to stick.\n",
+				"content_text": "<img src=\"uploads/2020/96ef298a5d.png\" width=\"301\" height=\"341\" alt=\"\" />\n\nMy love affair with Danse Macabre began in elementary school. Mrs. Otten played Halloween songs on the piano and we sang from mimeographed lyric sheets.\n\nI was introduced to parts of the melody via a song called the *Halloween Song*, which has stuck in my head ever since, because the refrain includes singing the letters that spell the holiday.\n\n[It sounded a lot like this YouTube.](https://www.youtube.com/watch?v=mjkh8ninN2Y) I'm certain my teacher played a copy of this very recording.\n\nIn music classes in later years we listened to the symphonic version while watching filmstrips of artistic conceptions of what the various parts of the music could represent.\n\n[Here's a great article from CBC](https://www.cbc.ca/music/read/danse-macabre-a-brief-history-of-halloween-s-haunting-anthem-1.5062586) which includes some great background on the piece and some really enjoyable renditions including one for two pianos.\n\nFor me the piece is tied to Autumn and to All Hallow's Evening, even though it wasn't the intent of the composer.\n\nSchools don't track holidays the same way as they did, a long time ago. So for my daughter, I have work to do If I want this to stick.\n",
 				"date_published": "2020-09-28T19:51:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/09/28/danse-macabre-op.html",
 				"tags": ["Music","Brilliant"]
@@ -5484,7 +5508,7 @@
 				"id": "http://hjalm.micro.blog/2020/09/27/sending-an-old.html",
 				
 				"content_html": "<p>Sending an old device to the Great Cloud in the Sky</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sending an old device to the Great Cloud in the Sky\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/350ceb6e25.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Sending an old device to the Great Cloud in the Sky\n\n<img src=\"uploads/2020/350ceb6e25.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-27T13:21:55-05:00",
 				"url": "https://1-1.hjalmer.com/2020/09/27/sending-an-old.html",
 				"tags": ["Photos"]
@@ -5511,7 +5535,7 @@
 				"id": "http://hjalm.micro.blog/2020/09/19/im-a-long.html",
 				
 				"content_html": "<p>I’m a long-time fan of <a href=\"https://sacredgeometryinternational.com\">Randall Carlson</a> which I owe to the <a href=\"http://podcasts.joerogan.net/\">Joe Rogan podcast</a>. Anyway, outside of liking and subscribing to YouTube channels and videos, here is another way I can start to support his work.</p>\n<p>So, yay! The iridescent <a href=\"https://sacredgeometryinternational.com/sgi-store/#!/Gnosis-3x3-Weatherproof-Sticker/p/233753966/category=0\">Gnosis sticker</a> is cooler than I hoped it would be!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m a long-time fan of [Randall Carlson](https://sacredgeometryinternational.com) which I owe to the [Joe Rogan podcast](http://podcasts.joerogan.net/). Anyway, outside of liking and subscribing to YouTube channels and videos, here is another way I can start to support his work. \n\nSo, yay! The iridescent [Gnosis sticker](https://sacredgeometryinternational.com/sgi-store/#!/Gnosis-3x3-Weatherproof-Sticker/p/233753966/category=0) is cooler than I hoped it would be!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/62f9d9bbf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I’m a long-time fan of [Randall Carlson](https://sacredgeometryinternational.com) which I owe to the [Joe Rogan podcast](http://podcasts.joerogan.net/). Anyway, outside of liking and subscribing to YouTube channels and videos, here is another way I can start to support his work. \n\nSo, yay! The iridescent [Gnosis sticker](https://sacredgeometryinternational.com/sgi-store/#!/Gnosis-3x3-Weatherproof-Sticker/p/233753966/category=0) is cooler than I hoped it would be!\n\n<img src=\"uploads/2020/62f9d9bbf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-19T11:37:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/09/19/im-a-long.html",
 				"tags": ["Photos","Brilliant","Status"]
@@ -5520,7 +5544,7 @@
 				"id": "http://hjalm.micro.blog/2020/09/18/via-aclunationwide.html",
 				
 				"content_html": "<p>Via <a href=\"https://www.instagram.com/p/CFTKZW_npd3/?utm_source=ig_web_copy_link\">aclu_nationwide</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Via [aclu_nationwide](https://www.instagram.com/p/CFTKZW_npd3/?utm_source=ig_web_copy_link)\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/42e34c3bd9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Via [aclu_nationwide](https://www.instagram.com/p/CFTKZW_npd3/?utm_source=ig_web_copy_link)\n\n<img src=\"uploads/2020/42e34c3bd9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-18T22:29:24-05:00",
 				"url": "https://1-1.hjalmer.com/2020/09/18/via-aclunationwide.html",
 				"tags": ["Photos"]
@@ -5537,7 +5561,7 @@
 				"id": "http://hjalm.micro.blog/2020/09/14/back-to-school.html",
 				
 				"content_html": "<p>Back to School 2020</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back to School 2020\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/3fc646e5f9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Back to School 2020\n\n<img src=\"uploads/2020/3fc646e5f9.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-09-14T09:54:47-05:00",
 				"url": "https://1-1.hjalmer.com/2020/09/14/back-to-school.html",
 				"tags": ["Photos"]
@@ -5571,7 +5595,7 @@
 				"id": "http://hjalm.micro.blog/2020/09/05/mars-edit-test.html",
 				"title": "Mars Edit Test Post",
 				"content_html": "<!-- raw HTML omitted -->\n<p>Hello world!</p>\n<p>Above is a photo of my daughter Sofia</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/4676/2020/a9ce4dca3e.png\" alt=\"IMG 3722\" title=\"IMG_3722.png\" border=\"0\" width=\"600\" height=\"450\" />\n\nHello world!\n\nAbove is a photo of my daughter Sofia\n",
+				"content_text": "<img src=\"uploads/2020/a9ce4dca3e.png\" alt=\"IMG 3722\" title=\"IMG_3722.png\" border=\"0\" width=\"600\" height=\"450\" />\n\nHello world!\n\nAbove is a photo of my daughter Sofia\n",
 				"date_published": "2020-09-05T19:04:06-05:00",
 				"url": "https://1-1.hjalmer.com/2020/09/05/mars-edit-test.html",
 				"tags": ["Photos"]
@@ -5580,7 +5604,7 @@
 				"id": "http://hjalm.micro.blog/2020/09/04/dude-i-was.html",
 				
 				"content_html": "<p>Dude! I was The Dude! #strikesandgutters #guttersandstrikes</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dude! I was The Dude! #strikesandgutters #guttersandstrikes\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/69b7034c82.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Dude! I was The Dude! #strikesandgutters #guttersandstrikes\n\n<img src=\"uploads/2020/69b7034c82.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-09-04T22:19:47-05:00",
 				"url": "https://1-1.hjalmer.com/2020/09/04/dude-i-was.html",
 				"tags": ["Photos"]
@@ -5640,7 +5664,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/24/first-time-in.html",
 				
 				"content_html": "<p>First time in a sunflower field</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First time in a sunflower field\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/8ec350ebd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2020/50629aa65c.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2020/943e6af65d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2020/d42ccbaf98.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "First time in a sunflower field\n\n<img src=\"uploads/2020/8ec350ebd4.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/50629aa65c.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/943e6af65d.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/d42ccbaf98.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-08-24T10:52:18-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/24/first-time-in.html",
 				"tags": ["Photos"]
@@ -5649,7 +5673,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/20/made-it-all.html",
 				
 				"content_html": "<p>Made it all the way through. It seems like this iteration is less &ldquo;white&rdquo; or &ldquo;bright&rdquo; than the first public beta. UI still feels fresh but more familiar.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Made it all the way through. It seems like this iteration is less \"white\" or \"bright\" than the first public beta. UI still feels fresh but more familiar.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/19e74d3c84.png\" width=\"600\" height=\"340\" alt=\"\" />\n",
+				"content_text": "Made it all the way through. It seems like this iteration is less \"white\" or \"bright\" than the first public beta. UI still feels fresh but more familiar.\n\n<img src=\"uploads/2020/19e74d3c84.png\" width=\"600\" height=\"340\" alt=\"\" />\n",
 				"date_published": "2020-08-20T22:33:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/20/made-it-all.html",
 				"tags": ["Photos","Status"]
@@ -5658,7 +5682,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/20/still-going-antici.html",
 				
 				"content_html": "<p>Still going. Antici…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Still going. Antici…\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/2d2e7265d8.png\" width=\"600\" height=\"270\" alt=\"\" />\n",
+				"content_text": "Still going. Antici…\n\n<img src=\"uploads/2020/2d2e7265d8.png\" width=\"600\" height=\"270\" alt=\"\" />\n",
 				"date_published": "2020-08-20T20:26:42-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/20/still-going-antici.html",
 				"tags": ["Photos"]
@@ -5667,7 +5691,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/20/havent-seen-this.html",
 				
 				"content_html": "<p>Haven&rsquo;t seen this before</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Haven't seen this before\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/40a51408f9.png\" width=\"600\" height=\"243\" alt=\"\" />\n",
+				"content_text": "Haven't seen this before\n\n<img src=\"uploads/2020/40a51408f9.png\" width=\"600\" height=\"243\" alt=\"\" />\n",
 				"date_published": "2020-08-20T18:38:24-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/20/havent-seen-this.html",
 				"tags": ["Photos"]
@@ -5676,7 +5700,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/20/proceeds-like-an.html",
 				
 				"content_html": "<p>Proceeds like an iOS update with lots of time set aside for processing</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Proceeds like an iOS update with lots of time set aside for processing\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/e59b6d95a5.png\" width=\"600\" height=\"269\" alt=\"\" />\n",
+				"content_text": "Proceeds like an iOS update with lots of time set aside for processing\n\n<img src=\"uploads/2020/e59b6d95a5.png\" width=\"600\" height=\"269\" alt=\"\" />\n",
 				"date_published": "2020-08-20T18:37:57-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/20/proceeds-like-an.html",
 				"tags": ["Photos"]
@@ -5685,7 +5709,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/20/total-size-is.html",
 				
 				"content_html": "<p>Total size is about (?) 5 Gigs smaller than the first beta</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Total size is about (?) 5 Gigs smaller than the first beta\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/e5aece1fa0.png\" width=\"600\" height=\"260\" alt=\"\" />\n",
+				"content_text": "Total size is about (?) 5 Gigs smaller than the first beta\n\n<img src=\"uploads/2020/e5aece1fa0.png\" width=\"600\" height=\"260\" alt=\"\" />\n",
 				"date_published": "2020-08-20T18:36:46-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/20/total-size-is.html",
 				"tags": ["Photos"]
@@ -5694,7 +5718,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/20/public-beta-update.html",
 				
 				"content_html": "<p>Public Beta 2 update under way</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Public Beta 2 update under way\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/03a82f8dd7.png\" width=\"600\" height=\"278\" alt=\"\" />\n",
+				"content_text": "Public Beta 2 update under way\r\n\n\n<img src=\"uploads/2020/03a82f8dd7.png\" width=\"600\" height=\"278\" alt=\"\" />\n",
 				"date_published": "2020-08-20T18:35:04-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/20/public-beta-update.html",
 				"tags": ["Photos"]
@@ -5771,7 +5795,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/09/technology-nostalgic-tape.html",
 				"title": "Technology Nostalgic: Tape Deck",
 				"content_html": "<p>Aiwa AD-F350U</p>\n<p>Used a tape deck very much like the one pictured here. It was the first audio equipment I purchased. It played through a little amplifier I purchased in kit form and assembled in a high-school electronics class.</p>\n<p>I dubbed many, many records from friends. Listened to hundreds of albums purchased new on cassette. Thousands of hours of my life are connected to this. Such an 80s artifact. It survived into the early 2000s but one too many lightning strikes to the power grid took it out. Still have the library of aging cassettes.</p>\n<p>For two decades, this was a critical furnishing in any of my living spaces.</p>\n<p>Listening to older music makes me think of the past.</p>\n<p>The internet did not disappoint me. I was able to triangulate and find an image of the very model I used to own.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Aiwa AD-F350U\n\nUsed a tape deck very much like the one pictured here. It was the first audio equipment I purchased. It played through a little amplifier I purchased in kit form and assembled in a high-school electronics class.\n\nI dubbed many, many records from friends. Listened to hundreds of albums purchased new on cassette. Thousands of hours of my life are connected to this. Such an 80s artifact. It survived into the early 2000s but one too many lightning strikes to the power grid took it out. Still have the library of aging cassettes.\n\nFor two decades, this was a critical furnishing in any of my living spaces.\n\nListening to older music makes me think of the past.\n\nThe internet did not disappoint me. I was able to triangulate and find an image of the very model I used to own.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/5b7e590d65.jpg\" width=\"600\" height=\"259\" alt=\"\" />\n",
+				"content_text": "Aiwa AD-F350U\n\nUsed a tape deck very much like the one pictured here. It was the first audio equipment I purchased. It played through a little amplifier I purchased in kit form and assembled in a high-school electronics class.\n\nI dubbed many, many records from friends. Listened to hundreds of albums purchased new on cassette. Thousands of hours of my life are connected to this. Such an 80s artifact. It survived into the early 2000s but one too many lightning strikes to the power grid took it out. Still have the library of aging cassettes.\n\nFor two decades, this was a critical furnishing in any of my living spaces.\n\nListening to older music makes me think of the past.\n\nThe internet did not disappoint me. I was able to triangulate and find an image of the very model I used to own.\n\n<img src=\"uploads/2020/5b7e590d65.jpg\" width=\"600\" height=\"259\" alt=\"\" />\n",
 				"date_published": "2020-08-09T11:42:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/09/technology-nostalgic-tape.html",
 				"tags": ["Photos","Brilliant"]
@@ -5807,7 +5831,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/07/from-a-colleague.html",
 				
 				"content_html": "<p>From a colleague at work. You may have an earworm…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "From a colleague at work. You may have an earworm…\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/3f37a697f3.jpg\" width=\"600\" height=\"398\" alt=\"\" />\n",
+				"content_text": "From a colleague at work. You may have an earworm…\n\n<img src=\"uploads/2020/3f37a697f3.jpg\" width=\"600\" height=\"398\" alt=\"\" />\n",
 				"date_published": "2020-08-07T09:02:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/07/from-a-colleague.html",
 				"tags": ["Photos","Brilliant"]
@@ -5816,7 +5840,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/06/made-it-bigsur.html",
 				
 				"content_html": "<p>Made it! #BigSur #PublicBeta</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Made it! #BigSur #PublicBeta\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/543be19d4e.jpg\" width=\"600\" height=\"375\" alt=\"\" />\n",
+				"content_text": "Made it! #BigSur #PublicBeta\n\n<img src=\"uploads/2020/543be19d4e.jpg\" width=\"600\" height=\"375\" alt=\"\" />\n",
 				"date_published": "2020-08-06T17:03:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/06/made-it-bigsur.html",
 				"tags": ["Photos","Status"]
@@ -5825,7 +5849,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/06/here-we-go.html",
 				
 				"content_html": "<p>Here we go! #BigSur #PublicBeta</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Here we go! #BigSur #PublicBeta\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/5fb91da604.jpg\" width=\"600\" height=\"467\" alt=\"\" />\n",
+				"content_text": "Here we go! #BigSur #PublicBeta\n\n<img src=\"uploads/2020/5fb91da604.jpg\" width=\"600\" height=\"467\" alt=\"\" />\n",
 				"date_published": "2020-08-06T15:52:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/06/here-we-go.html",
 				"tags": ["Photos","Status"]
@@ -5834,7 +5858,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/06/my-progress-bar.html",
 				
 				"content_html": "<p>My progress bar has stopped moving but my Mac has continued to download additional data #beta #BigSur #macOS</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My progress bar has stopped moving but my Mac has continued to download additional data #beta #BigSur #macOS\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/8e05a9e9d2.jpg\" width=\"600\" height=\"260\" alt=\"\" />\n",
+				"content_text": "My progress bar has stopped moving but my Mac has continued to download additional data #beta #BigSur #macOS\n\n<img src=\"uploads/2020/8e05a9e9d2.jpg\" width=\"600\" height=\"260\" alt=\"\" />\n",
 				"date_published": "2020-08-06T15:16:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/06/my-progress-bar.html",
 				"tags": ["Photos","Status"]
@@ -5860,7 +5884,7 @@
 				"id": "http://hjalm.micro.blog/2020/08/02/status.html",
 				
 				"content_html": "<p>Status</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Status\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/b525d2f06f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Status\n\n<img src=\"uploads/2020/b525d2f06f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-02T19:50:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/02/status.html",
 				"tags": ["Photos","Status","Experiential"]
@@ -5896,7 +5920,7 @@
 				"id": "http://hjalm.micro.blog/2020/07/27/its-here-got.html",
 				
 				"content_html": "<p>It’s here! Got myself a birthday present from @schoolstoic</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It’s here! Got myself a birthday present from @schoolstoic\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/cd96fb7372.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2020/ed30a1d32d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "It’s here! Got myself a birthday present from @schoolstoic\n\n<img src=\"uploads/2020/cd96fb7372.jpg\" width=\"599\" height=\"600\" alt=\"\" /><img src=\"uploads/2020/ed30a1d32d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-27T12:21:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/07/27/its-here-got.html",
 				"tags": ["Photos","Brilliant","Status"]
@@ -5905,7 +5929,7 @@
 				"id": "http://hjalm.micro.blog/2020/07/25/one-of-my.html",
 				
 				"content_html": "<p>One of my favorite photos, from June 2010.</p>\n<p>#michelewhitephotography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favorite photos, from June 2010.\n\n#michelewhitephotography\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/62324711f2.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_text": "One of my favorite photos, from June 2010.\n\n#michelewhitephotography\n\n<img src=\"uploads/2020/62324711f2.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2020-07-25T12:43:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/07/25/one-of-my.html",
 				"tags": ["Photos","Himself","Brilliant"]
@@ -5923,7 +5947,7 @@
 				"id": "http://hjalm.micro.blog/2020/07/18/rainbow-and-thunder.html",
 				
 				"content_html": "<p>Rainbow and thunder</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Rainbow and thunder\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/4676/2020/12aeb4306f.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2020/0340135ae7.png\" preload=\"none\"></video>\n",
+				"content_text": "Rainbow and thunder\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2020/12aeb4306f.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2020/0340135ae7.png\" preload=\"none\"></video>\n",
 				"date_published": "2020-07-18T20:42:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/07/18/rainbow-and-thunder.html",
 				"tags": ["Photos","Status"]
@@ -5977,7 +6001,7 @@
 				"id": "http://hjalm.micro.blog/2020/07/10/first-sticker-microblog.html",
 				
 				"content_html": "<p>First sticker! #microblog #thankyou</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First sticker! #microblog #thankyou\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/305ab28c65.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2020/6374f60679.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "First sticker! #microblog #thankyou\n\n<img src=\"uploads/2020/305ab28c65.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/6374f60679.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-10T12:36:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/07/10/first-sticker-microblog.html",
 				"tags": ["Photos","Status"]
@@ -6039,7 +6063,7 @@
 				"id": "http://hjalm.micro.blog/2020/06/26/perfect-cantyoureadthesign.html",
 				
 				"content_html": "<p>Perfect.</p>\n<p>#cantyoureadthesign</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Perfect. \n\n#cantyoureadthesign\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/35fd026a9e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Perfect. \n\n#cantyoureadthesign\n\n<img src=\"uploads/2020/35fd026a9e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-06-26T12:36:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/06/26/perfect-cantyoureadthesign.html",
 				"tags": ["Photos","Brilliant"]
@@ -6120,7 +6144,7 @@
 				"id": "http://hjalm.micro.blog/2020/06/03/i-cannot-say.html",
 				
 				"content_html": "<p>I cannot say they made no attempt to notify me. #StaySafeMN</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I cannot say they made no attempt to notify me. #StaySafeMN\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/b667434162.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I cannot say they made no attempt to notify me. #StaySafeMN\n\n<img src=\"uploads/2020/b667434162.jpg\" width=\"337\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-03T22:22:01-05:00",
 				"url": "https://1-1.hjalmer.com/2020/06/03/i-cannot-say.html",
 				"tags": ["Photos"]
@@ -6129,7 +6153,7 @@
 				"id": "http://hjalm.micro.blog/2020/06/03/rto-or-return.html",
 				
 				"content_html": "<p>RTO or Return to Office is what my company is calling it. We are at 10 percent staffing on-site, with the remainder doing remote work. I wear a mask away from my desk, and there are many limits in place throughout the facility. #CubeLife #CivilianMaskCorps #StaySafeMN</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "RTO or Return to Office is what my company is calling it. We are at 10 percent staffing on-site, with the remainder doing remote work. I wear a mask away from my desk, and there are many limits in place throughout the facility. #CubeLife #CivilianMaskCorps #StaySafeMN\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/39d4644a3f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "RTO or Return to Office is what my company is calling it. We are at 10 percent staffing on-site, with the remainder doing remote work. I wear a mask away from my desk, and there are many limits in place throughout the facility. #CubeLife #CivilianMaskCorps #StaySafeMN\n\n<img src=\"uploads/2020/39d4644a3f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-06-03T14:52:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/06/03/rto-or-return.html",
 				"tags": ["Photos","Himself"]
@@ -6146,7 +6170,7 @@
 				"id": "http://hjalm.micro.blog/2020/06/01/return-to-office.html",
 				"title": "Return to Office",
 				"content_html": "<p>I have continued to work as part of a skeleton crew staff (I manage a desktop support team) throughout the pandemic. Today my state has opened in some small ways and I will see a small number of additional coworkers. I was gifted with hand sanitizer, a reusable and some disposable masks, and an insulated lunch bag.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have continued to work as part of a skeleton crew staff (I manage a desktop support team) throughout the pandemic. Today my state has opened in some small ways and I will see a small number of additional coworkers. I was gifted with hand sanitizer, a reusable and some disposable masks, and an insulated lunch bag. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/2c336c0fe0.jpg\" width=\"600\" height=\"467\" alt=\"\" />\n",
+				"content_text": "I have continued to work as part of a skeleton crew staff (I manage a desktop support team) throughout the pandemic. Today my state has opened in some small ways and I will see a small number of additional coworkers. I was gifted with hand sanitizer, a reusable and some disposable masks, and an insulated lunch bag. \n\n<img src=\"uploads/2020/2c336c0fe0.jpg\" width=\"600\" height=\"467\" alt=\"\" />\n",
 				"date_published": "2020-06-01T08:48:25-05:00",
 				"url": "https://1-1.hjalmer.com/2020/06/01/return-to-office.html",
 				"tags": ["Photos"]
@@ -6155,7 +6179,7 @@
 				"id": "http://hjalm.micro.blog/2020/05/30/210526.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/b737d396cd.jpg\" width=\"600\" height=\"215\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2020/b737d396cd.jpg\" width=\"600\" height=\"215\" alt=\"\" />\n",
 				"date_published": "2020-05-30T21:05:26-05:00",
 				"url": "https://1-1.hjalmer.com/2020/05/30/210526.html",
 				"tags": ["Photos"]
@@ -6172,7 +6196,7 @@
 				"id": "http://hjalm.micro.blog/2020/05/30/so-yeah-im.html",
 				
 				"content_html": "<p>So, yeah. I’m on the east side of St. Paul and I’m lucky not much has come close to me. But I started to cry when I saw this advice on screen.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://www.fox9.com/news/minneapolis-neighborhood-leaders-issue-tips-to-protect-residents-as-another-riot-looms\">Here is the full list</a></p>\n<ul>\n<li>Be off the streets at 8:00 p.m.</li>\n<li>Be aware of suspicious activities/groups</li>\n<li>Be aware of large gatherings</li>\n<li>Call 911 if you are witnessing suspicious activity</li>\n<li>Remove anything from your lawn that could be flammable or a projectile through a window</li>\n<li>Store dumpsters in your garage or move to hidden area in back yard. Consider wetting down the inside contents if they have to be left outside in view.</li>\n<li>Keep LIGHTS ON and some windows open to hear noises that may be approaching. (use caution with windows that may be easily asked from the ground)</li>\n<li>Have an escape plan and a to-go bag (remember to take along any medicines you may need)</li>\n<li>If you need to be outside wear headlamp, bright colors and reflective clothing</li>\n<li>Charge cell phones. Cell towers might go out</li>\n<li>Have alternative ways to communicate with your neighbors and help them to make a plan in case things do get bad.</li>\n<li>Have garden hoses ready and untangled for possible use.</li>\n<li>Check your flood lights; door lights; KEEP THEM ON.</li>\n<li>Soak down wood fences and surfaces</li>\n<li>If you have a Little Free Library-empty it.</li>\n<li>If you have a fire extinguisher-get it ready</li>\n<li>Check on each other-especially older neighbors, and the vulnerable.</li>\n<li>For those who choose to stand outside, watching homes or businesses, do not confront anyone. Call 911, call another neighbor to be with you.</li>\n</ul>\n",
-				"content_text": "So, yeah. I’m on the east side of St. Paul and I’m lucky not much has come close to me. But I started to cry when I saw this advice on screen. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/28119ce75e.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n\n[Here is the full list](https://www.fox9.com/news/minneapolis-neighborhood-leaders-issue-tips-to-protect-residents-as-another-riot-looms)\n\n- Be off the streets at 8:00 p.m.  \n- Be aware of suspicious activities/groups  \n- Be aware of large gatherings  \n- Call 911 if you are witnessing suspicious activity  \n- Remove anything from your lawn that could be flammable or a projectile through a window  \n- Store dumpsters in your garage or move to hidden area in back yard. Consider wetting down the inside contents if they have to be left outside in view.  \n- Keep LIGHTS ON and some windows open to hear noises that may be approaching. (use caution with windows that may be easily asked from the ground)  \n- Have an escape plan and a to-go bag (remember to take along any medicines you may need)  \n- If you need to be outside wear headlamp, bright colors and reflective clothing  \n- Charge cell phones. Cell towers might go out  \n- Have alternative ways to communicate with your neighbors and help them to make a plan in case things do get bad.  \n- Have garden hoses ready and untangled for possible use.  \n- Check your flood lights; door lights; KEEP THEM ON.  \n- Soak down wood fences and surfaces \n- If you have a Little Free Library-empty it.  \n- If you have a fire extinguisher-get it ready  \n- Check on each other-especially older neighbors, and the vulnerable.  \n- For those who choose to stand outside, watching homes or businesses, do not confront anyone. Call 911, call another neighbor to be with you.\n",
+				"content_text": "So, yeah. I’m on the east side of St. Paul and I’m lucky not much has come close to me. But I started to cry when I saw this advice on screen. \n\n<img src=\"uploads/2020/28119ce75e.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n\n[Here is the full list](https://www.fox9.com/news/minneapolis-neighborhood-leaders-issue-tips-to-protect-residents-as-another-riot-looms)\n\n- Be off the streets at 8:00 p.m.  \n- Be aware of suspicious activities/groups  \n- Be aware of large gatherings  \n- Call 911 if you are witnessing suspicious activity  \n- Remove anything from your lawn that could be flammable or a projectile through a window  \n- Store dumpsters in your garage or move to hidden area in back yard. Consider wetting down the inside contents if they have to be left outside in view.  \n- Keep LIGHTS ON and some windows open to hear noises that may be approaching. (use caution with windows that may be easily asked from the ground)  \n- Have an escape plan and a to-go bag (remember to take along any medicines you may need)  \n- If you need to be outside wear headlamp, bright colors and reflective clothing  \n- Charge cell phones. Cell towers might go out  \n- Have alternative ways to communicate with your neighbors and help them to make a plan in case things do get bad.  \n- Have garden hoses ready and untangled for possible use.  \n- Check your flood lights; door lights; KEEP THEM ON.  \n- Soak down wood fences and surfaces \n- If you have a Little Free Library-empty it.  \n- If you have a fire extinguisher-get it ready  \n- Check on each other-especially older neighbors, and the vulnerable.  \n- For those who choose to stand outside, watching homes or businesses, do not confront anyone. Call 911, call another neighbor to be with you.\n",
 				"date_published": "2020-05-30T18:32:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/05/30/so-yeah-im.html",
 				"tags": ["Photos","Helpful","Experiential"]
@@ -6253,7 +6277,7 @@
 				"id": "http://hjalm.micro.blog/2020/05/08/just-inboxed-this.html",
 				
 				"content_html": "<p>Just unboxed this Macally keyboard and I’m already a fan!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Just unboxed this Macally keyboard and I’m already a fan!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/43438da2e2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Just unboxed this Macally keyboard and I’m already a fan!\n\n<img src=\"uploads/2020/43438da2e2.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-05-08T18:26:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/05/08/just-inboxed-this.html",
 				"tags": ["Photos","Brilliant"]
@@ -6442,7 +6466,7 @@
 				"id": "http://hjalm.micro.blog/2020/03/21/put-together-an.html",
 				
 				"content_html": "<p>Put together an IKEA Hemnes chest of drawers. Only needed these simple tools, six hours, and six hands.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Put together an IKEA Hemnes chest of drawers. Only needed these simple tools, six hours, and six hands. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/ee886e740e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Put together an IKEA Hemnes chest of drawers. Only needed these simple tools, six hours, and six hands. \n\n<img src=\"uploads/2020/ee886e740e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-03-21T23:16:25-05:00",
 				"url": "https://1-1.hjalmer.com/2020/03/21/put-together-an.html",
 				"tags": ["Photos"]
@@ -6752,7 +6776,7 @@
 				"id": "http://hjalm.micro.blog/2020/02/15/i-was-unable.html",
 				
 				"content_html": "<p>I was unable to beard any longer</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was unable to beard any longer\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/7d713c3dfe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I was unable to beard any longer\n\n<img src=\"uploads/2020/7d713c3dfe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-15T16:24:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/02/15/i-was-unable.html",
 				"tags": ["Photos","Himself"]
@@ -6840,7 +6864,7 @@
 				"id": "http://hjalm.micro.blog/2020/02/07/almost-showtime.html",
 				
 				"content_html": "<p>Almost showtime</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Almost showtime \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/fe37c9592d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Almost showtime \n\n<img src=\"uploads/2020/fe37c9592d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-07T20:29:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/02/07/almost-showtime.html",
 				"tags": ["Photos","Himself"]
@@ -6975,7 +6999,7 @@
 				"id": "http://hjalm.micro.blog/2020/01/28/my-latest-gadget.html",
 				
 				"content_html": "<p>My latest gadget. I have work to do.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My latest gadget. I have work to do.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/1c90faa8a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My latest gadget. I have work to do.\n\n<img src=\"uploads/2020/1c90faa8a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-28T21:21:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/01/28/my-latest-gadget.html",
 				"tags": ["Photos","Status"]
@@ -7046,7 +7070,7 @@
 				"id": "http://hjalm.micro.blog/2020/01/21/status-poppa-and.html",
 				
 				"content_html": "<p>Status: Poppa and Daughter Dinner</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Status: Poppa and Daughter Dinner\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/35895ae8cc.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Status: Poppa and Daughter Dinner\n\n<img src=\"uploads/2020/35895ae8cc.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-21T20:20:48-05:00",
 				"url": "https://1-1.hjalmer.com/2020/01/21/status-poppa-and.html",
 				"tags": ["Photos"]
@@ -7090,7 +7114,7 @@
 				"id": "http://hjalm.micro.blog/2020/01/16/182634.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/2bd4bc4d37.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2020/2bd4bc4d37.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-16T19:26:34-05:00",
 				"url": "https://1-1.hjalmer.com/2020/01/16/182634.html",
 				"tags": ["Photos"]
@@ -7241,7 +7265,7 @@
 				"id": "http://hjalm.micro.blog/2020/01/10/permanentwaves.html",
 				
 				"content_html": "<p>#permanentwaves</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#permanentwaves\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/a056e680ee.jpg\" width=\"600\" height=\"410\" alt=\"\" />\n",
+				"content_text": "#permanentwaves\n\n<img src=\"uploads/2020/a056e680ee.jpg\" width=\"600\" height=\"410\" alt=\"\" />\n",
 				"date_published": "2020-01-10T19:50:00-05:00",
 				"url": "https://1-1.hjalmer.com/2020/01/10/permanentwaves.html",
 				"tags": ["Photos","Music","Status"]
@@ -7367,7 +7391,7 @@
 				"id": "http://hjalm.micro.blog/2020/01/03/the-grid-igotin.html",
 				
 				"content_html": "<p><a href=\"https://music.apple.com/us/album/the-grid-remixed-by-the-crystal-method/1440617977?i=1440618221\">The Grid</a></p>\n<p>#IGotIn</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " [The Grid](https://music.apple.com/us/album/the-grid-remixed-by-the-crystal-method/1440617977?i=1440618221)\n\n#IGotIn\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2020/c3f81bb779.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": " [The Grid](https://music.apple.com/us/album/the-grid-remixed-by-the-crystal-method/1440617977?i=1440618221)\n\n#IGotIn\n\n\n\n<img src=\"uploads/2020/c3f81bb779.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2020-01-03T21:59:40-05:00",
 				"url": "https://1-1.hjalmer.com/2020/01/03/the-grid-igotin.html",
 				"tags": ["Photos"]
@@ -7545,7 +7569,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/24/230756.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/ce3c09af0a.jpg\" width=\"600\" height=\"414\" alt=\"\" />\n",
+				"content_text": "\n<img src=\"uploads/2019/ce3c09af0a.jpg\" width=\"600\" height=\"414\" alt=\"\" />\n",
 				"date_published": "2019-12-25T00:07:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/24/230756.html",
 				"tags": ["Photos","Status"]
@@ -7554,7 +7578,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/24/one-last-rewatch.html",
 				
 				"content_html": "<p>One last re-watch of The Polar Express before… Mama and Poppa perform elven magic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One last re-watch of The Polar Express before… Mama and Poppa perform elven magic\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/d7256d747b.jpg\" width=\"258\" height=\"382\" alt=\"\" />\n",
+				"content_text": "One last re-watch of The Polar Express before… Mama and Poppa perform elven magic\n\n<img src=\"uploads/2019/d7256d747b.jpg\" width=\"258\" height=\"382\" alt=\"\" />\n",
 				"date_published": "2019-12-24T21:44:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/24/one-last-rewatch.html",
 				"tags": ["Photos","Brilliant","Status"]
@@ -7688,7 +7712,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/16/step-two-completed.html",
 				
 				"content_html": "<p>Step two completed: lights on the tree.</p>\n<p>Step three? Snacks</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Step two completed: lights on the tree.  \n\nStep three? Snacks\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/6394017940.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Step two completed: lights on the tree.  \n\nStep three? Snacks\n\n<img src=\"uploads/2019/6394017940.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-16T23:07:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/16/step-two-completed.html",
 				"tags": ["Photos","Status"]
@@ -7738,7 +7762,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/14/first-meeting-with.html",
 				
 				"content_html": "<p>First meeting with Santa achieved!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First meeting with Santa achieved!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/9397186342.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "First meeting with Santa achieved!\n\n<img src=\"uploads/2019/9397186342.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-14T21:58:55-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/14/first-meeting-with.html",
 				"tags": ["Photos"]
@@ -7765,7 +7789,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/14/a-conversation-with.html",
 				
 				"content_html": "<p>A conversation with The Man Himself</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A conversation with The Man Himself\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/7ea81e79bb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A conversation with The Man Himself\n\n<img src=\"uploads/2019/7ea81e79bb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-14T15:44:12-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/14/a-conversation-with.html",
 				"tags": ["Photos"]
@@ -7774,7 +7798,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/14/waiting-to-see.html",
 				
 				"content_html": "<p>Waiting to see Santa. Waiting is hard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Waiting to see Santa. Waiting is hard. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/3eb84c70df.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Waiting to see Santa. Waiting is hard. \n\n<img src=\"uploads/2019/3eb84c70df.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-14T14:55:57-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/14/waiting-to-see.html",
 				"tags": ["Photos"]
@@ -7882,7 +7906,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/08/i-played-with.html",
 				
 				"content_html": "<p>I played with a logo generator which worked by combining words, images, fonts and colors in many ways.</p>\n<p>For free, it allowed me to download a 200x200 pixel image file of the combination that amused me the most.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I played with a logo generator which worked by combining words, images, fonts and colors in many ways.\n\nFor free, it allowed me to download a 200x200 pixel image file of the combination that amused me the most.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/153449c100.jpg\" width=\"200\" height=\"200\" alt=\"\" />\n",
+				"content_text": "I played with a logo generator which worked by combining words, images, fonts and colors in many ways.\n\nFor free, it allowed me to download a 200x200 pixel image file of the combination that amused me the most.\n\n<img src=\"uploads/2019/153449c100.jpg\" width=\"200\" height=\"200\" alt=\"\" />\n",
 				"date_published": "2019-12-08T14:33:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/08/i-played-with.html",
 				"tags": ["Photos","Himself"]
@@ -7899,7 +7923,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/07/my-first-thought.html",
 				
 				"content_html": "<p>My first thought was “What is casting that shadow?” Then I realized it was most likely caused by a plane flying though the clouds.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first thought was “What is casting that shadow?” Then I realized it was most likely caused by a plane flying though the clouds.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/6ff40b795e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "My first thought was “What is casting that shadow?” Then I realized it was most likely caused by a plane flying though the clouds.\n\n<img src=\"uploads/2019/6ff40b795e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-12-07T20:18:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/07/my-first-thought.html",
 				"tags": ["Photos"]
@@ -7952,7 +7976,7 @@
 				"id": "http://hjalm.micro.blog/2019/12/04/bloodselfie-cube.html",
 				
 				"content_html": "<p>#bloodselfie<br>\n<a href=\"https://3cu.be/blood\">3cu.be</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#bloodselfie  \n [3cu.be](https://3cu.be/blood)\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/88fc3e7982.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "#bloodselfie  \n [3cu.be](https://3cu.be/blood)\n\n<img src=\"uploads/2019/88fc3e7982.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-12-04T15:35:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/12/04/bloodselfie-cube.html",
 				"tags": ["Photos","Himself"]
@@ -8065,7 +8089,7 @@
 				"id": "http://hjalm.micro.blog/2019/11/26/currently.html",
 				
 				"content_html": "<p>Currently</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/a91255a2e9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Currently \n\n<img src=\"uploads/2019/a91255a2e9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-26T17:02:16-05:00",
 				"url": "https://1-1.hjalmer.com/2019/11/26/currently.html",
 				"tags": ["Photos"]
@@ -8344,7 +8368,7 @@
 				"id": "http://hjalm.micro.blog/2019/11/04/new-haircut-new.html",
 				
 				"content_html": "<p>New haircut. New glasses.  And the cutest photo bomber in the world.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New haircut. New glasses.  And the cutest photo bomber in the world.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/b00fdd980a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "New haircut. New glasses.  And the cutest photo bomber in the world.\n\n<img src=\"uploads/2019/b00fdd980a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-11-04T20:10:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/11/04/new-haircut-new.html",
 				"tags": ["Photos","Himself"]
@@ -8353,7 +8377,7 @@
 				"id": "http://hjalm.micro.blog/2019/10/31/i-am-grateful.html",
 				
 				"content_html": "<p>I am grateful for magic. Happy Halloween!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am grateful for magic. Happy Halloween!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/29d82d0967.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I am grateful for magic. Happy Halloween!\n\n<img src=\"uploads/2019/29d82d0967.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-10-31T19:36:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/10/31/i-am-grateful.html",
 				"tags": ["Photos"]
@@ -8362,7 +8386,7 @@
 				"id": "http://hjalm.micro.blog/2019/10/30/sommer-ann-sofiathree.html",
 				
 				"content_html": "<p>Sommer, Ann, Sofia—Three generations</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sommer, Ann, Sofia—Three generations \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/a9fdd017dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sommer, Ann, Sofia—Three generations \n\n<img src=\"uploads/2019/a9fdd017dc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-10-30T18:41:22-05:00",
 				"url": "https://1-1.hjalmer.com/2019/10/30/sommer-ann-sofiathree.html",
 				"tags": ["Photos"]
@@ -8435,7 +8459,7 @@
 				"id": "http://hjalm.micro.blog/2019/09/21/have-paid-notice.html",
 				
 				"content_html": "<p>Have paid notice to this word. Heard it a lot in a single podcast recently.</p>\n<p>Notice how and when you hear it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Have paid notice to this word. Heard it a lot in a single podcast recently. \n\nNotice how and when you hear it.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/e3348d4527.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Have paid notice to this word. Heard it a lot in a single podcast recently. \n\nNotice how and when you hear it.\n\n<img src=\"uploads/2019/e3348d4527.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-21T13:24:31-05:00",
 				"url": "https://1-1.hjalmer.com/2019/09/21/have-paid-notice.html",
 				"tags": ["Photos"]
@@ -8444,7 +8468,7 @@
 				"id": "http://hjalm.micro.blog/2019/09/16/preparing-her-projectile.html",
 				
 				"content_html": "<p>Preparing her projectile launcher #dinnerdate #culvers #waiting</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Preparing her projectile launcher #dinnerdate #culvers #waiting\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/a6d9d07f3a.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Preparing her projectile launcher #dinnerdate #culvers #waiting\n\n<img src=\"uploads/2019/a6d9d07f3a.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-09-16T19:26:18-05:00",
 				"url": "https://1-1.hjalmer.com/2019/09/16/preparing-her-projectile.html",
 				"tags": ["Photos","dinnerdate","culvers","waiting"]
@@ -8511,7 +8535,7 @@
 				"id": "http://hjalm.micro.blog/2019/08/06/breakfast.html",
 				
 				"content_html": "<p>Breakfast</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Breakfast\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/7e0a44fae7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Breakfast\n\n<img src=\"uploads/2019/7e0a44fae7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-06T08:13:43-05:00",
 				"url": "https://1-1.hjalmer.com/2019/08/06/breakfast.html",
 				"tags": ["Photos"]
@@ -8537,7 +8561,7 @@
 				"id": "http://hjalm.micro.blog/2019/08/01/with-cucumber-and.html",
 				
 				"content_html": "<p>With cucumber and habañero</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "With cucumber and habañero\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/8723013b1f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "With cucumber and habañero\n\n<img src=\"uploads/2019/8723013b1f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-01T20:29:18-05:00",
 				"url": "https://1-1.hjalmer.com/2019/08/01/with-cucumber-and.html",
 				"tags": ["Photos"]
@@ -8555,7 +8579,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/19/heat-lightning-storm.html",
 				
 				"content_html": "<p>Heat lightning. Storm in video is between Northfield and Redwing, Minnesota. Visible from Conway neighborhood in St. Paul. 83% humidity on a hot Summer night. Jupiter presiding.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Heat lightning. Storm in video is between Northfield and Redwing, Minnesota. Visible from Conway neighborhood in St. Paul. 83% humidity on a hot Summer night. Jupiter presiding.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/4676/2019/aa71508192.mp4\" width=\"480\" height=\"480\" poster=\"https://1-1.hjalmer.com/uploads/2019/65a4bcdc67.png\" preload=\"none\"></video>\n",
+				"content_text": "Heat lightning. Storm in video is between Northfield and Redwing, Minnesota. Visible from Conway neighborhood in St. Paul. 83% humidity on a hot Summer night. Jupiter presiding.\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2019/aa71508192.mp4\" width=\"480\" height=\"480\" poster=\"https://1-1.hjalmer.com/uploads/2019/65a4bcdc67.png\" preload=\"none\"></video>\n",
 				"date_published": "2019-07-19T22:51:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/19/heat-lightning-storm.html",
 				"tags": ["Photos","Status"]
@@ -8572,7 +8596,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/14/192448.html",
 				
 				"content_html": "<p>Hogwarts Clock Tower, Grand Finale. Including Yule Ball</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hogwarts Clock Tower, Grand Finale. Including Yule Ball\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/d6e89a2b6a.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/4676/2019/85e565e4f0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hogwarts Clock Tower, Grand Finale. Including Yule Ball\n\n<img src=\"uploads/2019/d6e89a2b6a.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/85e565e4f0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-14T19:24:48-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/14/192448.html",
 				"tags": ["Photos"]
@@ -8581,7 +8605,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/14/180505.html",
 				
 				"content_html": "<p>Hogwarts Clock Tower, including clock face and dormitory</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hogwarts Clock Tower, including clock face and dormitory \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/dabde92e4e.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/4676/2019/a49a0cd01f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hogwarts Clock Tower, including clock face and dormitory \n\n<img src=\"uploads/2019/dabde92e4e.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/a49a0cd01f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-14T18:05:05-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/14/180505.html",
 				"tags": ["Photos"]
@@ -8590,7 +8614,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/14/171812.html",
 				
 				"content_html": "<p>Hogwarts Clock Tower, phase four. Including Professor Moody’s office</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hogwarts Clock Tower, phase four. Including Professor Moody’s office\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/d5ba4974e4.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/4676/2019/7fe228276f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hogwarts Clock Tower, phase four. Including Professor Moody’s office\n\n<img src=\"uploads/2019/d5ba4974e4.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/7fe228276f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-14T17:18:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/14/171812.html",
 				"tags": ["Photos","Status"]
@@ -8599,7 +8623,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/14/163007.html",
 				
 				"content_html": "<p>Hogwarts Clock Tower phase three. I did not expect the Tri-Wizard Cup, nor the chest containing the real “Mad-Eye” Moody</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hogwarts Clock Tower phase three. I did not expect the Tri-Wizard Cup, nor the chest containing the real “Mad-Eye” Moody\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/31bd9bd2d5.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/4676/2019/e91da784e8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hogwarts Clock Tower phase three. I did not expect the Tri-Wizard Cup, nor the chest containing the real “Mad-Eye” Moody\n\n<img src=\"uploads/2019/31bd9bd2d5.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=\" /><img src=\"uploads/2019/e91da784e8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-14T16:30:07-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/14/163007.html",
 				"tags": ["Photos"]
@@ -8608,7 +8632,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/14/hogwarts-clock-tower.html",
 				
 				"content_html": "<p>Hogwarts Clock Tower phase two including bath and Dumbledore’s office</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hogwarts Clock Tower phase two including bath and Dumbledore’s office\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/1cc3612e7d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hogwarts Clock Tower phase two including bath and Dumbledore’s office\n\n<img src=\"uploads/2019/1cc3612e7d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-14T15:42:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/14/hogwarts-clock-tower.html",
 				"tags": ["Photos","Status"]
@@ -8617,7 +8641,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/14/building-the-hogwarts.html",
 				
 				"content_html": "<p>Building the Hogwarts Clock Tower kit</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Building the Hogwarts Clock Tower kit\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/9dbb8f0ce1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Building the Hogwarts Clock Tower kit\n\n<img src=\"uploads/2019/9dbb8f0ce1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-14T14:47:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/14/building-the-hogwarts.html",
 				"tags": ["Photos","Status"]
@@ -8626,7 +8650,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/07/assembly-complete-including.html",
 				
 				"content_html": "<p>Assembly complete, including concessions (note chocolate frog) and dementor.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Assembly complete, including concessions (note chocolate frog) and dementor. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/9f5a1c383d.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Assembly complete, including concessions (note chocolate frog) and dementor. \n\n<img src=\"uploads/2019/9f5a1c383d.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-07T15:00:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/07/assembly-complete-including.html",
 				"tags": ["Photos","Status"]
@@ -8643,7 +8667,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/07/build-now-including.html",
 				
 				"content_html": "<p>Build now including coal tender and Hermione</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Build now including coal tender and Hermione\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/9c79e53820.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Build now including coal tender and Hermione\n\n<img src=\"uploads/2019/9c79e53820.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-07T13:53:42-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/07/build-now-including.html",
 				"tags": ["Photos"]
@@ -8652,7 +8676,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/07/hogwarts-express-engine.html",
 				
 				"content_html": "<p>Hogwarts Express engine</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hogwarts Express engine\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/de17f2fc83.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Hogwarts Express engine\n\n<img src=\"uploads/2019/de17f2fc83.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-07T13:36:06-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/07/hogwarts-express-engine.html",
 				"tags": ["Photos"]
@@ -8670,7 +8694,7 @@
 				"id": "http://hjalm.micro.blog/2019/07/07/kings-cross-station.html",
 				
 				"content_html": "<p>Kings Cross station as imagined by LEGO. Including Harry, Ron, Scabbers (the rat), and Professor Lupin.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kings Cross station as imagined by LEGO. Including Harry, Ron, Scabbers (the rat), and Professor Lupin. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/80f30c26ea.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Kings Cross station as imagined by LEGO. Including Harry, Ron, Scabbers (the rat), and Professor Lupin. \n\n<img src=\"uploads/2019/80f30c26ea.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-07-07T12:08:22-05:00",
 				"url": "https://1-1.hjalmer.com/2019/07/07/kings-cross-station.html",
 				"tags": ["Photos"]
@@ -8679,7 +8703,7 @@
 				"id": "http://hjalm.micro.blog/2019/06/29/lake-phalen-saint.html",
 				
 				"content_html": "<p>Lake Phalen, Saint Paul, MN</p>\n<p>Water Lantern Festival</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lake Phalen, Saint Paul, MN\n\nWater Lantern Festival\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/d86421988d.jpg\" width=\"600\" height=\"205\" alt=\"\" />\n",
+				"content_text": "Lake Phalen, Saint Paul, MN\n\nWater Lantern Festival\n\n<img src=\"uploads/2019/d86421988d.jpg\" width=\"600\" height=\"205\" alt=\"\" />\n",
 				"date_published": "2019-06-29T22:55:41-05:00",
 				"url": "https://1-1.hjalmer.com/2019/06/29/lake-phalen-saint.html",
 				"tags": ["Photos"]
@@ -8688,7 +8712,7 @@
 				"id": "http://hjalm.micro.blog/2019/06/28/213716.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/4676/2019/672490a2eb.mp4\" width=\"480\" height=\"480\" poster=\"https://1-1.hjalmer.com/uploads/2019/55084acb9e.png\" preload=\"none\"></video>\n",
+				"content_text": "\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2019/672490a2eb.mp4\" width=\"480\" height=\"480\" poster=\"https://1-1.hjalmer.com/uploads/2019/55084acb9e.png\" preload=\"none\"></video>\n",
 				"date_published": "2019-06-28T21:37:16-05:00",
 				"url": "https://1-1.hjalmer.com/2019/06/28/213716.html"
 			},
@@ -8729,7 +8753,7 @@
 				"id": "http://hjalm.micro.blog/2019/06/07/bellmuseum.html",
 				
 				"content_html": "<p>#bellmuseum</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "#bellmuseum\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/4676/2019/cc29fbe538.mp4\" width=\"480\" height=\"480\" poster=\"https://1-1.hjalmer.com/uploads/2019/05f3deba5e.png\" preload=\"none\"></video>\n",
+				"content_text": "#bellmuseum\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2019/cc29fbe538.mp4\" width=\"480\" height=\"480\" poster=\"https://1-1.hjalmer.com/uploads/2019/05f3deba5e.png\" preload=\"none\"></video>\n",
 				"date_published": "2019-06-07T21:34:48-05:00",
 				"url": "https://1-1.hjalmer.com/2019/06/07/bellmuseum.html",
 				"tags": ["bellmuseum","Instagram"]
@@ -8738,7 +8762,7 @@
 				"id": "http://hjalm.micro.blog/2019/06/07/210756.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/4676/2019/f5e8ab2318.mp4\" width=\"480\" height=\"480\" poster=\"https://1-1.hjalmer.com/uploads/2019/de7188d69e.png\" preload=\"none\"></video>\n",
+				"content_text": "\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2019/f5e8ab2318.mp4\" width=\"480\" height=\"480\" poster=\"https://1-1.hjalmer.com/uploads/2019/de7188d69e.png\" preload=\"none\"></video>\n",
 				"date_published": "2019-06-07T21:07:56-05:00",
 				"url": "https://1-1.hjalmer.com/2019/06/07/210756.html",
 				"tags": ["Instagram"]
@@ -8755,7 +8779,7 @@
 				"id": "http://hjalm.micro.blog/2019/06/04/im-not-a.html",
 				
 				"content_html": "<p>I’m not a man of means, but I can do this.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I’m not a man of means, but I can do this. \n\n<a href=\"https://cdn.uploads.micro.blog/4676/2019/fe24c83253.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/fe24c83253.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "I’m not a man of means, but I can do this. \n\n<a href=\"https://1-1.hjalmer.com/uploads/2019/fe24c83253.jpg\"><img src=\"uploads/2019/fe24c83253.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-06-04T09:26:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/06/04/im-not-a.html",
 				"tags": ["Photos","Himself"]
@@ -8796,7 +8820,7 @@
 				"id": "http://hjalm.micro.blog/2019/05/18/152200.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/eb15a5ef97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"uploads/2019/eb15a5ef97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-05-18T15:22:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/05/18/152200.html",
 				"tags": ["Photos"]
@@ -8829,7 +8853,7 @@
 				"id": "http://hjalm.micro.blog/2019/05/11/sometimes-the-tankard.html",
 				
 				"content_html": "<p>Sometimes, the tankard of coffee is what you need.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sometimes, the tankard of coffee is what you need.\n\n<a href=\"https://cdn.uploads.micro.blog/4676/2019/315757cd68.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/315757cd68.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Sometimes, the tankard of coffee is what you need.\n\n<a href=\"https://1-1.hjalmer.com/uploads/2019/315757cd68.jpg\"><img src=\"uploads/2019/315757cd68.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-05-11T12:43:59-05:00",
 				"url": "https://1-1.hjalmer.com/2019/05/11/sometimes-the-tankard.html",
 				"tags": ["Photos"]
@@ -8864,7 +8888,7 @@
 				"id": "http://hjalm.micro.blog/2019/04/20/starting-the-season.html",
 				
 				"content_html": "<p>Starting the season with new wheels!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Starting the season with new wheels!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/0987991549.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Starting the season with new wheels!\n\n<img src=\"uploads/2019/0987991549.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-04-20T17:45:35-05:00",
 				"url": "https://1-1.hjalmer.com/2019/04/20/starting-the-season.html",
 				"tags": ["Photos"]
@@ -8881,7 +8905,7 @@
 				"id": "http://hjalm.micro.blog/2019/04/11/it-has-been.html",
 				
 				"content_html": "<p>It has been a long time, Florida. Thanks for being kind.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It has been a long time, Florida. Thanks for being kind. \n\n<a href=\"https://cdn.uploads.micro.blog/4676/2019/cb5116186f.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/cb5116186f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "It has been a long time, Florida. Thanks for being kind. \n\n<a href=\"https://1-1.hjalmer.com/uploads/2019/cb5116186f.jpg\"><img src=\"uploads/2019/cb5116186f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-11T19:31:24-05:00",
 				"url": "https://1-1.hjalmer.com/2019/04/11/it-has-been.html",
 				"tags": ["Photos","Status"]
@@ -8899,7 +8923,7 @@
 				"id": "http://hjalm.micro.blog/2019/04/11/status-hdiconf-robertvanwinkle.html",
 				
 				"content_html": "<p>Status. #HDIConf #RobertVanWinkle</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Status. #HDIConf #RobertVanWinkle\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/fedda28876.jpg\" width=\"600\" height=\"308\" alt=\"\" />\n",
+				"content_text": "Status. #HDIConf #RobertVanWinkle\n\n<img src=\"uploads/2019/fedda28876.jpg\" width=\"600\" height=\"308\" alt=\"\" />\n",
 				"date_published": "2019-04-11T08:14:22-05:00",
 				"url": "https://1-1.hjalmer.com/2019/04/11/status-hdiconf-robertvanwinkle.html",
 				"tags": ["Photos","Status"]
@@ -8908,7 +8932,7 @@
 				"id": "http://hjalm.micro.blog/2019/04/09/status-neither-here.html",
 				
 				"content_html": "<p>Status: Neither here nor there</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Status: Neither here nor there\n\n<a href=\"https://cdn.uploads.micro.blog/4676/2019/bef7f21595.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/bef7f21595.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Status: Neither here nor there\n\n<a href=\"https://1-1.hjalmer.com/uploads/2019/bef7f21595.jpg\"><img src=\"uploads/2019/bef7f21595.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-04-09T17:39:04-05:00",
 				"url": "https://1-1.hjalmer.com/2019/04/09/status-neither-here.html",
 				"tags": ["Photos","Himself","Status"]
@@ -8917,7 +8941,7 @@
 				"id": "http://hjalm.micro.blog/2019/03/29/science-museum.html",
 				"title": "Science Museum of Minnesota",
 				"content_html": "<p>I still love dinosaurs!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I still love dinosaurs!\n\n<a href=\"https://cdn.uploads.micro.blog/4676/2019/9c6d71fe07.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/9c6d71fe07.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/4676/2019/d6e8105cc2.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/d6e8105cc2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/4676/2019/1588188336.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/1588188336.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/4676/2019/08c199e38a.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/08c199e38a.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/4676/2019/b965997557.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/b965997557.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/4676/2019/04853d9104.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/04853d9104.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/4676/2019/4638e89862.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/4638e89862.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "I still love dinosaurs!\n\n<a href=\"https://1-1.hjalmer.com/uploads/2019/9c6d71fe07.jpg\"><img src=\"uploads/2019/9c6d71fe07.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://1-1.hjalmer.com/uploads/2019/d6e8105cc2.jpg\"><img src=\"uploads/2019/d6e8105cc2.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://1-1.hjalmer.com/uploads/2019/1588188336.jpg\"><img src=\"uploads/2019/1588188336.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://1-1.hjalmer.com/uploads/2019/08c199e38a.jpg\"><img src=\"uploads/2019/08c199e38a.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://1-1.hjalmer.com/uploads/2019/b965997557.jpg\"><img src=\"uploads/2019/b965997557.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://1-1.hjalmer.com/uploads/2019/04853d9104.jpg\"><img src=\"uploads/2019/04853d9104.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://1-1.hjalmer.com/uploads/2019/4638e89862.jpg\"><img src=\"uploads/2019/4638e89862.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-03-29T15:48:37-05:00",
 				"url": "https://1-1.hjalmer.com/2019/03/29/science-museum.html",
 				"tags": ["Photos","Brilliant","Status"]
@@ -8952,7 +8976,7 @@
 				"id": "http://hjalm.micro.blog/2019/03/14/a-mantra-for.html",
 				
 				"content_html": "<p>A mantra, for when you need it</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A mantra, for when you need it\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/5d8bbc0f4d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A mantra, for when you need it\n\n<img src=\"uploads/2019/5d8bbc0f4d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-03-14T15:13:24-05:00",
 				"url": "https://1-1.hjalmer.com/2019/03/14/a-mantra-for.html",
 				"tags": ["Photos"]
@@ -8978,7 +9002,7 @@
 				"id": "http://hjalm.micro.blog/2019/03/11/possibly-my-favorite.html",
 				
 				"content_html": "<p>Possibly my favorite snack in the whole world.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Possibly my favorite snack in the whole world. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/b9185fc204.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Possibly my favorite snack in the whole world. \n\n<img src=\"uploads/2019/b9185fc204.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-11T20:37:50-05:00",
 				"url": "https://1-1.hjalmer.com/2019/03/11/possibly-my-favorite.html",
 				"tags": ["Photos"]
@@ -8987,7 +9011,7 @@
 				"id": "http://hjalm.micro.blog/2019/03/09/playing-in-the.html",
 				
 				"content_html": "<p>Playing in the snow</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Playing in the snow\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/d6db34a3b5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Playing in the snow\n\n<img src=\"uploads/2019/d6db34a3b5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-09T20:49:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/03/09/playing-in-the.html",
 				"tags": ["Photos","Himself"]
@@ -8996,7 +9020,7 @@
 				"id": "http://hjalm.micro.blog/2019/03/09/photo-challenge-day.html",
 				
 				"content_html": "<p>Photo Challenge: Day 1 of 7</p>\n<p>Groceries are laid in. Let the snow begin.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Photo Challenge: Day 1 of 7\n\nGroceries are laid in. Let the snow begin. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2019/566ce8f830.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Photo Challenge: Day 1 of 7\n\nGroceries are laid in. Let the snow begin. \n\n<img src=\"uploads/2019/566ce8f830.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-03-09T10:39:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/03/09/photo-challenge-day.html",
 				"tags": ["Photos","Himself"]
@@ -9005,7 +9029,7 @@
 				"id": "http://hjalm.micro.blog/2019/03/06/092232.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<a href=\"https://cdn.uploads.micro.blog/4676/2019/776a9259fd.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/776a9259fd.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n\n\n",
+				"content_text": "<a href=\"https://1-1.hjalmer.com/uploads/2019/776a9259fd.jpg\"><img src=\"uploads/2019/776a9259fd.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n\n\n",
 				"date_published": "2019-03-06T10:22:00-05:00",
 				"url": "https://1-1.hjalmer.com/2019/03/06/092232.html",
 				"tags": ["Photos","Himself"]
@@ -9014,7 +9038,7 @@
 				"id": "http://hjalm.micro.blog/2019/03/04/thinking-about-cleaning.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Thinking about cleaning my desk</p>\n",
-				"content_text": "<a href=\"https://cdn.uploads.micro.blog/4676/2019/ed90042120.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/ed90042120.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nThinking about cleaning my desk\n\n",
+				"content_text": "<a href=\"https://1-1.hjalmer.com/uploads/2019/ed90042120.jpg\"><img src=\"uploads/2019/ed90042120.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nThinking about cleaning my desk\n\n",
 				"date_published": "2019-03-04T17:54:22-05:00",
 				"url": "https://1-1.hjalmer.com/2019/03/04/thinking-about-cleaning.html",
 				"tags": ["Photos"]
@@ -9073,7 +9097,7 @@
 				"id": "http://hjalm.micro.blog/2019/02/09/mamas-researching-kombucha.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Mama’s researching kombucha. Poppa’s listening to music. Sofia’s playing fetch with Gram’s dog Louie.</p>\n",
-				"content_text": "<a href=\"http://1-1.hjalmer.com/uploads/2019/22e5d47075.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/22e5d47075.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nMama’s researching kombucha. Poppa’s listening to music. Sofia’s playing fetch with Gram’s dog Louie.\n\n",
+				"content_text": "<a href=\"http://1-1.hjalmer.com/uploads/2019/22e5d47075.jpg\"><img src=\"uploads/2019/22e5d47075.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nMama’s researching kombucha. Poppa’s listening to music. Sofia’s playing fetch with Gram’s dog Louie.\n\n",
 				"date_published": "2019-02-09T18:12:04-05:00",
 				"url": "https://1-1.hjalmer.com/2019/02/09/mamas-researching-kombucha.html",
 				"tags": ["Photos"]
@@ -9082,7 +9106,7 @@
 				"id": "http://hjalm.micro.blog/2019/02/09/obligatory-selfie-filmbornapp.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Obligatory #selfie #filmbornapp</p>\n",
-				"content_text": "<a href=\"http://1-1.hjalmer.com/uploads/2019/7289631a8c.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2019/7289631a8c.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nObligatory #selfie #filmbornapp\n\n",
+				"content_text": "<a href=\"http://1-1.hjalmer.com/uploads/2019/7289631a8c.jpg\"><img src=\"uploads/2019/7289631a8c.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nObligatory #selfie #filmbornapp\n\n",
 				"date_published": "2019-02-09T15:55:25-05:00",
 				"url": "https://1-1.hjalmer.com/2019/02/09/obligatory-selfie-filmbornapp.html",
 				"tags": ["Photos","Himself"]
@@ -9213,7 +9237,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/25/i-dont-have.html",
 				
 				"content_html": "<p>I don’t have an ugly Christmas sweater, but I did find this hat…\n@chrisgzuger</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don’t have an ugly Christmas sweater, but I did find this hat…\n@chrisgzuger\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/1cd8a62654.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I don’t have an ugly Christmas sweater, but I did find this hat…\n@chrisgzuger\n\n<img src=\"uploads/2018/1cd8a62654.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-25T11:37:22-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/25/i-dont-have.html",
 				"tags": ["Photos","Himself"]
@@ -9222,7 +9246,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/25/makes-me-feel.html",
 				
 				"content_html": "<p>Makes me feel like a kid!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Makes me feel like a kid!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/07bd84b5cd.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"https://cdn.uploads.micro.blog/4676/2018/9f43e33914.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://cdn.uploads.micro.blog/4676/2018/10594339ae.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Makes me feel like a kid!\n\n<img src=\"uploads/2018/07bd84b5cd.jpg\" width=\"600\" height=\"600\" alt=\"mp-photo-alt[]=mp-photo-alt[]=\" /><img src=\"uploads/2018/9f43e33914.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2018/10594339ae.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-25T10:46:59-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/25/makes-me-feel.html",
 				"tags": ["Photos"]
@@ -9255,7 +9279,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/24/sunset-marks-the.html",
 				
 				"content_html": "<p>Sunset marks the start of the first day of Christmas.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunset marks the start of the first day of Christmas.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/833f669c1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Sunset marks the start of the first day of Christmas.\n\n<img src=\"uploads/2018/833f669c1e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-24T17:41:43-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/24/sunset-marks-the.html",
 				"tags": ["Photos"]
@@ -9280,7 +9304,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/22/my-mom-always.html",
 				
 				"content_html": "<p>My mom always used to sing “Over the River and Through the Woods” when we drove to her mother’s home in Wisconsin. Now it’s my turn as I drive my daughter to my mother&rsquo;s home.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My mom always used to sing “Over the River and Through the Woods” when we drove to her mother’s home in Wisconsin. Now it’s my turn as I drive my daughter to my mother's home.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/679142d2e2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My mom always used to sing “Over the River and Through the Woods” when we drove to her mother’s home in Wisconsin. Now it’s my turn as I drive my daughter to my mother's home.\n\n<img src=\"uploads/2018/679142d2e2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-22T11:31:28-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/22/my-mom-always.html",
 				"tags": ["Photos"]
@@ -9329,7 +9353,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/15/011307.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/4676/2018/28d9084cbb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "<img src=\"uploads/2018/28d9084cbb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-14T20:13:00-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/14/011307.html",
 				"tags": ["Photos","Himself"]
@@ -9338,7 +9362,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/15/011044.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/4676/2018/7aae297e52.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "<img src=\"uploads/2018/7aae297e52.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-14T20:10:00-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/14/011044.html",
 				"tags": ["Photos","Himself"]
@@ -9347,7 +9371,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/15/playing-with-the.html",
 				
 				"content_html": "<p>Playing with the #tintypeapp</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Playing with the #tintypeapp\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/0d48616d70.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Playing with the #tintypeapp\n\n<img src=\"uploads/2018/0d48616d70.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-14T20:06:40-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/14/playing-with-the.html",
 				"tags": ["Photos","Himself"]
@@ -9356,7 +9380,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/11/mmm-fruit-juice.html",
 				
 				"content_html": "<p>Mmm. Fruit juice and fruit snacks!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mmm. Fruit juice and fruit snacks!\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/d66f7fe76b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Mmm. Fruit juice and fruit snacks!\n\n<img src=\"uploads/2018/d66f7fe76b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-11T13:00:28-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/11/mmm-fruit-juice.html",
 				"tags": ["Photos"]
@@ -9365,7 +9389,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/11/bloodselfie.html",
 				
 				"content_html": "<p>#bloodselfie</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "#bloodselfie\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/5b20f526f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "#bloodselfie\n\n<img src=\"uploads/2018/5b20f526f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-11T12:58:29-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/11/bloodselfie.html",
 				"tags": ["Photos","Himself"]
@@ -9398,7 +9422,7 @@
 				"id": "http://hjalm.micro.blog/2018/12/05/014328.html",
 				
 				"content_html": "<p>201812041943</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "201812041943\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/3872a0901f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "201812041943\n\n<img src=\"uploads/2018/3872a0901f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2018-12-04T20:43:28-05:00",
 				"url": "https://1-1.hjalmer.com/2018/12/04/014328.html",
 				"tags": ["Photos","Himself"]
@@ -9431,7 +9455,7 @@
 				"id": "http://hjalm.micro.blog/2018/11/24/first-time-listening.html",
 				
 				"content_html": "<p>First time listening to vinyl in these many long years. Bought the turntable a long time ago. Finally have the right space for it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First time listening to vinyl in these many long years. Bought the turntable a long time ago. Finally have the right space for it.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/a767165029.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "First time listening to vinyl in these many long years. Bought the turntable a long time ago. Finally have the right space for it.\n\n<img src=\"uploads/2018/a767165029.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2018-11-24T18:41:05-05:00",
 				"url": "https://1-1.hjalmer.com/2018/11/24/first-time-listening.html",
 				"tags": ["Photos"]
@@ -9480,7 +9504,7 @@
 				"id": "http://hjalm.micro.blog/2018/11/07/001423.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/4676/2018/7479939e93.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"uploads/2018/7479939e93.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-11-06T19:14:23-05:00",
 				"url": "https://1-1.hjalmer.com/2018/11/06/001423.html",
 				"tags": ["Photos","Himself"]
@@ -9497,7 +9521,7 @@
 				"id": "http://hjalm.micro.blog/2018/10/10/a-little-trash.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>A little trash talk from a favorite vendor</p>\n",
-				"content_text": "<a href=\"https://cdn.uploads.micro.blog/4676/2018/cf10db5b39.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/cf10db5b39.jpg\" width=\"600\" height=\"194\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nA little trash talk from a favorite vendor\n\n",
+				"content_text": "<a href=\"http://1-1.hjalmer.com/uploads/2018/cf10db5b39.jpg\"><img src=\"uploads/2018/cf10db5b39.jpg\" width=\"600\" height=\"194\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nA little trash talk from a favorite vendor\n\n",
 				"date_published": "2018-10-10T09:43:22-05:00",
 				"url": "https://1-1.hjalmer.com/2018/10/10/a-little-trash.html",
 				"tags": ["Photos"]
@@ -9506,7 +9530,7 @@
 				"id": "http://hjalm.micro.blog/2018/09/23/going-to-learn.html",
 				
 				"content_html": "<p>Going to learn about how an iPhone and a Kindle Fire work with an external keyboard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Going to learn about how an iPhone and a Kindle Fire work with an external keyboard.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/a63b609d21.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Going to learn about how an iPhone and a Kindle Fire work with an external keyboard.\n\n<img src=\"uploads/2018/a63b609d21.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-23T15:14:23-05:00",
 				"url": "https://1-1.hjalmer.com/2018/09/23/going-to-learn.html",
 				"tags": ["Photos"]
@@ -9515,7 +9539,7 @@
 				"id": "http://hjalm.micro.blog/2018/09/22/when-you-find.html",
 				
 				"content_html": "<p>When you find an accidental selfie in your photo roll</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When you find an accidental selfie in your photo roll\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/8aa2e0c3c1.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "When you find an accidental selfie in your photo roll\n\n<img src=\"uploads/2018/8aa2e0c3c1.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-09-22T12:27:25-05:00",
 				"url": "https://1-1.hjalmer.com/2018/09/22/when-you-find.html",
 				"tags": ["Photos","Himself"]
@@ -9524,7 +9548,7 @@
 				"id": "http://hjalm.micro.blog/2018/09/19/sending-good-thoughts.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Sending good thoughts forward and hoping for the best good. It’s a privilege to be in a position to help.</p>\n",
-				"content_text": "<a href=\"https://cdn.uploads.micro.blog/4676/2018/ce55413ffe.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/ce55413ffe.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSending good thoughts forward and hoping for the best good. It’s a privilege to be in a position to help. \n\n",
+				"content_text": "<a href=\"http://1-1.hjalmer.com/uploads/2018/ce55413ffe.jpg\"><img src=\"uploads/2018/ce55413ffe.jpg\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nSending good thoughts forward and hoping for the best good. It’s a privilege to be in a position to help. \n\n",
 				"date_published": "2018-09-19T10:38:59-05:00",
 				"url": "https://1-1.hjalmer.com/2018/09/19/sending-good-thoughts.html",
 				"tags": ["Photos","Himself"]
@@ -9533,7 +9557,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/31/first-exercise-set.html",
 				
 				"content_html": "<p>First exercise set is to get the equipment in place. Test pilot Sofia confirms all systems operational.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First exercise set is to get the equipment in place. Test pilot Sofia confirms all systems operational.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/223c8469d5.jpg\" width=\"480\" height=\"600\" />\n",
+				"content_text": "First exercise set is to get the equipment in place. Test pilot Sofia confirms all systems operational.\n\n<img src=\"uploads/2018/223c8469d5.jpg\" width=\"480\" height=\"600\" />\n",
 				"date_published": "2018-08-31T16:10:04-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/31/first-exercise-set.html",
 				"tags": ["Photos"]
@@ -9542,7 +9566,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/26/225537.html",
 				"title": "Summer Sunday Back-to-School Project",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>📷 📸 #flatpack #IKEA</p>\n",
-				"content_text": "\n<a href=\"https://cdn.uploads.micro.blog/4676/2018/3331bfffa7.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/3331bfffa7.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://cdn.uploads.micro.blog/4676/2018/5071bb8f24.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/5071bb8f24.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n📷 📸 #flatpack #IKEA\n\n",
+				"content_text": "\n<a href=\"http://1-1.hjalmer.com/uploads/2018/3331bfffa7.jpg\"><img src=\"uploads/2018/3331bfffa7.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"http://1-1.hjalmer.com/uploads/2018/5071bb8f24.jpg\"><img src=\"uploads/2018/5071bb8f24.jpg\" width=\"600\" height=\"450\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n📷 📸 #flatpack #IKEA\n\n",
 				"date_published": "2018-08-26T17:55:37-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/26/225537.html",
 				"tags": ["Photos"]
@@ -9551,7 +9575,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/23/223546.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/7eafc2495e.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"uploads/2018/7eafc2495e.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-23T17:35:46-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/23/223546.html",
 				"tags": ["Photos"]
@@ -9560,7 +9584,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/23/005450.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/8b24eb3b80.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"uploads/2018/8b24eb3b80.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-22T19:54:50-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/22/005450.html",
 				"tags": ["Photos"]
@@ -9569,7 +9593,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/12/who-doesnt-want.html",
 				
 				"content_html": "<p>Who doesn’t want the chance to drive a fire engine?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Who doesn’t want the chance to drive a fire engine?\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/e3ff4f4919.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Who doesn’t want the chance to drive a fire engine?\n\n<img src=\"uploads/2018/e3ff4f4919.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-11T19:23:42-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/11/who-doesnt-want.html",
 				"tags": ["Photos","Himself"]
@@ -9578,7 +9602,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/11/201928.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/61ce9b8123.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "\n<img src=\"uploads/2018/61ce9b8123.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2018-08-11T15:19:28-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/11/201928.html",
 				"tags": ["Photos"]
@@ -9587,7 +9611,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/11/laprsmidi-lhtel.html",
 				
 				"content_html": "<p>L’après-midi à l’hôtel</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "L’après-midi à l’hôtel\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/839af2f27d.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "L’après-midi à l’hôtel\n\n<img src=\"uploads/2018/839af2f27d.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-11T12:28:47-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/11/laprsmidi-lhtel.html",
 				"tags": ["Photos","Himself"]
@@ -9596,7 +9620,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/08/test-post.html",
 				"title": "Test Post",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Testing the Sunlit app for posting</p>\n",
-				"content_text": "<a href=\"https://cdn.uploads.micro.blog/4676/2018/876f9a04c2.jpg\"><img src=\"https://cdn.uploads.micro.blog/4676/2018/876f9a04c2.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nTesting the Sunlit app for posting\n\n",
+				"content_text": "<a href=\"http://1-1.hjalmer.com/uploads/2018/876f9a04c2.jpg\"><img src=\"uploads/2018/876f9a04c2.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nTesting the Sunlit app for posting\n\n",
 				"date_published": "2018-08-07T19:22:35-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/07/test-post.html",
 				"tags": ["Photos","Himself"]
@@ -9605,7 +9629,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/02/021822.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/4676/2018/7721975c57.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "<img src=\"uploads/2018/7721975c57.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-01T21:18:22-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/01/021822.html",
 				"tags": ["Photos","Himself"]
@@ -9614,7 +9638,7 @@
 				"id": "http://hjalm.micro.blog/2018/08/02/daim-is-one.html",
 				
 				"content_html": "<p>Daim is one of my favorite things, ever.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Daim is one of my favorite things, ever.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/a34599e10a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Daim is one of my favorite things, ever.\n\n<img src=\"uploads/2018/a34599e10a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-08-01T20:57:21-05:00",
 				"url": "https://1-1.hjalmer.com/2018/08/01/daim-is-one.html",
 				"tags": ["Photos"]
@@ -9623,7 +9647,7 @@
 				"id": "http://hjalm.micro.blog/2018/07/16/015623.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/fe0012207c.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"uploads/2018/fe0012207c.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-15T20:56:23-05:00",
 				"url": "https://1-1.hjalmer.com/2018/07/15/015623.html",
 				"tags": ["Photos"]
@@ -9632,7 +9656,7 @@
 				"id": "http://hjalm.micro.blog/2018/07/14/so-happy-i.html",
 				
 				"content_html": "<p>So happy I found this! It’s a magazine logo from another era… #Mondo2000 #wereapiratemindstation #howfastareyouhowdense #findtheothers</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So happy I found this! It’s a magazine logo from another era… #Mondo2000 #wereapiratemindstation #howfastareyouhowdense #findtheothers\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/a98e2f93d7.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "So happy I found this! It’s a magazine logo from another era… #Mondo2000 #wereapiratemindstation #howfastareyouhowdense #findtheothers\n\n<img src=\"uploads/2018/a98e2f93d7.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-07-14T13:22:38-05:00",
 				"url": "https://1-1.hjalmer.com/2018/07/14/so-happy-i.html",
 				"tags": ["Photos"]
@@ -9641,7 +9665,7 @@
 				"id": "http://hjalm.micro.blog/2018/06/23/234434.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/5fd3454950.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"uploads/2018/5fd3454950.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-23T18:44:34-05:00",
 				"url": "https://1-1.hjalmer.com/2018/06/23/234434.html",
 				"tags": ["Photos"]
@@ -9650,7 +9674,7 @@
 				"id": "http://hjalm.micro.blog/2018/06/23/kicking-off-summer.html",
 				
 				"content_html": "<p>Kicking off Summer in St Paul</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kicking off Summer in St Paul\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/f726f85dc2.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Kicking off Summer in St Paul\n\n<img src=\"uploads/2018/f726f85dc2.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-23T18:12:05-05:00",
 				"url": "https://1-1.hjalmer.com/2018/06/23/kicking-off-summer.html",
 				"tags": ["Photos","Himself"]
@@ -9659,7 +9683,7 @@
 				"id": "http://hjalm.micro.blog/2018/06/02/odin-will-not.html",
 				
 				"content_html": "<p>“Odin will not save you but he will give you inspiration and courage to save yourself…” I don’t remember where I first read, but I like it. #selfie #bearded #dramamuch</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“Odin will not save you but he will give you inspiration and courage to save yourself…” I don’t remember where I first read, but I like it. #selfie #bearded #dramamuch\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/cbdaa81fc6.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "“Odin will not save you but he will give you inspiration and courage to save yourself…” I don’t remember where I first read, but I like it. #selfie #bearded #dramamuch\n\n<img src=\"uploads/2018/cbdaa81fc6.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-06-01T19:49:18-05:00",
 				"url": "https://1-1.hjalmer.com/2018/06/01/odin-will-not.html",
 				"tags": ["Photos","Himself"]
@@ -9668,7 +9692,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/31/my-first-im.html",
 				
 				"content_html": "<p>My first! I’m excited! #unimitsubishipencil #kurutoga</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first! I’m excited! #unimitsubishipencil #kurutoga\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/7eb93949b4.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "My first! I’m excited! #unimitsubishipencil #kurutoga\n\n<img src=\"uploads/2018/7eb93949b4.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-31T18:59:35-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/31/my-first-im.html",
 				"tags": ["Photos"]
@@ -9677,7 +9701,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/23/in-the-business.html",
 				
 				"content_html": "<p>In the business parlance of our times, I have some “deltas” or “do-betters”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In the business parlance of our times, I have some “deltas” or “do-betters”\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/dd7273d0c5.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "In the business parlance of our times, I have some “deltas” or “do-betters”\n\n<img src=\"uploads/2018/dd7273d0c5.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-23T13:00:32-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/23/in-the-business.html",
 				"tags": ["Photos"]
@@ -9686,7 +9710,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/20/155934.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/bb452902d4.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "\n<img src=\"uploads/2018/bb452902d4.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-20T10:59:34-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/20/155934.html",
 				"tags": ["Photos"]
@@ -9695,7 +9719,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/12/brand-new-journal.html",
 				
 				"content_html": "<p>Brand new journal #leuchtturm1917 #startatthebeginning</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brand new journal #leuchtturm1917 #startatthebeginning\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/273e8c818d.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Brand new journal #leuchtturm1917 #startatthebeginning\n\n<img src=\"uploads/2018/273e8c818d.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-12T14:19:49-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/12/brand-new-journal.html",
 				"tags": ["Photos"]
@@ -9704,7 +9728,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/12/current-status.html",
 				
 				"content_html": "<p>Current Status</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Current Status\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/c254ccffa8.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Current Status\n\n<img src=\"uploads/2018/c254ccffa8.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-12T10:53:34-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/12/current-status.html",
 				"tags": ["Photos"]
@@ -9713,7 +9737,7 @@
 				"id": "http://hjalm.micro.blog/2018/05/06/learning-more-every.html",
 				
 				"content_html": "<p>Learning more every day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Learning more every day\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/91094f9bec.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Learning more every day\n\n<img src=\"uploads/2018/91094f9bec.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-05-06T18:37:55-05:00",
 				"url": "https://1-1.hjalmer.com/2018/05/06/learning-more-every.html",
 				"tags": ["Photos"]
@@ -9722,7 +9746,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/26/oh-look-it.html",
 				
 				"content_html": "<p>Oh look, it it’s finally at the log in screen. But, wait, no! No it is not …</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh look, it it’s finally at the log in screen. But, wait, no! No it is not …\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/1eebec0792.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Oh look, it it’s finally at the log in screen. But, wait, no! No it is not …\n\n<img src=\"uploads/2018/1eebec0792.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-25T19:18:43-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/25/oh-look-it.html",
 				"tags": ["Photos","Himself"]
@@ -9731,7 +9755,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/14/currently-mnwx-blizzardwarning.html",
 				
 				"content_html": "<p>Currently #mnwx #blizzardwarning #ramseycounty #snow</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Currently #mnwx #blizzardwarning #ramseycounty #snow\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/86885ba5ce.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Currently #mnwx #blizzardwarning #ramseycounty #snow\n\n<img src=\"uploads/2018/86885ba5ce.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-14T13:03:00-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/14/currently-mnwx-blizzardwarning.html",
 				"tags": ["Photos"]
@@ -9740,7 +9764,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/14/its-not-snowmagedon.html",
 				
 				"content_html": "<p>It’s not #snowmagedon, but we planned ahead with provisions and are cocooning this weekend. #mnwx</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s not #snowmagedon, but we planned ahead with provisions and are cocooning this weekend. #mnwx\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/c35f59270a.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "It’s not #snowmagedon, but we planned ahead with provisions and are cocooning this weekend. #mnwx\n\n<img src=\"uploads/2018/c35f59270a.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-14T08:57:28-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/14/its-not-snowmagedon.html",
 				"tags": ["Photos"]
@@ -9749,7 +9773,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/09/morning-cuppa-thank.html",
 				
 				"content_html": "<p>Morning cuppa. Thank you, @joelgroethe  #apisupply #apisupplylifts</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning cuppa. Thank you, @joelgroethe  #apisupply #apisupplylifts\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/c32c3213af.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Morning cuppa. Thank you, @joelgroethe  #apisupply #apisupplylifts\n\n<img src=\"uploads/2018/c32c3213af.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-09T08:21:53-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/09/morning-cuppa-thank.html",
 				"tags": ["Photos"]
@@ -9758,7 +9782,7 @@
 				"id": "http://hjalm.micro.blog/2018/04/04/springtime-more-than.html",
 				
 				"content_html": "<p>Springtime. More than eight inches of snow today, because Minnesota. #mnwx #stpaul #bearded #beardstagram #theboldnorth</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Springtime. More than eight inches of snow today, because Minnesota. #mnwx #stpaul #bearded #beardstagram #theboldnorth\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2018/013e3beb95.jpg\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Springtime. More than eight inches of snow today, because Minnesota. #mnwx #stpaul #bearded #beardstagram #theboldnorth\n\n<img src=\"uploads/2018/013e3beb95.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-04-03T21:57:16-05:00",
 				"url": "https://1-1.hjalmer.com/2018/04/03/springtime-more-than.html",
 				"tags": ["Photos","Himself"]
