@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/10/10/i-note-tonight.html",
+				
+				"content_html": "<p>I note, tonight, on my street in Saint Paul, that all of the street lamps are shining white light. After all of the experiments for decades with many types of lamps with many gasses inside, white is back.</p>\n",
+				"content_text": "I note, tonight, on my street in Saint Paul, that all of the street lamps are shining white light. After all of the experiments for decades with many types of lamps with many gasses inside, white is back. \n",
+				"date_published": "2023-10-10T22:53:05-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/10/i-note-tonight.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/01/yes-it-was.html",
+				
+				"content_html": "<p>Yes, it was me in the kilt</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yes, it was me in the kilt\n\n<img src=\"uploads/2023/c3f790e514.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-01T19:32:35-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/01/yes-it-was.html",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/10/01/my-first-visit.html",
 				
 				"content_html": "<p>My first visit to the Renaissance Festival in many years lead to my first kilt.</p>\n<!-- raw HTML omitted -->\n",
