@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/10/24/well-that-was.html",
+				
+				"content_html": "<p>Well, that was fast. Hardly got a profile set up on Pebble and they&rsquo;ve announced a November 1 shut down</p>\n",
+				"content_text": "Well, that was fast. Hardly got a profile set up on Pebble and they've announced a November 1 shut down\n",
+				"date_published": "2023-10-24T20:17:32-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/24/well-that-was.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/13/today-learned-a.html",
+				
+				"content_html": "<p><a href=\"https://www.youtube.com/watch?v=6cTOxWGOvjQ\">Today learned a small amount about British trains</a>. I had purchased a small set, movie specific, but it does not include as many coaches as depicted on screen. Canon doesn&rsquo;t offer detail, so tradition will have to do.</p>\n",
+				"content_text": "[Today learned a small amount about British trains](https://www.youtube.com/watch?v=6cTOxWGOvjQ). I had purchased a small set, movie specific, but it does not include as many coaches as depicted on screen. Canon doesn't offer detail, so tradition will have to do.\n",
+				"date_published": "2023-10-13T12:54:20-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/13/today-learned-a.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/10/10/i-note-tonight.html",
 				
 				"content_html": "<p>I note, tonight, on my street in Saint Paul, that all of the street lamps are shining white light. After all of the experiments for decades with many types of lamps with many gasses inside, white is back.</p>\n",
