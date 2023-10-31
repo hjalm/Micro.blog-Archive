@@ -7,6 +7,97 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/10/31/a-very-happy.html",
+				
+				"content_html": "<p>A very Happy Halloween to all those who celebrate with Tricks and Treats.</p>\n",
+				"content_text": "A very Happy Halloween to all those who celebrate with Tricks and Treats.\n",
+				"date_published": "2023-10-31T18:02:02-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/31/a-very-happy.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/28/me-and-mom.html",
+				
+				"content_html": "<p>Me and Mom at Queen’s Rhapsody Tour</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Me and Mom at Queen’s Rhapsody Tour\n\n<img src=\"uploads/2023/c255766499.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-28T20:00:16-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/28/me-and-mom.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/28/status.html",
+				
+				"content_html": "<p>Status</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Status\n\n<img src=\"uploads/2023/b525bacbd2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-28T19:39:34-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/28/status.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/27/i-just-cant.html",
+				
+				"content_html": "<p>I just can’t even. I don’t know a way forward right now. Half an hour just to get to recovery mode, and this result on a clean volume. ¯_(ツ)_/¯</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I just can’t even. I don’t know a way forward right now. Half an hour just to get to recovery mode, and this result on a clean volume. ¯\\_(ツ)_/¯ \n\n<img src=\"uploads/2023/8efe639abd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-10-27T21:04:48-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/27/i-just-cant.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/27/that-was-quick.html",
+				
+				"content_html": "<p>That was quick. Erased volume. Trying internet recovery again.</p>\n",
+				"content_text": "That was quick. Erased volume. Trying internet recovery again. \n",
+				"date_published": "2023-10-27T20:22:09-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/27/that-was-quick.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/27/if-i-dont.html",
+				
+				"content_html": "<p>If I don’t get anywhere tonight I’m going to recycle it at Apple. No one needs this kind of trouble. Re-erased and attempting Monterey reinstall. If that doesn’t work a third time, I will give it termed recovery one more shot. But that’s all I have.</p>\n",
+				"content_text": "If I don’t get anywhere tonight I’m going to recycle it at Apple. No one needs this kind of trouble. Re-erased and attempting Monterey reinstall. If that doesn’t work a third time, I will give it termed recovery one more shot. But that’s all I have. \n",
+				"date_published": "2023-10-27T20:13:05-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/27/if-i-dont.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/27/try-try-again.html",
+				
+				"content_html": "<p>Try, try again. Erased volume and recovering from on-machine recovery partition. I hope.</p>\n",
+				"content_text": "Try, try again. Erased volume and recovering from on-machine recovery partition. I hope. \n",
+				"date_published": "2023-10-27T20:06:54-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/27/try-try-again.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/27/welp-that-didnt.html",
+				
+				"content_html": "<p>Welp. That didn’t work, either. “An error occurred installing the update.” Okay</p>\n",
+				"content_text": "Welp. That didn’t work, either. “An error occurred installing the update.” Okay\n",
+				"date_published": "2023-10-27T19:55:26-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/27/welp-that-didnt.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/27/i-have-an.html",
+				
+				"content_html": "<p>I have an Intel MacBook Air with TouchID. I have never had a Mac that was so resistant to updates. SMC and PRAM resets at a minimum. Disks that won’t unlock, this time. Recovering now with new volumes and a clean installl.</p>\n",
+				"content_text": "I have an Intel MacBook Air with TouchID. I have never had a Mac that was so resistant to updates. SMC and PRAM resets at a minimum. Disks that won’t unlock, this time. Recovering now with new volumes and a clean installl. \n",
+				"date_published": "2023-10-27T19:42:57-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/27/i-have-an.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/27/ugh-when-the.html",
+				
+				"content_html": "<p>Ugh. When the progress bar goes back up in time.</p>\n",
+				"content_text": "Ugh. When the progress bar goes back up in time. \n",
+				"date_published": "2023-10-27T19:39:32-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/27/ugh-when-the.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/10/24/lots-of-little.html",
+				
+				"content_html": "<p>Lots of little things make me irritated. It passes. Until the next thing that does. On the inside it doesn&rsquo;t feel like I&rsquo;m always angry. But people observing me sometimes tell me I&rsquo;m always angry. That&rsquo;s not at all what I want. Not sure how to be better. I want to be better.</p>\n",
+				"content_text": "Lots of little things make me irritated. It passes. Until the next thing that does. On the inside it doesn't feel like I'm always angry. But people observing me sometimes tell me I'm always angry. That's not at all what I want. Not sure how to be better. I want to be better.\n",
+				"date_published": "2023-10-24T21:07:00-05:00",
+				"url": "https://1-1.hjalmer.com/2023/10/24/lots-of-little.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/10/24/well-that-was.html",
 				
 				"content_html": "<p>Well, that was fast. Hardly got a profile set up on Pebble and they&rsquo;ve announced a November 1 shut down</p>\n",
@@ -34,7 +125,7 @@
 				"id": "http://hjalm.micro.blog/2023/10/01/yes-it-was.html",
 				
 				"content_html": "<p>Yes, it was me in the kilt</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yes, it was me in the kilt\n\n<img src=\"uploads/2023/c3f790e514.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Yes, it was me in the kilt\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/c3f790e514.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-01T19:32:35-05:00",
 				"url": "https://1-1.hjalmer.com/2023/10/01/yes-it-was.html",
 				"tags": ["Photos"]
@@ -43,7 +134,7 @@
 				"id": "http://hjalm.micro.blog/2023/10/01/my-first-visit.html",
 				
 				"content_html": "<p>My first visit to the Renaissance Festival in many years lead to my first kilt.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My first visit to the Renaissance Festival in many years lead to my first kilt.\n\n<img src=\"uploads/2023/c7506a15ff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "My first visit to the Renaissance Festival in many years lead to my first kilt.\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/c7506a15ff.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-10-01T18:54:51-05:00",
 				"url": "https://1-1.hjalmer.com/2023/10/01/my-first-visit.html",
 				"tags": ["Photos"]
