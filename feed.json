@@ -7,10 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/12/20/i-clean-up.html",
+				
+				"content_html": "<p>I clean up alright.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I clean up alright.\n\n<img src=\"uploads/2023/ce21c0dfa6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-20T21:21:29-06:00",
+				"url": "https://1-1.hjalmer.com/2023/12/20/i-clean-up.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/12/11/in-yet-another.html",
+				
+				"content_html": "<p>In yet another nod to me not being in the correct demographic, I lament today that the Apple Journal app is only available on my phone. Not my iPad or Mac where I can properly sit down at the keyboard and bleed. Blood on the oliophobic and water resistant phone is not at all the same.</p>\n",
+				"content_text": "In yet another nod to me not being in the correct demographic, I lament today that the Apple Journal app is only available on my phone. Not my iPad or Mac where I can properly sit down at the keyboard and bleed. Blood on the oliophobic and water resistant phone is not at all the same.\n",
+				"date_published": "2023-12-11T16:03:06-06:00",
+				"url": "https://1-1.hjalmer.com/2023/12/11/in-yet-another.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/12/09/video-just-does.html",
+				
+				"content_html": "<p>Video just does not syndicate well. Too soon. I know.</p>\n",
+				"content_text": "Video just does not syndicate well. Too soon. I know.\n",
+				"date_published": "2023-12-09T16:35:31-06:00",
+				"url": "https://1-1.hjalmer.com/2023/12/09/video-just-does.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/12/09/what-you-do.html",
+				
+				"content_html": "<p>What you do when you have taken care of business but you don’t need to be at the airport for a few more hours: Niagara Falls from the Ontario side.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "What you do when you have taken care of business but you don’t need to be at the airport for a few more hours: Niagara Falls from the Ontario side. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2023/image.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2023/poster.png\" preload=\"none\"></video>\n",
+				"date_published": "2023-12-09T16:01:23-06:00",
+				"url": "https://1-1.hjalmer.com/2023/12/09/what-you-do.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/12/08/jeopardy-tournament-of.html",
+				
+				"content_html": "<p>Jeopardy Tournament of Champions is making me feel less smart than I felt a few short hours ago. I don&rsquo;t generally go around feeling smart. Nevertheless, less so, now.</p>\n",
+				"content_text": "Jeopardy Tournament of Champions is making me feel less smart than I felt a few short hours ago. I don't generally go around feeling smart. Nevertheless, less so, now.\n",
+				"date_published": "2023-12-08T19:00:52-06:00",
+				"url": "https://1-1.hjalmer.com/2023/12/08/jeopardy-tournament-of.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/12/07/estem-choir-concert.html",
 				
 				"content_html": "<p>EStem Choir Concert</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "EStem Choir Concert\n\n<img src=\"uploads/2023/be6ba51b2c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "EStem Choir Concert\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/be6ba51b2c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-12-07T19:56:53-06:00",
 				"url": "https://1-1.hjalmer.com/2023/12/07/estem-choir-concert.html",
 				"tags": ["Photos"]
@@ -27,7 +68,7 @@
 				"id": "http://hjalm.micro.blog/2023/12/07/somewhere-at-yyz.html",
 				
 				"content_html": "<p>Somewhere at YYZ</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Somewhere at YYZ\n\n<img src=\"uploads/2023/6513191a47.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Somewhere at YYZ\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/6513191a47.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-07T13:02:08-06:00",
 				"url": "https://1-1.hjalmer.com/2023/12/07/somewhere-at-yyz.html",
 				"tags": ["Photos"]
@@ -36,7 +77,7 @@
 				"id": "http://hjalm.micro.blog/2023/12/04/mississauga-second-night.html",
 				
 				"content_html": "<p>Mississauga, second night</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Mississauga, second night\n\n<img src=\"uploads/2023/89e06648bd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Mississauga, second night\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/89e06648bd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-04T16:51:24-06:00",
 				"url": "https://1-1.hjalmer.com/2023/12/04/mississauga-second-night.html",
 				"tags": ["Photos"]
@@ -45,7 +86,7 @@
 				"id": "http://hjalm.micro.blog/2023/12/03/elsewhere-in-mississauga.html",
 				
 				"content_html": "<p>Elsewhere in Mississauga</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Elsewhere in Mississauga\n\n<img src=\"uploads/2023/ecbcaa8c9c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Elsewhere in Mississauga\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2023/ecbcaa8c9c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-03T17:07:24-06:00",
 				"url": "https://1-1.hjalmer.com/2023/12/03/elsewhere-in-mississauga.html",
 				"tags": ["Photos"]
