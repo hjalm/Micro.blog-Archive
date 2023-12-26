@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2023/12/25/have-just-finished.html",
+				
+				"content_html": "<p>Have just finished being a right jolly old elf. Just about to settle in for a long winter’s nap.</p>\n",
+				"content_text": "Have just finished being a right jolly old elf. Just about to settle in for a long winter’s nap.\n",
+				"date_published": "2023-12-25T02:28:21-06:00",
+				"url": "https://1-1.hjalmer.com/2023/12/25/have-just-finished.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/12/23/i-was-at.html",
+				
+				"content_html": "<p>I was at a company function a few days ago. A pair at the gathering approached excitedly to tell me they had walked across Reykjavik and brought back a sweater from Iceland. They had been told I was from Iceland. Somehow there has been discussion of where I’m from where that has been an answer. I’m reasonably certain it’s the unique order of consonants and vowels that constitute my full name. My name has apparently been going around without me. I’m Wisconsin born, but I’m <em>from</em> Minnesota. The origin story of how I got my name, which includes the European Theatre of World War II, but does not include Iceland, is far more dramatic than the tale of where I’m from. As is the tale of how they got the sweater. It was a really nice sweater.</p>\n",
+				"content_text": "I was at a company function a few days ago. A pair at the gathering approached excitedly to tell me they had walked across Reykjavik and brought back a sweater from Iceland. They had been told I was from Iceland. Somehow there has been discussion of where I’m from where that has been an answer. I’m reasonably certain it’s the unique order of consonants and vowels that constitute my full name. My name has apparently been going around without me. I’m Wisconsin born, but I’m _from_ Minnesota. The origin story of how I got my name, which includes the European Theatre of World War II, but does not include Iceland, is far more dramatic than the tale of where I’m from. As is the tale of how they got the sweater. It was a really nice sweater. \n",
+				"date_published": "2023-12-23T01:01:25-06:00",
+				"url": "https://1-1.hjalmer.com/2023/12/23/i-was-at.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2023/12/22/it-would-be.html",
+				
+				"content_html": "<p>It would be cool if MacOS had a calculator widget.</p>\n<p>It wouldd be cool if iPad OS came withh a calculator.</p>\n<p>Can’t have it if I don’t ask, right?</p>\n",
+				"content_text": "It would be cool if MacOS had a calculator widget. \n\nIt wouldd be cool if iPad OS came withh a calculator. \n\nCan’t have it if I don’t ask, right?\n",
+				"date_published": "2023-12-22T10:44:45-06:00",
+				"url": "https://1-1.hjalmer.com/2023/12/22/it-would-be.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2023/12/20/i-clean-up.html",
 				
 				"content_html": "<p>I clean up alright.</p>\n<!-- raw HTML omitted -->\n",
@@ -35,7 +59,7 @@
 				"id": "http://hjalm.micro.blog/2023/12/09/what-you-do.html",
 				
 				"content_html": "<p>What you do when you have taken care of business but you don’t need to be at the airport for a few more hours: Niagara Falls from the Ontario side.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "What you do when you have taken care of business but you don’t need to be at the airport for a few more hours: Niagara Falls from the Ontario side. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://1-1.hjalmer.com/uploads/2023/image.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2023/poster.png\" preload=\"none\"></video>\n",
+				"content_text": "What you do when you have taken care of business but you don’t need to be at the airport for a few more hours: Niagara Falls from the Ontario side. \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/4676/2023/image.mov\" width=\"640\" height=\"360\" poster=\"https://1-1.hjalmer.com/uploads/2023/poster.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-12-09T16:01:23-06:00",
 				"url": "https://1-1.hjalmer.com/2023/12/09/what-you-do.html"
 			},
