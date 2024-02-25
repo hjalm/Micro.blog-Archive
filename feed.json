@@ -7,6 +7,71 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/02/22/the-back-door.html",
+				
+				"content_html": "<p>The back door of my house faces south, and while my property is surrounded by trees, there aren’t any on my lot. This affords a decent view of the southern sky, which I adore. I’m grateful each night the clouds (and my corrective lenses) allow me to spot moons and constellations and planets.</p>\n",
+				"content_text": "The back door of my house faces south, and while my property is surrounded by trees, there aren’t any on my lot. This affords a decent view of the southern sky, which I adore. I’m grateful each night the clouds (and my corrective lenses) allow me to spot moons and constellations and planets.\n",
+				"date_published": "2024-02-22T23:00:29-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/22/the-back-door.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/22/engadget-has-been.html",
+				
+				"content_html": "<p>Engadget has been dead to me for a long time.</p>\n<p>I see the changes being made there as the beginning of the end.</p>\n",
+				"content_text": "Engadget has been dead to me for a long time.\r\n\r\nI see the changes being made there as the beginning of the end. \n",
+				"date_published": "2024-02-22T22:21:31-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/22/engadget-has-been.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/21/the-moon-tonight.html",
+				
+				"content_html": "<p>The Moon, tonight in St. Paul, Minnesota</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Moon, tonight in St. Paul, Minnesota\n\n<img src=\"uploads/2024/f25ac8158d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-02-21T22:29:33-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/21/the-moon-tonight.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/21/tomorrow-the-alarm.html",
+				
+				"content_html": "<p>Tomorrow, the alarm clock rings and I return to my weekday routine.</p>\n",
+				"content_text": "Tomorrow, the alarm clock rings and I return to my weekday routine. \n",
+				"date_published": "2024-02-21T16:47:52-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/21/tomorrow-the-alarm.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/21/surreal-experience-watching.html",
+				
+				"content_html": "<p>Surreal experience watching a team stage parts of my home for photography, then put it all back the way it was.</p>\n",
+				"content_text": "Surreal experience watching a team stage parts of my home for photography, then put it all back the way it was.\n",
+				"date_published": "2024-02-21T16:44:21-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/21/surreal-experience-watching.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/21/we-signed-on.html",
+				
+				"content_html": "<p>We signed on the line. We are going to be part of the 2024 <a href=\"https://www.msphometour.com\">MSP Home Tour</a>.</p>\n",
+				"content_text": "We signed on the line. We are going to be part of the 2024 [MSP Home Tour](https://www.msphometour.com).\n",
+				"date_published": "2024-02-21T13:20:27-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/21/we-signed-on.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/19/we-are-at.html",
+				
+				"content_html": "<p>We are, at last, unboxed. Work isn&rsquo;t done, but we accomplished what we set out to do.</p>\n",
+				"content_text": "We are, at last, unboxed. Work isn't done, but we accomplished what we set out to do.\n",
+				"date_published": "2024-02-19T23:37:48-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/19/we-are-at.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/19/eating-doritos-and.html",
+				
+				"content_html": "<p>Eating Doritos and making coffee, as one does.</p>\n",
+				"content_text": "Eating Doritos and making coffee, as one does.\n",
+				"date_published": "2024-02-19T12:05:35-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/19/eating-doritos-and.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/02/19/took-a-few.html",
 				
 				"content_html": "<p>Took a few days off this week. It is lovely to start the week sleeping in. Much to do, but in my time.</p>\n",
