@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/03/03/waiting-for-the.html",
+				
+				"content_html": "<p>Waiting for the Journal app on iPadOS or MacOS. I have too many feelings about on-screen keyboarding to use my iPhone. I know that it’s phone first for many many many people. But I want to use my Magic Keyboard or my MacBook’s keyboard</p>\n",
+				"content_text": "Waiting for the Journal app on iPadOS or MacOS. I have too many feelings about on-screen keyboarding to use my iPhone. I know that it’s phone first for many many many people. But I want to use my Magic Keyboard or my MacBook’s keyboard \n",
+				"date_published": "2024-03-03T18:14:14-06:00",
+				"url": "https://1-1.hjalmer.com/2024/03/03/waiting-for-the.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/28/i-just-read.html",
+				
+				"content_html": "<p>I just read that Apple is going to produce a series based on Neuromancer. Now I need to re-read it!</p>\n",
+				"content_text": "I just read that Apple is going to produce a series based on Neuromancer. Now I need to re-read it!\n",
+				"date_published": "2024-02-28T20:17:12-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/28/i-just-read.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/28/spiced-coke-is.html",
+				
+				"content_html": "<p>Spiced Coke is too sweet. I am disappointed. Not nearly enough spice to meet my expectations, especially relative to the strength of the way regular Coke tastes.</p>\n",
+				"content_text": "Spiced Coke is too sweet. I am disappointed. Not nearly enough spice to meet my expectations, especially relative to the strength of the way regular Coke tastes.\n",
+				"date_published": "2024-02-28T18:57:47-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/28/spiced-coke-is.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/02/25/paused-the-reading.html",
+				
+				"content_html": "<p>Paused the reading of a trilogy to read a different trilogy. Having finished the second, I’m returning to the first while engaging another work. As one does.</p>\n",
+				"content_text": "Paused the reading of a trilogy to read a different trilogy. Having finished the second, I’m returning to the first while engaging another work. As one does.\n",
+				"date_published": "2024-02-25T10:40:20-06:00",
+				"url": "https://1-1.hjalmer.com/2024/02/25/paused-the-reading.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/02/22/the-back-door.html",
 				
 				"content_html": "<p>The back door of my house faces south, and while my property is surrounded by trees, there aren’t any on my lot. This affords a decent view of the southern sky, which I adore. I’m grateful each night the clouds (and my corrective lenses) allow me to spot moons and constellations and planets.</p>\n",
@@ -26,7 +58,7 @@
 				"id": "http://hjalm.micro.blog/2024/02/21/the-moon-tonight.html",
 				
 				"content_html": "<p>The Moon, tonight in St. Paul, Minnesota</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Moon, tonight in St. Paul, Minnesota\n\n<img src=\"uploads/2024/f25ac8158d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The Moon, tonight in St. Paul, Minnesota\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2024/f25ac8158d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-02-21T22:29:33-06:00",
 				"url": "https://1-1.hjalmer.com/2024/02/21/the-moon-tonight.html",
 				"tags": ["Photos"]
