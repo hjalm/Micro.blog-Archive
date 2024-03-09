@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/03/09/god-forbid-the.html",
+				
+				"content_html": "<p>God forbid the dogs should sleep more than 15 minutes past sunrise.</p>\n<p>I am awake, I have brewed coffee.</p>\n<p>Alertness and determination arrive later in the day.</p>\n",
+				"content_text": "God forbid the dogs should sleep more than 15 minutes past sunrise.\n\nI am awake, I have brewed coffee. \n\nAlertness and determination arrive later in the day.\n",
+				"date_published": "2024-03-09T08:12:36-06:00",
+				"url": "https://1-1.hjalmer.com/2024/03/09/god-forbid-the.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/06/the-clouds-said.html",
+				
+				"content_html": "<p>The clouds said, “No stars for you, tonight. Enjoy your city’s light reflected back to you.”</p>\n",
+				"content_text": "The clouds said, “No stars for you, tonight. Enjoy your city’s light reflected back to you.”\n",
+				"date_published": "2024-03-06T21:23:29-06:00",
+				"url": "https://1-1.hjalmer.com/2024/03/06/the-clouds-said.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/05/dear-thunderbolt-thank.html",
+				
+				"content_html": "<p>Dear Thunderbolt,</p>\n<p>Thank you for giving me my iTunes Library back.</p>\n<p>Warm regards,</p>\n<p>Hjalmer</p>\n",
+				"content_text": "Dear Thunderbolt, \r\n\r\nThank you for giving me my iTunes Library back. \r\n\r\nWarm regards,  \r\n\r\nHjalmer\n",
+				"date_published": "2024-03-05T18:41:56-06:00",
+				"url": "https://1-1.hjalmer.com/2024/03/05/dear-thunderbolt-thank.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/05/the-meta-conversation.html",
+				
+				"content_html": "<p>The meta conversation in my head critiquing a presentation as it unfolds. One is not <em>prisoner</em> of running applications full-screen. You can actually resize your window to make your screen shots legible or to capture only the relevant portion of the screen or window.</p>\n",
+				"content_text": "The meta conversation in my head critiquing a presentation as it unfolds. One is not _prisoner_ of running applications full-screen. You can actually resize your window to make your screen shots legible or to capture only the relevant portion of the screen or window.\n",
+				"date_published": "2024-03-05T11:18:39-06:00",
+				"url": "https://1-1.hjalmer.com/2024/03/05/the-meta-conversation.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/05/its-my-problem.html",
+				
+				"content_html": "<p>It’s my problem because I’m the one who’s annoyed, but I really am bothered when standing meetings are started 5 minutes ahead of time by folks who aren’t the meeting leaders or organizers. Maybe I can have the meeting software stop the notifications. I just don’t find that helpful.</p>\n",
+				"content_text": "It’s my problem because I’m the one who’s annoyed, but I really am bothered when standing meetings are started 5 minutes ahead of time by folks who aren’t the meeting leaders or organizers. Maybe I can have the meeting software stop the notifications. I just don’t find that helpful.\n",
+				"date_published": "2024-03-05T11:01:43-06:00",
+				"url": "https://1-1.hjalmer.com/2024/03/05/its-my-problem.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/03/03/waiting-for-the.html",
 				
 				"content_html": "<p>Waiting for the Journal app on iPadOS or MacOS. I have too many feelings about on-screen keyboarding to use my iPhone. I know that it’s phone first for many many many people. But I want to use my Magic Keyboard or my MacBook’s keyboard</p>\n",
