@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/03/18/sometimes-the-gif.html",
+				
+				"content_html": "<p>Sometimes, the GIF I want does not exist because I remebered a pop-culture moment incorrectly</p>\n",
+				"content_text": "Sometimes, the GIF I want does not exist because I remebered a pop-culture moment incorrectly\n",
+				"date_published": "2024-03-18T11:40:55-05:00",
+				"url": "https://1-1.hjalmer.com/2024/03/18/sometimes-the-gif.html",
+				"tags": ["Experiential"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/17/this-is-my.html",
+				
+				"content_html": "<p>This is my frustration with the app and streaming ecosystem. I, personally, am not signing out.</p>\n<p>App updates, New phones (even after an encrypted restore), OS updates, company mergers &ndash; all sign you out.</p>\n<p>But you know what always, always works? Debits from my bank account. That&rsquo;s always authorized.</p>\n",
+				"content_text": "This is my frustration with the app and streaming ecosystem. I, personally, am not signing out.\r\n\r\nApp updates, New phones (even after an encrypted restore), OS updates, company mergers -- all sign you out. \r\n\r\nBut you know what always, always works? Debits from my bank account. That's always authorized.\n",
+				"date_published": "2024-03-17T15:43:18-05:00",
+				"url": "https://1-1.hjalmer.com/2024/03/17/this-is-my.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/17/i-just-wanted.html",
+				
+				"content_html": "<p>I just wanted to start watching a concert video for my wife. I was privileged to change my password twice so that everything started talking.</p>\n<p>We are streaming now, but it&rsquo;s going to be a bit before I can relax after wanting to get destructive for a few moments.</p>\n",
+				"content_text": "I just wanted to start watching a concert video for my wife. I was privileged to change my password twice so that everything started talking.\n\nWe are streaming now, but it's going to be a bit before I can relax after wanting to get destructive for a few moments.\n",
+				"date_published": "2024-03-17T15:33:54-05:00",
+				"url": "https://1-1.hjalmer.com/2024/03/17/i-just-wanted.html",
+				"tags": ["Status"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/03/15/im-not-shocked.html",
 				
 				"content_html": "<p>I’m not shocked at Uber’s actions in Minnesota, given their apparent disrespect for drivers. I am sad, though, that Lyft is retaliating against Minneapolis. I had chosen them over Uber as that transportation provider in a pinch. Now I need to rethink that. I am a St. Paul resident, for the record.</p>\n",
