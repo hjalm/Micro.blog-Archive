@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/04/04/target-corporation-i.html",
+				
+				"content_html": "<p>Target Corporation, I don’t care how much money you paid for the rights. You. Do. Not. Use. Prince. Songs.</p>\n",
+				"content_text": "Target Corporation, I don’t care how much money you paid for the rights. You. Do. Not. Use. Prince. Songs.\n",
+				"date_published": "2024-04-04T21:30:31-05:00",
+				"url": "https://1-1.hjalmer.com/2024/04/04/target-corporation-i.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/04/01/i-feel-like.html",
+				
+				"content_html": "<p>I feel like I&rsquo;m getting trolled by Apple&rsquo;s meta data as I re-rip my CDs. I wish occasional incorrect track titles was the worst of it.</p>\n",
+				"content_text": "I feel like I'm getting trolled by Apple's meta data as I re-rip my CDs. I wish occasional incorrect track titles was the worst of it.\n",
+				"date_published": "2024-04-01T21:00:55-05:00",
+				"url": "https://1-1.hjalmer.com/2024/04/01/i-feel-like.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/31/surprise-and-delight.html",
+				
+				"content_html": "<p>Surprise and delight. I had read a while ago that one could import audiograms into settings for AirPods Pro. <a href=\"https://www.soundly.com/blog/airpods-as-hearing-aids\">It&rsquo;s true.</a> You can use your camera. And then you can edit what it imports.</p>\n<p>And the results brought tears to my eyes.</p>\n",
+				"content_text": "Surprise and delight. I had read a while ago that one could import audiograms into settings for AirPods Pro. [It's true.](https://www.soundly.com/blog/airpods-as-hearing-aids) You can use your camera. And then you can edit what it imports.\r\n\r\nAnd the results brought tears to my eyes.\n",
+				"date_published": "2024-03-31T18:40:10-05:00",
+				"url": "https://1-1.hjalmer.com/2024/03/31/surprise-and-delight.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/31/the-amazing-thing.html",
+				
+				"content_html": "<p>The amazing thing about humanity, and the living artifact of the internets, is that you don&rsquo;t have to wonder if someone has been there before. They have, and there is a well-worn path.</p>\n",
+				"content_text": "The amazing thing about humanity, and the living artifact of the internets, is that you don't have to wonder if someone has been there before. They have, and there is a well-worn path.\n",
+				"date_published": "2024-03-31T11:07:43-05:00",
+				"url": "https://1-1.hjalmer.com/2024/03/31/the-amazing-thing.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/03/31/but-first-coffee.html",
+				
+				"content_html": "<p>But first, Coffee!</p>\n",
+				"content_text": "But first, Coffee!\n",
+				"date_published": "2024-03-31T10:51:10-05:00",
+				"url": "https://1-1.hjalmer.com/2024/03/31/but-first-coffee.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/03/23/i-do-pay.html",
 				
 				"content_html": "<p>I <em>do</em> pay for identity services, in the sense that I own a vanity domain. I can also link presence and identity to it, with no fees, by adding unique text records. Tools like Google, Keybase, Mastodon, BlueSky and Nostr can use these to establish a link. That&rsquo;s one way forward.</p>\n",
