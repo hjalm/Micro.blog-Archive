@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/04/15/if-we-dont.html",
+				
+				"content_html": "<p>If we don’t repeat the stories, no one else can know them</p>\n",
+				"content_text": "If we don’t repeat the stories, no one else can know them\n",
+				"date_published": "2024-04-15T09:55:42-05:00",
+				"url": "https://1-1.hjalmer.com/2024/04/15/if-we-dont.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/04/14/chicken-curry-with.html",
+				
+				"content_html": "<p>Chicken Curry with Onion from <em>Ming&rsquo;s Garden</em> works every time</p>\n",
+				"content_text": "Chicken Curry with Onion from _Ming's Garden_ works every time\n",
+				"date_published": "2024-04-14T20:33:25-05:00",
+				"url": "https://1-1.hjalmer.com/2024/04/14/chicken-curry-with.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/04/14/hanging-out-with.html",
+				
+				"content_html": "<p>Hanging out with my Mom and my kid at the fire. I don’t think I remember the last time I “roasted” hotdogs that way</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hanging out with my Mom and my kid at the fire. I don’t think I remember the last time I “roasted” hotdogs that way\n\n<img src=\"uploads/2024/68183c7431.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-04-14T17:05:43-05:00",
+				"url": "https://1-1.hjalmer.com/2024/04/14/hanging-out-with.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/04/13/hours-and-minutes.html",
+				
+				"content_html": "<p>4 hours and 47 minutes into an annual IT exercise. In my role, I&rsquo;m basically a fly on the wall, unless or until urgent communication or coordination is needed.</p>\n",
+				"content_text": "4 hours and 47 minutes into an annual IT exercise. In my role, I'm basically a fly on the wall, unless or until urgent communication or coordination is needed.\n",
+				"date_published": "2024-04-13T11:28:24-05:00",
+				"url": "https://1-1.hjalmer.com/2024/04/13/hours-and-minutes.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/04/13/generally-im-a.html",
+				
+				"content_html": "<p>Generally, I&rsquo;m a coffee-first kind of person. This morning, it took a while before I was ready to make the effort. I did come to my senses, though. And the coffee is actually delicious, thank you.</p>\n",
+				"content_text": "Generally, I'm a coffee-first kind of person. This morning, it took a while before I was ready to make the effort. I did come to my senses, though. And the coffee is actually delicious, thank you.\n",
+				"date_published": "2024-04-13T11:27:02-05:00",
+				"url": "https://1-1.hjalmer.com/2024/04/13/generally-im-a.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/04/10/dusting-off-the.html",
+				
+				"content_html": "<p>Dusting off the old chili recipe, today. Slow-cooking, now.</p>\n",
+				"content_text": "Dusting off the old chili recipe, today. Slow-cooking, now.\n",
+				"date_published": "2024-04-10T15:30:14-05:00",
+				"url": "https://1-1.hjalmer.com/2024/04/10/dusting-off-the.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/04/08/i-had-been.html",
 				
 				"content_html": "<p>I had been a long-time MusicMatch user, before I had bought my first iPod. Before I had purchased my first Mac. Only was reminded of this today when I was deduplicating tracks. The software agent that ripped the track is part of the metadata visible when you Get Info in Music.</p>\n",
