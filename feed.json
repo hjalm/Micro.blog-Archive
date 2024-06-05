@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/06/04/one-song-shy.html",
+				
+				"content_html": "<p>One song shy of a complete rip, a CD shattered in the drive. Have never experienced such a thing. I bought my first CDs and CD player in 1987. The CD that shattered was from 2002.</p>\n",
+				"content_text": "One song shy of a complete rip, a CD shattered in the drive. Have never experienced such a thing. I bought my first CDs and CD player in 1987. The CD that shattered was from 2002.\n",
+				"date_published": "2024-06-04T22:15:07-05:00",
+				"url": "https://1-1.hjalmer.com/2024/06/04/one-song-shy.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/05/31/when-the-sun.html",
+				
+				"content_html": "<p>When the sun rises and the caffeine hits</p>\n",
+				"content_text": "When the sun rises and the caffeine hits\n",
+				"date_published": "2024-05-31T08:24:30-05:00",
+				"url": "https://1-1.hjalmer.com/2024/05/31/when-the-sun.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/05/30/it-looks-like.html",
 				
-				"content_html": "<p>It looks like I started using 1Password after I stopped using ICQ and AIM and all of the others. Out of nostalgia I looked to see if I had any login info recorded. I was fond of Trillium and Pidgeon and it seems like there were some Adobe AIR applications in there somewhere, too.</p>\n",
-				"content_text": "It looks like I started using 1Password after I stopped using ICQ and AIM and all of the others. Out of nostalgia I looked to see if I had any login info recorded. I was fond of Trillium and Pidgeon and it seems like there were some Adobe AIR applications in there somewhere, too.\n",
+				"content_html": "<p>It looks like I started using 1Password after I stopped using ICQ and AIM and all of the others. Out of nostalgia I looked to see if I had any login info recorded. I was fond of Trillium and Pidgin and it seems like there were some Adobe AIR applications in there somewhere, too.</p>\n",
+				"content_text": "It looks like I started using 1Password after I stopped using ICQ and AIM and all of the others. Out of nostalgia I looked to see if I had any login info recorded. I was fond of Trillium and Pidgin and it seems like there were some Adobe AIR applications in there somewhere, too.\n",
 				"date_published": "2024-05-30T12:34:17-05:00",
 				"url": "https://1-1.hjalmer.com/2024/05/30/it-looks-like.html"
 			},
