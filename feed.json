@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/06/16/im-deeply-annoyed.html",
+				
+				"content_html": "<p>I&rsquo;m deeply annoyed by the metadata now supplied from Apple when you go to convert a CD. Either an album is now put into the Various Artists ghetto, or the same album is listed in parts because of a partnered artists <em>even when</em> the album itself and the liner notes make no such distinction.</p>\n",
+				"content_text": "I'm deeply annoyed by the metadata now supplied from Apple when you go to convert a CD. Either an album is now put into the Various Artists ghetto, or the same album is listed in parts because of a partnered artists _even when_ the album itself and the liner notes make no such distinction.\n",
+				"date_published": "2024-06-16T19:06:51-05:00",
+				"url": "https://1-1.hjalmer.com/2024/06/16/im-deeply-annoyed.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/06/11/til-kegling-is.html",
+				
+				"content_html": "<p>TIL: kegling is a sport.</p>\n<p>But it isn’t about your pelvic floor.</p>\n",
+				"content_text": "TIL: kegling is a sport.\r\n\r\nBut it isn’t about your pelvic floor.\n",
+				"date_published": "2024-06-11T18:10:22-05:00",
+				"url": "https://1-1.hjalmer.com/2024/06/11/til-kegling-is.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/06/11/please-stop-saying.html",
+				
+				"content_html": "<p>Please stop saying anyone <em>tweeted</em> anything. Twitter is dead. It’s dead, Jim.</p>\n<p>People post. On social media. Post. Post is as easy to say as tweet. Wrote, also easy to say, with a long history of accepted usage. They post what they wrote.</p>\n<p>Also? Twitter is dead.</p>\n",
+				"content_text": "Please stop saying anyone _tweeted_ anything. Twitter is dead. It’s dead, Jim.\r\n\r\nPeople post. On social media. Post. Post is as easy to say as tweet. Wrote, also easy to say, with a long history of accepted usage. They post what they wrote.\r\n\r\nAlso? Twitter is dead.\n",
+				"date_published": "2024-06-11T13:26:36-05:00",
+				"url": "https://1-1.hjalmer.com/2024/06/11/please-stop-saying.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/06/10/i-think-elon.html",
 				
 				"content_html": "<p>I think Elon is only upset that it’s ChatGPT and not xAI.</p>\n",
