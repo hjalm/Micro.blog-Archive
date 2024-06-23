@@ -7,12 +7,45 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/06/22/oof-i-just.html",
+				
+				"content_html": "<p>Oof. I just spent hours answering questions for a <a href=\"https://catieosaurus.com/adhd-survey\">survey</a> about ADHD. Go <a href=\"https://www.instagram.com/reel/C7ia8GKMYr2/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==\">@catieosaurus</a> It made me feel things and remember things, but also helped me to feel proud of everything I have managed to accomplish despite this. Please share. If you have the diagnosis or are seeking it, I see you.</p>\n",
+				"content_text": "Oof. I just spent hours answering questions for a [survey](https://catieosaurus.com/adhd-survey) about ADHD. Go [@catieosaurus](https://www.instagram.com/reel/C7ia8GKMYr2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) It made me feel things and remember things, but also helped me to feel proud of everything I have managed to accomplish despite this. Please share. If you have the diagnosis or are seeking it, I see you.\n",
+				"date_published": "2024-06-22T19:45:32-05:00",
+				"url": "https://1-1.hjalmer.com/2024/06/22/oof-i-just.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/06/21/three-technical-support.html",
+				
+				"content_html": "<p>Three Technical Support Truths:</p>\n<ol>\n<li>All hardware sucks</li>\n<li>All operating systems suck</li>\n<li>All applications suck</li>\n</ol>\n<p>Many other truths and corollaries can be derived from support experience, but these are ones I’m willing to state out loud.</p>\n",
+				"content_text": "Three Technical Support Truths:\r\n\r\n1. All hardware sucks\r\n1. All operating systems suck\r\n1. All applications suck\r\n\r\nMany other truths and corollaries can be derived from support experience, but these are ones I’m willing to state out loud.\n",
+				"date_published": "2024-06-21T14:57:18-05:00",
+				"url": "https://1-1.hjalmer.com/2024/06/21/three-technical-support.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/06/21/to-be-fair.html",
+				
+				"content_html": "<p>To be fair (sung in three-part harmony), <em>all operating systems suck</em>. This is one of my three simple truths, to be embraced as a professional who supports such things.</p>\n",
+				"content_text": "To be fair (sung in three-part harmony), _all operating systems suck_. This is one of my three simple truths, to be embraced as a professional who supports such things.\n",
+				"date_published": "2024-06-21T14:42:31-05:00",
+				"url": "https://1-1.hjalmer.com/2024/06/21/to-be-fair.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/06/21/windows-still-prefers.html",
+				
+				"content_html": "<p>Windows still prefers to be stationary. It doesn’t know when this external display needs different settings than that external display. The assumptions the OS makes are not the assumptions that people make. This makes individuals angry and is a support nightmare.</p>\n",
+				"content_text": "Windows still prefers to be stationary. It doesn’t know when this external display needs different settings than that external display. The assumptions the OS makes are not the assumptions that people make. This makes individuals angry and is a support nightmare.\n",
+				"date_published": "2024-06-21T14:40:15-05:00",
+				"url": "https://1-1.hjalmer.com/2024/06/21/windows-still-prefers.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/06/16/im-deeply-annoyed.html",
 				
-				"content_html": "<p>I&rsquo;m deeply annoyed by the metadata now supplied from Apple when you go to convert a CD. Either an album is now put into the Various Artists ghetto, or the same album is listed in parts because of a partnered artists <em>even when</em> the album itself and the liner notes make no such distinction.</p>\n",
-				"content_text": "I'm deeply annoyed by the metadata now supplied from Apple when you go to convert a CD. Either an album is now put into the Various Artists ghetto, or the same album is listed in parts because of a partnered artists _even when_ the album itself and the liner notes make no such distinction.\n",
+				"content_html": "<p>I&rsquo;m deeply annoyed by the metadata now supplied from Apple when you go to convert a CD. Either an album is now put into the Various Artists ghetto, or the same album is listed in parts because of partnered artists <em>even when</em> the album itself and the liner notes make no such distinction.</p>\n",
+				"content_text": "I'm deeply annoyed by the metadata now supplied from Apple when you go to convert a CD. Either an album is now put into the Various Artists ghetto, or the same album is listed in parts because of partnered artists _even when_ the album itself and the liner notes make no such distinction.\n",
 				"date_published": "2024-06-16T19:06:51-05:00",
-				"url": "https://1-1.hjalmer.com/2024/06/16/im-deeply-annoyed.html"
+				"url": "https://1-1.hjalmer.com/2024/06/16/im-deeply-annoyed.html",
+				"tags": ["Music"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2024/06/11/til-kegling-is.html",
