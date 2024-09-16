@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/09/16/can-i-say.html",
+				
+				"content_html": "<p>Can I say I like Teams “calls” less than phone calls? Hard to believe but I think I found something I appreciate less.</p>\n<p>I am a professional and take the interruptions in stride, of course. It’s no caller’s fault I have issues, but I have issues.</p>\n",
+				"content_text": "Can I say I like Teams “calls” less than phone calls? Hard to believe but I think I found something I appreciate less.\r\n\r\nI am a professional and take the interruptions in stride, of course. It’s no caller’s fault I have issues, but I have issues.\n",
+				"date_published": "2024-09-16T08:50:43-05:00",
+				"url": "https://1-1.hjalmer.com/2024/09/16/can-i-say.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/09/09/i-am-an.html",
 				
 				"content_html": "<p><a href=\"https://open.substack.com/pub/yearofmentalhealth/p/i-am-an-actor-playing-a-role\">I am an actor playing a role</a> - by Chris Guillebeau on Substack</p>\n<p>I feel like this could be a tool to help some folks who, like myself, are dealing with anxiety from one cause or another</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://hjalm.micro.blog/2024/09/01/the-butterfly-house.html",
 				
 				"content_html": "<p>The butterfly house was not a bad way to sit in stillness. They will come to you if you wait.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The butterfly house was not a bad way to sit in stillness. They will come to you if you wait. \n\n<img src=\"uploads/2024/8f7ae6927a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/87597cb309.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/dc39528b0a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/e0ffe6699e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The butterfly house was not a bad way to sit in stillness. They will come to you if you wait. \n\n<img src=\"https://cdn.uploads.micro.blog/4676/2024/8f7ae6927a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2024/87597cb309.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2024/dc39528b0a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/4676/2024/e0ffe6699e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-01T18:56:33-05:00",
 				"url": "https://1-1.hjalmer.com/2024/09/01/the-butterfly-house.html",
 				"tags": ["Photos"]
