@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/09/27/i-signed-into.html",
+				
+				"content_html": "<p>I signed into BattleNet last night. I learned the remastered version of Starcraft was just $15 US, and runs natively on MacOS. So I’m working through the game in the prescribed progression first as Protoss. I’m very rusty but it plays more or less just like I remember.</p>\n",
+				"content_text": "I signed into BattleNet last night. I learned the remastered version of Starcraft was just $15 US, and runs natively on MacOS. So I’m working through the game in the prescribed progression first as Protoss. I’m very rusty but it plays more or less just like I remember.\n",
+				"date_published": "2024-09-27T11:25:20-05:00",
+				"url": "https://1-1.hjalmer.com/2024/09/27/i-signed-into.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/09/24/the-transportation-construction.html",
+				
+				"content_html": "<p>The transportation construction in my part of the world is epic, this year. I have the change of seasons to look forward to, but some projects continue into December even as the ground starts to freeze and snow starts to fly. I’m weary of the delays and changes to my routes. Just complaining here.</p>\n",
+				"content_text": "The transportation construction in my part of the world is epic, this year. I have the change of seasons to look forward to, but some projects continue into December even as the ground starts to freeze and snow starts to fly. I’m weary of the delays and changes to my routes. Just complaining here.\n",
+				"date_published": "2024-09-24T09:35:07-05:00",
+				"url": "https://1-1.hjalmer.com/2024/09/24/the-transportation-construction.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/09/22/hypothetically-if-i.html",
+				
+				"content_html": "<p>Hypothetically, if I was to go to The Renaissance Festival, buy a Tricorn hat and eat a roasted leg of Turkey, I might look like this:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hypothetically, if I was to go to The Renaissance Festival, buy a Tricorn hat and eat a roasted leg of Turkey, I might look like this:\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2024/46361bb054.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-22T17:11:27-05:00",
+				"url": "https://1-1.hjalmer.com/2024/09/22/hypothetically-if-i.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/09/21/scientists-find-evidence.html",
+				
+				"content_html": "<p><a href=\"https://futurism.com/the-byte/earth-ring-like-saturn\">Scientists Find Evidence Earth Used to Have a Ring Like Saturn</a></p>\n<p>I think the Earth&rsquo;s history, and human history, are more complex than we have so far imagined. I don&rsquo;t think we have it figured out.</p>\n",
+				"content_text": "[Scientists Find Evidence Earth Used to Have a Ring Like Saturn](https://futurism.com/the-byte/earth-ring-like-saturn)\r\n\r\nI think the Earth's history, and human history, are more complex than we have so far imagined. I don't think we have it figured out.\r\n",
+				"date_published": "2024-09-21T13:01:01-05:00",
+				"url": "https://1-1.hjalmer.com/2024/09/21/scientists-find-evidence.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/09/21/im-running-ubuntu.html",
 				
 				"content_html": "<p>I&rsquo;m running Ubuntu on an older HP EliteBook X360 1040 G5 and everything for the most part was working well, <em>except</em> audio. Always something, right?</p>\n<p>No suggestions seemed to work until I modified grub, per the instructions <a href=\"https://askubuntu.com/questions/1243369/sound-card-not-detected-ubuntu-20-04-sof-audio-pci/1424600#1424600\">here</a>, which reverts to Intel. The B&amp;O system is only supported in Windows.</p>\n",
