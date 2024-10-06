@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/10/06/im-very-slowly.html",
+				
+				"content_html": "<p>I&rsquo;m very slowly working through the <a href=\"https://www.myforevernotes.com\">Forever ✱ Notes</a> set up. I love that it&rsquo;s not an app, and I also love that it keeps inspiring me to solve other problems I&rsquo;ve been thinking about, specifically with respect to something like a CRM tool, but not requiring a subscription to a SAAS provider.</p>\n",
+				"content_text": "I'm very slowly working through the [Forever ✱ Notes](https://www.myforevernotes.com) set up. I love that it's not an app, and I also love that it keeps inspiring me to solve other problems I've been thinking about, specifically with respect to something like a CRM tool, but not requiring a subscription to a SAAS provider.\n",
+				"date_published": "2024-10-06T16:45:11-05:00",
+				"url": "https://1-1.hjalmer.com/2024/10/06/im-very-slowly.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/09/27/this-is-completely.html",
+				
+				"content_html": "<p>This is completely random and just a me thing. I am annoyed when news sources announce <em>discoveries</em> of ruins that are plainly visible above ground. The people who live there might be able to explain the history of the site, or, even if the lore is gone, simply know it exists and can show you.</p>\n",
+				"content_text": "This is completely random and just a me thing. I am annoyed when news sources announce _discoveries_ of ruins that are plainly visible above ground. The people who live there might be able to explain the history of the site, or, even if the lore is gone, simply know it exists and can show you.\n",
+				"date_published": "2024-09-27T16:10:42-05:00",
+				"url": "https://1-1.hjalmer.com/2024/09/27/this-is-completely.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/09/27/i-signed-into.html",
 				
 				"content_html": "<p>I signed into BattleNet last night. I learned the remastered version of Starcraft was just $15 US, and runs natively on MacOS. So I’m working through the game in the prescribed progression first as Protoss. I’m very rusty but it plays more or less just like I remember.</p>\n",
