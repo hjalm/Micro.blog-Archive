@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/10/12/im-using-an.html",
+				
+				"content_html": "<p>I&rsquo;m using an older Apple MacBook Pro with a Touch Bar. My biggest complaint, after losing physical function keys, and even after using this device since it was new in 2019, I rest my hands on top of the keyboard and inevitably activate the ESC. This still surprises me, every single time.</p>\n",
+				"content_text": "I'm using an older Apple MacBook Pro with a Touch Bar. My biggest complaint, after losing physical function keys, and even after using this device since it was new in 2019, I rest my hands on top of the keyboard and inevitably activate the ESC. This still surprises me, every single time.\n",
+				"date_published": "2024-10-12T11:34:46-05:00",
+				"url": "https://1-1.hjalmer.com/2024/10/12/im-using-an.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/10/11/id-like-to.html",
+				
+				"content_html": "<p>I’d like to thank <a href=\"https://micro.blog/manton\">@manton</a> for making it possible to syndicate to all the places, enabling me to implement a <a href=\"https://indieweb.org/POSSE\">POSSE</a> strategy with Micro.Blog at the core.</p>\n",
+				"content_text": "I’d like to thank [@manton](https://micro.blog/manton) for making it possible to syndicate to all the places, enabling me to implement a [POSSE](https://indieweb.org/POSSE) strategy with Micro.Blog at the core.\n",
+				"date_published": "2024-10-11T11:37:42-05:00",
+				"url": "https://1-1.hjalmer.com/2024/10/11/id-like-to.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/10/11/the-skies-have.html",
+				
+				"content_html": "<p>The skies have been amazing these last few months. I have witnessed more auroral displays in the last year than in my entire 5 decades previous.</p>\n",
+				"content_text": "The skies have been amazing these last few months. I have witnessed more auroral displays in the last year than in my entire 5 decades previous.\n",
+				"date_published": "2024-10-11T10:43:53-05:00",
+				"url": "https://1-1.hjalmer.com/2024/10/11/the-skies-have.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/10/06/awesome-to-see.html",
+				
+				"content_html": "<p>Awesome to see <em>Chic</em> on stage tonight during the American Music Awards. They sounded great and made it look easy</p>\n",
+				"content_text": "Awesome to see *Chic* on stage tonight during the American Music Awards. They sounded great and made it look easy\n",
+				"date_published": "2024-10-06T20:26:11-05:00",
+				"url": "https://1-1.hjalmer.com/2024/10/06/awesome-to-see.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/10/06/i-feel-like.html",
+				
+				"content_html": "<p>I feel like the <a href=\"https://www.myforevernotes.com\">Forever ✱ Notes</a> methodology is to your preferred notes app what the <a href=\"https://bulletjournal.com/\">Bullet Journal</a> methodology is to the paper notebook you already own.</p>\n<p>I am hoping to leverage both in my life, recognizing that I need to make more specific space in my life for a journaling practice.</p>\n",
+				"content_text": "I feel like the [Forever ✱ Notes](https://www.myforevernotes.com) methodology is to your preferred notes app what the [Bullet Journal](https://bulletjournal.com/) methodology is to the paper notebook you already own.\r\n\r\nI am hoping to leverage both in my life, recognizing that I need to make more specific space in my life for a journaling practice.\n",
+				"date_published": "2024-10-06T16:51:11-05:00",
+				"url": "https://1-1.hjalmer.com/2024/10/06/i-feel-like.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/10/06/im-very-slowly.html",
 				
 				"content_html": "<p>I&rsquo;m very slowly working through the <a href=\"https://www.myforevernotes.com\">Forever ✱ Notes</a> set up. I love that it&rsquo;s not an app, and I also love that it keeps inspiring me to solve other problems I&rsquo;ve been thinking about, specifically with respect to something like a CRM tool, but not requiring a subscription to a SAAS provider.</p>\n",
@@ -42,7 +82,7 @@
 				"id": "http://hjalm.micro.blog/2024/09/22/hypothetically-if-i.html",
 				
 				"content_html": "<p>Hypothetically, if I was to go to The Renaissance Festival, buy a Tricorn hat and eat a roasted leg of Turkey, I might look like this:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hypothetically, if I was to go to The Renaissance Festival, buy a Tricorn hat and eat a roasted leg of Turkey, I might look like this:\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2024/46361bb054.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hypothetically, if I was to go to The Renaissance Festival, buy a Tricorn hat and eat a roasted leg of Turkey, I might look like this:\n\n\n\n<img src=\"uploads/2024/46361bb054.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-22T17:11:27-05:00",
 				"url": "https://1-1.hjalmer.com/2024/09/22/hypothetically-if-i.html",
 				"tags": ["Photos"]
