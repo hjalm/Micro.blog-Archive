@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/11/28/happy-thanksgiving-grateful.html",
+				
+				"content_html": "<p>Happy Thanksgiving! Grateful for my family. Grateful for love. Enjoying a slow day listening to good music, drinking good coffee, and eating good food. Wishing you the best.</p>\n",
+				"content_text": "Happy Thanksgiving! Grateful for my family. Grateful for love. Enjoying a slow day listening to good music, drinking good coffee, and eating good food. Wishing you the best.\n",
+				"date_published": "2024-11-28T16:19:10-06:00",
+				"url": "https://1-1.hjalmer.com/2024/11/28/happy-thanksgiving-grateful.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/11/24/so-hard-to.html",
+				
+				"content_html": "<p>So hard to love watching the Vikings play. Relived that we won, but was so frustrating to watching a 10 point lead evaporate in the last 70 seconds of regulation play. Won by a field goal, though. Skol!</p>\n",
+				"content_text": "So hard to love watching the Vikings play. Relived that we won, but was so frustrating to watching a 10 point lead evaporate in the last 70 seconds of regulation play. Won by a field goal, though. Skol!\n",
+				"date_published": "2024-11-24T15:41:11-06:00",
+				"url": "https://1-1.hjalmer.com/2024/11/24/so-hard-to.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/11/22/cornflake-girl-by.html",
+				
+				"content_html": "<p><a href=\"https://music.apple.com/us/album/cornflake-girl-2015-remastered/981366461?i=981366647\">Cornflake Girl</a> by Tori Amos</p>\n",
+				"content_text": "[Cornflake Girl](https://music.apple.com/us/album/cornflake-girl-2015-remastered/981366461?i=981366647) by Tori Amos\n",
+				"date_published": "2024-11-22T20:46:26-06:00",
+				"url": "https://1-1.hjalmer.com/2024/11/22/cornflake-girl-by.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/11/22/stark-examples-of.html",
+				
+				"content_html": "<p>Stark examples of the benefits of vaccines: <a href=\"https://graphics.wsj.com/infectious-diseases-and-vaccines/\">Battling Infectious Diseases in the 20th Century: The Impact of Vaccines</a></p>\n",
+				"content_text": "Stark examples of the benefits of vaccines: [Battling Infectious Diseases in the 20th Century: The Impact of Vaccines](https://graphics.wsj.com/infectious-diseases-and-vaccines/)\n",
+				"date_published": "2024-11-22T11:08:22-06:00",
+				"url": "https://1-1.hjalmer.com/2024/11/22/stark-examples-of.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/11/20/meanwhile-gerry-raffertys.html",
+				
+				"content_html": "<p>Meanwhile, Gerry Rafferty&rsquo;s <em>Baker Street</em> is now playing in the assortment of high-rated tracks I have running. Is anyone doing anything like that anymore?</p>\n",
+				"content_text": "Meanwhile, Gerry Rafferty's _Baker Street_ is now playing in the assortment of high-rated tracks I have running. Is anyone doing anything like that anymore? \n",
+				"date_published": "2024-11-20T21:27:08-06:00",
+				"url": "https://1-1.hjalmer.com/2024/11/20/meanwhile-gerry-raffertys.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/11/20/i-love-the.html",
+				
+				"content_html": "<p>I love the shoegaze and the _nu_gaze. When the guitar chords and loops get super dense in a wall-of-sound kind of way is when I love it most. The baseline and the drums carry me through. Someday if I have time and budget, I&rsquo;d like to experiment with filters and reverb and a noise generator.</p>\n",
+				"content_text": "I love the shoegaze and the _nu_gaze. When the guitar chords and loops get super dense in a wall-of-sound kind of way is when I love it most. The baseline and the drums carry me through. Someday if I have time and budget, I'd like to experiment with filters and reverb and a noise generator.\n",
+				"date_published": "2024-11-20T21:25:21-06:00",
+				"url": "https://1-1.hjalmer.com/2024/11/20/i-love-the.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/11/20/cd-rerip-discoveries.html",
 				
 				"content_html": "<p>CD Re-Rip Discoveries:</p>\n<ol>\n<li>Folks have helped themselves to a few. Have found empty jewel cases and gaps.</li>\n<li>So much necessary clean-up. Lots of duplicate tracks stemming from a drive recovery several years ago</li>\n<li>I adore Sigur Rós so much that I had already ingested the CDs with a lossless conversion</li>\n</ol>\n",
