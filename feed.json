@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/12/10/all-of-us.html",
+				
+				"content_html": "<p><a href=\"https://youtu.be/a8jTZI8YDI8?si=O1bZ1-fZgzjuiHjc\">All Of Us</a> from Spoke’s album <em>”Done”</em>. Also appears on the album _All We Need Of Hell”</p>\n",
+				"content_text": "[All Of Us](https://youtu.be/a8jTZI8YDI8?si=O1bZ1-fZgzjuiHjc) from Spoke’s album _”Done”_. Also appears on the album _All We Need Of Hell”\n",
+				"date_published": "2024-12-10T10:00:06-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/10/all-of-us.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/12/08/watching-the-song.html",
+				
+				"content_html": "<p>Watching <em>The Song Remains The Same</em> for the first time. I was 8 when it was released theatrically.</p>\n",
+				"content_text": "Watching _The Song Remains The Same_ for the first time. I was 8 when it was released theatrically.\n",
+				"date_published": "2024-12-08T17:14:23-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/08/watching-the-song.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/12/04/i-just-heard.html",
+				
+				"content_html": "<p>I just heard myself say &ldquo;What&rsquo;s the temp out side? The air sounds cold.&rdquo; It&rsquo;s eight Fahrenheit, reference.</p>\n",
+				"content_text": "I just heard myself say \"What's the temp out side? The air sounds cold.\" It's eight Fahrenheit, reference.\n",
+				"date_published": "2024-12-04T20:47:18-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/04/i-just-heard.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/12/04/darling-buds-so.html",
+				
+				"content_html": "<p><a href=\"https://music.apple.com/us/album/so-close/379088552?i=379088607\">Darling Buds <em>So Close</em></a></p>\n<p>When your shuffled playlist brings back something you forgot you loved. From the <em>Crawdaddy</em> album released circa 1990.</p>\n",
+				"content_text": "[Darling Buds _So Close_](https://music.apple.com/us/album/so-close/379088552?i=379088607)\r\n\r\nWhen your shuffled playlist brings back something you forgot you loved. From the _Crawdaddy_ album released circa 1990.\r\n",
+				"date_published": "2024-12-04T09:47:04-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/04/darling-buds-so.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/12/03/rudolph-the-red.html",
 				
 				"content_html": "<p>Rudolph the Red Nosed Reindeer&rsquo;s stop motion animation was released 60 years ago. It feels like on of the few things left in popular culture that&rsquo;s still older than me. Not by much, mind you. But still.</p>\n",
