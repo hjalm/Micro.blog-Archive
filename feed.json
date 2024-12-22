@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2024/12/21/seeing-others-work.html",
+				
+				"content_html": "<p>Seeing others work on their online presence inspires me. Have been looking over my stuff and fixing some details.</p>\n",
+				"content_text": "Seeing others work on their online presence inspires me. Have been looking over my stuff and fixing some details.\n",
+				"date_published": "2024-12-21T21:49:11-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/21/seeing-others-work.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/12/21/signed-some-christmas.html",
+				
+				"content_html": "<p>Signed some Christmas cards today. I swear a good third of them look like I have not mastered fine motor control or have not learned all of the letterforms—as I approach the sixth decade of signing my name.</p>\n",
+				"content_text": "Signed some Christmas cards today. I swear a good third of them look like I have not mastered fine motor control or have not learned all of the letterforms—as I approach the sixth decade of signing my name. \n",
+				"date_published": "2024-12-21T12:35:59-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/21/signed-some-christmas.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/12/20/went-to-apple.html",
+				
+				"content_html": "<p>Went to Apple to have them repair my iPhone. Have been living without the back camera for some time. But increasingly it was more and more troublesome. Thankfully, I was covered by AppleCare and it’s all over but the restore.</p>\n",
+				"content_text": "Went to Apple to have them repair my iPhone. Have been living without the back camera for some time. But increasingly it was more and more troublesome. Thankfully, I was covered by AppleCare and it’s all over but the restore.\n",
+				"date_published": "2024-12-20T16:50:58-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/20/went-to-apple.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/12/19/watched-the-first.html",
+				
+				"content_html": "<p>Watched the first two episodes of <em>Agatha All Along</em> tonight. Looks like a fun series. I’m hooked.</p>\n",
+				"content_text": "Watched the first two episodes of _Agatha All Along_ tonight. Looks like a fun series. I’m hooked.  \n",
+				"date_published": "2024-12-19T21:29:50-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/19/watched-the-first.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2024/12/18/sometimes-changing-your.html",
+				
+				"content_html": "<p>Sometimes changing your blog theme is the right amount of fun challenge.</p>\n",
+				"content_text": "Sometimes changing your blog theme is the right amount of fun challenge.\n",
+				"date_published": "2024-12-18T18:15:43-06:00",
+				"url": "https://1-1.hjalmer.com/2024/12/18/sometimes-changing-your.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2024/12/13/in-the-long.html",
 				
 				"content_html": "<p>In the long list of headlines that make me feel old:</p>\n<p><a href=\"https://www.autoblog.com/news/the-first-lamborghini-countach-was-made-50-years-ago\">The first Lamborghini Countach was made 50 years ago</a></p>\n<p>I was made more than 50 years ago.</p>\n",
@@ -33,10 +73,11 @@
 			{
 				"id": "http://hjalm.micro.blog/2024/12/10/all-of-us.html",
 				
-				"content_html": "<p><a href=\"https://youtu.be/a8jTZI8YDI8?si=O1bZ1-fZgzjuiHjc\">All Of Us</a> from Spoke’s album <em>”Done”</em>. Also appears on the album <em>All We Need Of Hell</em></p>\n",
-				"content_text": "[All Of Us](https://youtu.be/a8jTZI8YDI8?si=O1bZ1-fZgzjuiHjc) from Spoke’s album _”Done”_. Also appears on the album _All We Need Of Hell_\n",
+				"content_html": "<p><a href=\"https://youtu.be/a8jTZI8YDI8?si=O1bZ1-fZgzjuiHjc\">All Of Us</a> from Spoke’s album <em>“Done”</em>. Also appears on the album <em>All We Need Of Hell</em></p>\n",
+				"content_text": "[All Of Us](https://youtu.be/a8jTZI8YDI8?si=O1bZ1-fZgzjuiHjc) from Spoke’s album _“Done”_. Also appears on the album _All We Need Of Hell_\n",
 				"date_published": "2024-12-10T10:00:06-06:00",
-				"url": "https://1-1.hjalmer.com/2024/12/10/all-of-us.html"
+				"url": "https://1-1.hjalmer.com/2024/12/10/all-of-us.html",
+				"tags": ["Music"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2024/12/08/watching-the-song.html",
@@ -49,26 +90,29 @@
 			{
 				"id": "http://hjalm.micro.blog/2024/12/04/i-just-heard.html",
 				
-				"content_html": "<p>I just heard myself say &ldquo;What&rsquo;s the temp out side? The air sounds cold.&rdquo; It&rsquo;s eight Fahrenheit, reference.</p>\n",
-				"content_text": "I just heard myself say \"What's the temp out side? The air sounds cold.\" It's eight Fahrenheit, reference.\n",
+				"content_html": "<p>I just heard myself say &ldquo;What&rsquo;s the temp out side? The air sounds cold.&rdquo; It&rsquo;s eight Fahrenheit, for reference.</p>\n",
+				"content_text": "I just heard myself say \"What's the temp out side? The air sounds cold.\" It's eight Fahrenheit, for reference.\n",
 				"date_published": "2024-12-04T20:47:18-06:00",
-				"url": "https://1-1.hjalmer.com/2024/12/04/i-just-heard.html"
+				"url": "https://1-1.hjalmer.com/2024/12/04/i-just-heard.html",
+				"tags": ["Experiential"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2024/12/04/darling-buds-so.html",
 				
 				"content_html": "<p><a href=\"https://music.apple.com/us/album/so-close/379088552?i=379088607\">Darling Buds <em>So Close</em></a></p>\n<p>When your shuffled playlist brings back something you forgot you loved. From the <em>Crawdaddy</em> album released circa 1990.</p>\n",
-				"content_text": "[Darling Buds _So Close_](https://music.apple.com/us/album/so-close/379088552?i=379088607)\r\n\r\nWhen your shuffled playlist brings back something you forgot you loved. From the _Crawdaddy_ album released circa 1990.\r\n",
+				"content_text": "[Darling Buds _So Close_](https://music.apple.com/us/album/so-close/379088552?i=379088607)\n\nWhen your shuffled playlist brings back something you forgot you loved. From the _Crawdaddy_ album released circa 1990.\n",
 				"date_published": "2024-12-04T09:47:04-06:00",
-				"url": "https://1-1.hjalmer.com/2024/12/04/darling-buds-so.html"
+				"url": "https://1-1.hjalmer.com/2024/12/04/darling-buds-so.html",
+				"tags": ["Music"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2024/12/03/rudolph-the-red.html",
 				
-				"content_html": "<p>Rudolph the Red Nosed Reindeer&rsquo;s stop motion animation was released 60 years ago. It feels like on of the few things left in popular culture that&rsquo;s still older than me. Not by much, mind you. But still.</p>\n",
-				"content_text": "Rudolph the Red Nosed Reindeer's stop motion animation was released 60 years ago. It feels like on of the few things left in popular culture that's still older than me. Not by much, mind you. But still. \n",
+				"content_html": "<p>Rudolph the Red Nosed Reindeer&rsquo;s stop motion animation was released 60 years ago. It feels like one of the few things left in popular culture that&rsquo;s still older than me. Not by much, mind you. But still.</p>\n",
+				"content_text": "Rudolph the Red Nosed Reindeer's stop motion animation was released 60 years ago. It feels like one of the few things left in popular culture that's still older than me. Not by much, mind you. But still. \n",
 				"date_published": "2024-12-03T20:35:44-06:00",
-				"url": "https://1-1.hjalmer.com/2024/12/03/rudolph-the-red.html"
+				"url": "https://1-1.hjalmer.com/2024/12/03/rudolph-the-red.html",
+				"tags": ["Remembering"]
 			},
 			{
 				"id": "http://hjalm.micro.blog/2024/12/03/ordered-a-pair.html",
