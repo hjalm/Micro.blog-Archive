@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2025/01/07/im-currently-a-subscriber-to.html",
+				
+				"content_html": "<p>I&rsquo;m currently a subscriber to Micro.blog, which is where my posts start. <a href=\"https://micro.one\">Micro.one</a> is live today, as an introduction to micro blogging and is only $1 a month. Intro video at the link.</p>\n",
+				"content_text": "I'm currently a subscriber to Micro.blog, which is where my posts start. [Micro.one](https://micro.one) is live today, as an introduction to micro blogging and is only $1 a month. Intro video at the link.\n",
+				"date_published": "2025-01-07T15:35:56-06:00",
+				"url": "https://1-1.hjalmer.com/2025/01/07/im-currently-a-subscriber-to.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/01/06/that-feeling-when-my-own.html",
+				
+				"content_html": "<p>That feeling when my own inattention to a detail and assumptions Microsoft&rsquo;s software makes caused me to change a password in error. <em>IF</em> I had been paying attention, no password change would have been needed. Nevertheless, two accounts have just had the password age clock reset.</p>\n",
+				"content_text": "That feeling when my own inattention to a detail and assumptions Microsoft's software makes caused me to change a password in error. *IF* I had been paying attention, no password change would have been needed. Nevertheless, two accounts have just had the password age clock reset.\n",
+				"date_published": "2025-01-06T13:44:02-06:00",
+				"url": "https://1-1.hjalmer.com/2025/01/06/that-feeling-when-my-own.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/01/03/you-know-once-upon-a.html",
+				
+				"content_html": "<p>You know, once upon a time I might have been called a silver-tongued devil for my cunning liguistics, and my ability to insert and infer innuendo. However, RuPaul and crew are masters to whom I am a mere understudy.</p>\n",
+				"content_text": "You know, once upon a time I might have been called a silver-tongued devil for my cunning liguistics, and my ability to insert and infer innuendo. However, RuPaul and crew are masters to whom I am a mere understudy.\n",
+				"date_published": "2025-01-03T20:49:26-06:00",
+				"url": "https://1-1.hjalmer.com/2025/01/03/you-know-once-upon-a.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/01/02/doh-my-series-apple-watch.html",
+				
+				"content_html": "<p>Doh. My Series 4 Apple Watch is now <em>Vintage</em>. Only another year or so before it&rsquo;s obsolete.</p>\n",
+				"content_text": "Doh. My Series 4 Apple Watch is now _Vintage_. Only another year or so before it's obsolete.\n",
+				"date_published": "2025-01-02T13:17:21-06:00",
+				"url": "https://1-1.hjalmer.com/2025/01/02/doh-my-series-apple-watch.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2025/01/01/i-send-you-these-wishes.html",
 				
 				"content_html": "<p>I send you these wishes for your new year, that you will feel safe, secure and seen. And that you will be able to help others feel safe, secure and seen.</p>\n",
@@ -42,7 +74,7 @@
 				"id": "http://hjalm.micro.blog/2024/12/29/looking-west-on-margaret-street.html",
 				
 				"content_html": "<p>Looking West on Margaret Street on Saint Paul, Minnesota’s East Side</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Looking West on Margaret Street on Saint Paul, Minnesota’s East Side\n\n<img src=\"uploads/2024/8a12070712.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Looking West on Margaret Street on Saint Paul, Minnesota’s East Side\n\n<img src=\"https://cdn.uploads.micro.blog/4676/2024/8a12070712.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-12-29T19:17:05-06:00",
 				"url": "https://1-1.hjalmer.com/2024/12/29/looking-west-on-margaret-street.html",
 				"tags": ["Photos"]
