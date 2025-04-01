@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2025/04/01/ios-pet-peeve-includes-ipados/",
+				"title": "IOS Pet Peeve (Includes iPadOS): Processing Notifications from the Lock Screen and the Device Goes to Sleep.",
+				"content_html": "<p>In practice, I pick up device so it wakes and shows the Lock Screen. I see a stunning number of notifications. I start swiping and tapping to manage them, and then even though I’m holding the device in front of my face, FaceID doesn’t, and the screen sleeps in mid swipe or between taps.</p>\n<p>Now, I have to wake the device a second time, make sure FaceID happens, go the Home Screen where hopefully I’m not completely distracted by icon notifications, hope I’m pulling down from the portion of the screen that will allow me to process the notifications I was trying to process, and start again.</p>\n<p>I need to reduce the number of notifications. Almost none of them need to be on my Lock Screen. Most of them aren’t adding value to my life. So noted.</p>\n",
+				"content_text": "In practice, I pick up device so it wakes and shows the Lock Screen. I see a stunning number of notifications. I start swiping and tapping to manage them, and then even though I’m holding the device in front of my face, FaceID doesn’t, and the screen sleeps in mid swipe or between taps.\r\n\r\nNow, I have to wake the device a second time, make sure FaceID happens, go the Home Screen where hopefully I’m not completely distracted by icon notifications, hope I’m pulling down from the portion of the screen that will allow me to process the notifications I was trying to process, and start again.\r\n\r\nI need to reduce the number of notifications. Almost none of them need to be on my Lock Screen. Most of them aren’t adding value to my life. So noted.\n",
+				"date_published": "2025-04-01T16:34:21-05:00",
+				"url": "https://1-1.hjalmer.com/2025/04/01/ios-pet-peeve-includes-ipados/",
+				"tags": ["Experiential","Note to Self"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/03/31/american-dreaming-by-dead-can/",
+				
+				"content_html": "<p><a href=\"https://m.youtube.com/watch?v=ipwPk4dJaBw\"><em>American Dreaming</em></a> by Dead Can Dance</p>\n<p>Five stars, Would Recommend</p>\n",
+				"content_text": "[_American Dreaming_](https://m.youtube.com/watch?v=ipwPk4dJaBw) by Dead Can Dance\r\n\r\nFive stars, Would Recommend\n",
+				"date_published": "2025-03-31T09:43:20-05:00",
+				"url": "https://1-1.hjalmer.com/2025/03/31/american-dreaming-by-dead-can/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2025/03/24/well-my-hogwarts-legacy-level/",
 				
 				"content_html": "<p>Well, my <em>Hogwarts Legacy</em> level 16 character has already surpassed my previous level 20 character in terms of ability. <em>And</em>, I was able to defeat the Acromantula that I could not previously get past. A couple of tips I ran across have been invaluable.</p>\n",
