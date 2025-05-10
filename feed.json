@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2025/05/10/morning-coffee/",
+				
+				"content_html": "<p>Morning coffee</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Morning coffee\n\n<img src=\"uploads/2025/ebd37c628b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-05-10T07:59:55-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/10/morning-coffee/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/05/04/xfinity-may-not-be-having/",
+				
+				"content_html": "<p>Xfinity may not be having a good night. One ping session I let run for a while showed 78% packet loss. Posting this via mobile.</p>\n",
+				"content_text": "Xfinity may not be having a good night. One ping session I let run for a while showed 78% packet loss. Posting this via mobile. \n",
+				"date_published": "2025-05-04T20:48:00-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/04/xfinity-may-not-be-having/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/05/04/tonight-i-used-nookmart-for/",
+				
+				"content_html": "<p>Tonight I used <a href=\"https://nookmart.com/\">Nookmart</a> for the first time. If there is stuff you want for your island that you haven&rsquo;t managed to find via normal means, or there is no overlap in your social circle of folks who are also playing Animal Crossing New Horizons, well the selection is swell and delivery was fast.</p>\n",
+				"content_text": "Tonight I used [Nookmart](https://nookmart.com/) for the first time. If there is stuff you want for your island that you haven't managed to find via normal means, or there is no overlap in your social circle of folks who are also playing Animal Crossing New Horizons, well the selection is swell and delivery was fast.\n",
+				"date_published": "2025-05-04T19:01:50-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/04/tonight-i-used-nookmart-for/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/05/03/oof-monty-python-and-the/",
+				
+				"content_html": "<p>Oof.</p>\n<p><a href=\"https://www.themoviedb.org/movie/762-monty-python-and-the-holy-grail\">Monty Python and the Holy Grail</a> was released in 1975.</p>\n<p>Just 50 short years ago.</p>\n",
+				"content_text": "Oof.\r\n\r\n[Monty Python and the Holy Grail](https://www.themoviedb.org/movie/762-monty-python-and-the-holy-grail) was released in 1975.\r\n\r\nJust 50 short years ago.\n",
+				"date_published": "2025-05-03T16:31:29-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/03/oof-monty-python-and-the/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2025/05/01/crucial-track-for-may/",
 				"title": "Crucial Track for May 2, 2025",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
