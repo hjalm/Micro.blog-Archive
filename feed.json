@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2025/05/24/having-built-a-few-manual/",
+				
+				"content_html": "<p>Having built a few manual collections in <a href=\"https://www.plex.tv\">Plex</a>, and seeing how many collections Plex will create for you automatically, I think it would be nice to offer the ability to build collections around characters, directors, actors, or studios. Plex already has the metadata.</p>\n",
+				"content_text": "Having built a few manual collections in [Plex](https://www.plex.tv), and seeing how many collections Plex will create for you automatically, I think it would be nice to offer the ability to build collections around characters, directors, actors, or studios. Plex already has the metadata.\n",
+				"date_published": "2025-05-24T14:25:56-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/24/having-built-a-few-manual/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/05/13/interesting-day-for-teams-rooms/",
+				
+				"content_html": "<p>Interesting day for Teams rooms where I work. Five of them were down hard. I think four cases out of five required a hard shutdown of the Teams PC. All of these were basic rooms with a TAP or table-top touch panel and a single display. A few had ancillary mics.</p>\n",
+				"content_text": "Interesting day for Teams rooms where I work. Five of them were down hard. I think four cases out of five required a hard shutdown of the Teams PC. All of these were basic rooms with a TAP or table-top touch panel and a single display. A few had ancillary mics.\n",
+				"date_published": "2025-05-13T15:06:19-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/13/interesting-day-for-teams-rooms/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/05/11/acnh-fit-check/",
+				
+				"content_html": "<p>ACNH Fit Check</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "ACNH Fit Check\n\n<img src=\"uploads/2025/2025051110362800-s.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2025-05-11T11:02:33-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/11/acnh-fit-check/",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2025/05/10/morning-coffee/",
 				
 				"content_html": "<p>Morning coffee</p>\n<!-- raw HTML omitted -->\n",
