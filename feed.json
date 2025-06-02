@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2025/06/01/i-have-been-playing-acnh/",
+				
+				"content_html": "<p>I have been playing ACNH for years, now. But only recently discovered how really useful Cyrus is on Harv&rsquo;s Island. I dropped A LOT of Bells, today.</p>\n",
+				"content_text": "I have been playing ACNH for years, now. But only recently discovered how really useful Cyrus is on Harv's Island. I dropped A LOT of Bells, today.\n",
+				"date_published": "2025-06-01T20:49:41-05:00",
+				"url": "https://1-1.hjalmer.com/2025/06/01/i-have-been-playing-acnh/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/05/28/crucial-track-for-may/",
+				"title": "Crucial Track for May 28, 2025",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<p><em>\"Post Punk\" by The Crystal Method, Hyper & Iggy Pop</em></p>\n<p><a href=\"https://music.apple.com/us/album/post-punk/1608253530?i=1608253927\" target=\"_blank\">Listen on Apple Music</a></p>\n<p><audio controls><source src=\"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/3f/b8/dd/3fb8ddaf-7ff3-ea36-5ca7-527419eb2f10/mzaf_9769577219585676503.plus.aac.p.m4a\" type=\"audio/mp4\">Your browser does not support the audio element.</audio></p>\n<p>I personally feel that Crystal Method’s music has a kind of rock and roll swagger in its electronica, EDM, or which ever label you choose to apply.</p>\n<p>This track uses audio of Iggy Pop talking about an aversion to classification, describing what he does not want in favor of just being.</p>\n<p>This reminds me of a Buddhist practice of have heard of in which you state internally “I am not x” in response to an adjective or role that may occur to you in order to get to the non-self.</p>\n<p>This track won’t take you to that place.</p>\n<p>It does have a mean groove. It’s deconstructed and has a good amount of reverb, which I dig.</p>\n<p>I listened to it on the way to work this morning and let it play out in the parking lot before heading to my desk.</p>\n<p>I love it.</p>\n\n<p><a href=\"https://app.crucialtracks.org/profile/hjalm\">View Hjalmer Duenow's Crucial Tracks profile</a></p>\n",
+				"date_published": "2025-05-28T11:41:08-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/28/crucial-track-for-may/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2025/05/25/its-a-lofi-girl-and/",
+				
+				"content_html": "<p>It&rsquo;s a Lofi Girl and Animal Crossing kind of night chez moi</p>\n",
+				"content_text": "It's a Lofi Girl and Animal Crossing kind of night chez moi\n",
+				"date_published": "2025-05-25T20:41:48-05:00",
+				"url": "https://1-1.hjalmer.com/2025/05/25/its-a-lofi-girl-and/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2025/05/24/having-built-a-few-manual/",
 				
-				"content_html": "<p>Having built a few manual collections in <a href=\"https://www.plex.tv\">Plex</a>, and seeing how many collections Plex will create for you automatically, I think it would be nice to offer the ability to build collections around characters, directors, actors, or studios. Plex already has the metadata.</p>\n",
-				"content_text": "Having built a few manual collections in [Plex](https://www.plex.tv), and seeing how many collections Plex will create for you automatically, I think it would be nice to offer the ability to build collections around characters, directors, actors, or studios. Plex already has the metadata.\n",
+				"content_html": "<p>Having built a few manual collections in <a href=\"https://www.plex.tv\">Plex</a>, and seeing how many collections Plex will create for you automatically, I think it would be nice to offer the ability to automatically build collections around characters, directors, actors, or studios. Plex already has the metadata.</p>\n",
+				"content_text": "Having built a few manual collections in [Plex](https://www.plex.tv), and seeing how many collections Plex will create for you automatically, I think it would be nice to offer the ability to automatically build collections around characters, directors, actors, or studios. Plex already has the metadata.\n",
 				"date_published": "2025-05-24T14:25:56-05:00",
 				"url": "https://1-1.hjalmer.com/2025/05/24/having-built-a-few-manual/"
 			},
@@ -35,7 +59,7 @@
 				"id": "http://hjalm.micro.blog/2025/05/10/morning-coffee/",
 				
 				"content_html": "<p>Morning coffee</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Morning coffee\n\n<img src=\"uploads/2025/ebd37c628b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Morning coffee\n\n<img src=\"https://1-1.hjalmer.com/uploads/2025/ebd37c628b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-05-10T07:59:55-05:00",
 				"url": "https://1-1.hjalmer.com/2025/05/10/morning-coffee/",
 				"tags": ["Photos"]
