@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2025/10/15/have-learned-a-bit-more/",
+				
+				"content_html": "<p>Have learned a bit more about T2 Intel Macs and Apple Configurator. Love it when the envelope gets bigger. Confounded that DFU uses different tools depending on the device you’re working on.</p>\n",
+				"content_text": "Have learned a bit more about T2 Intel Macs and Apple Configurator. Love it when the envelope gets bigger. Confounded that DFU uses different tools depending on the device you’re working on.\n",
+				"date_published": "2025-10-15T16:27:14-05:00",
+				"url": "https://1-1.hjalmer.com/2025/10/15/have-learned-a-bit-more/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2025/09/29/so-crestfallen-that-apple-magic/",
 				
 				"content_html": "<p>So crestfallen that Apple Magic Keyboards — at least circa model A1644 — will only pair to a single device. That is awesome with Universal Control, but not awesome when you are away from that station</p>\n",
@@ -49,8 +57,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2025/07/07/looking-west-on-margaret-street/",
 				
-				"content_html": "<p>Looking West on Margaret Street, enjoying the sunset earlier this evening</p>\n<img src=\"uploads/2025/3b35e719d0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"content_text": "Looking West on Margaret Street, enjoying the sunset earlier this evening \n\n<img src=\"uploads/2025/3b35e719d0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Looking West on Margaret Street, enjoying the sunset earlier this evening</p>\n<img src=\"https://1-1.hjalmer.com/uploads/2025/3b35e719d0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Looking West on Margaret Street, enjoying the sunset earlier this evening \n\n<img src=\"https://1-1.hjalmer.com/uploads/2025/3b35e719d0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-07-07T21:59:13-05:00",
 				"url": "https://1-1.hjalmer.com/2025/07/07/looking-west-on-margaret-street/",
 				"tags": ["Photos"]
@@ -58,8 +66,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2025/07/04/sometimes-it-rains-on-the/",
 				
-				"content_html": "<p>Sometimes it rains on the island. Even in July.</p>\n<img src=\"uploads/2025/8f805d9782.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"content_text": "Sometimes it rains on the island. Even in July. \n\n<img src=\"uploads/2025/8f805d9782.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>Sometimes it rains on the island. Even in July.</p>\n<img src=\"https://1-1.hjalmer.com/uploads/2025/8f805d9782.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Sometimes it rains on the island. Even in July. \n\n<img src=\"https://1-1.hjalmer.com/uploads/2025/8f805d9782.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2025-07-04T14:53:31-05:00",
 				"url": "https://1-1.hjalmer.com/2025/07/04/sometimes-it-rains-on-the/",
 				"tags": ["Photos"]
@@ -2025,8 +2033,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2024/07/29/finished-reading-the-black-bird/",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593724781\">The Black Bird Oracle</a> by Deborah Harkness 📚</p>\n<p>Now I will have to wait for the next installment. This has been a very enjoyable series, so far. If you’re the sort of person who would be interested in witches, vampires and demons then I say 5 stars, would recommend.</p>\n",
-				"content_text": "Finished reading: [The Black Bird Oracle](https://micro.blog/books/9780593724781) by Deborah Harkness 📚\r\n\r\nNow I will have to wait for the next installment. This has been a very enjoyable series, so far. If you’re the sort of person who would be interested in witches, vampires and demons then I say 5 stars, would recommend.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593724781/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593724781\">The Black Bird Oracle</a> by Deborah Harkness 📚</p>\n<p>Now I will have to wait for the next installment. This has been a very enjoyable series, so far. If you’re the sort of person who would be interested in witches, vampires and demons then I say 5 stars, would recommend.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593724781/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Black Bird Oracle](https://micro.blog/books/9780593724781) by Deborah Harkness 📚\r\n\r\nNow I will have to wait for the next installment. This has been a very enjoyable series, so far. If you’re the sort of person who would be interested in witches, vampires and demons then I say 5 stars, would recommend.\n",
 				"date_published": "2024-07-29T12:34:58-05:00",
 				"url": "https://1-1.hjalmer.com/2024/07/29/finished-reading-the-black-bird/"
 			},
@@ -2105,8 +2113,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2024/07/17/currently-reading-the-black-bird/",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593724781\">The Black Bird Oracle</a> by Deborah Harkness 📚</p>\n<p>The <em>All Souls</em> series is the first I have been excited about in a very long time. Going to dig in to this one tonight. Witches, Vampies, Demons. No zombies—at least none that I recall in the first four books.</p>\n",
-				"content_text": "Currently reading: [The Black Bird Oracle](https://micro.blog/books/9780593724781) by Deborah Harkness 📚\r\n\r\nThe _All Souls_ series is the first I have been excited about in a very long time. Going to dig in to this one tonight. Witches, Vampies, Demons. No zombies—at least none that I recall in the first four books.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593724781/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780593724781\">The Black Bird Oracle</a> by Deborah Harkness 📚</p>\n<p>The <em>All Souls</em> series is the first I have been excited about in a very long time. Going to dig in to this one tonight. Witches, Vampies, Demons. No zombies—at least none that I recall in the first four books.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593724781/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Black Bird Oracle](https://micro.blog/books/9780593724781) by Deborah Harkness 📚\r\n\r\nThe _All Souls_ series is the first I have been excited about in a very long time. Going to dig in to this one tonight. Witches, Vampies, Demons. No zombies—at least none that I recall in the first four books.\n",
 				"date_published": "2024-07-17T22:48:55-05:00",
 				"url": "https://1-1.hjalmer.com/2024/07/17/currently-reading-the-black-bird/"
 			},
@@ -3064,8 +3072,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2024/01/19/currently-reading-the-two-towers/",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780547952024\">The Two Towers: Being the Second Part of The Lord of the Rings</a> by J.R.R. Tolkien 📚</p>\n<p>I had forgotten how much I loved the elves, and missed Gandalf.</p>\n",
-				"content_text": "Currently reading: [The Two Towers: Being the Second Part of The Lord of the Rings](https://micro.blog/books/9780547952024) by J.R.R. Tolkien 📚\r\n\r\nI had forgotten how much I loved the elves, and missed Gandalf.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780547952024/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780547952024\">The Two Towers: Being the Second Part of The Lord of the Rings</a> by J.R.R. Tolkien 📚</p>\n<p>I had forgotten how much I loved the elves, and missed Gandalf.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780547952024/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Two Towers: Being the Second Part of The Lord of the Rings](https://micro.blog/books/9780547952024) by J.R.R. Tolkien 📚\r\n\r\nI had forgotten how much I loved the elves, and missed Gandalf.\n",
 				"date_published": "2024-01-19T23:32:12-05:00",
 				"url": "https://1-1.hjalmer.com/2024/01/19/currently-reading-the-two-towers/"
 			},
@@ -3367,8 +3375,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2024/01/01/currently-reading-the-fellowship-of/",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780547952017\">The Fellowship of the Ring: Being the First Part of The Lord of the Rings</a> by J.R.R. Tolkien 📚</p>\n<p>I am astonished by the detail I don’t remember while surprised how much of my recollection of the story is written over by the movies. I noticed this as well with another series.</p>\n",
-				"content_text": "Currently reading: [The Fellowship of the Ring: Being the First Part of The Lord of the Rings](https://micro.blog/books/9780547952017) by J.R.R. Tolkien 📚\r\n\r\nI am astonished by the detail I don’t remember while surprised how much of my recollection of the story is written over by the movies. I noticed this as well with another series.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780547952017/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780547952017\">The Fellowship of the Ring: Being the First Part of The Lord of the Rings</a> by J.R.R. Tolkien 📚</p>\n<p>I am astonished by the detail I don’t remember while surprised how much of my recollection of the story is written over by the movies. I noticed this as well with another series.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780547952017/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Fellowship of the Ring: Being the First Part of The Lord of the Rings](https://micro.blog/books/9780547952017) by J.R.R. Tolkien 📚\r\n\r\nI am astonished by the detail I don’t remember while surprised how much of my recollection of the story is written over by the movies. I noticed this as well with another series.\n",
 				"date_published": "2024-01-01T21:03:28-05:00",
 				"url": "https://1-1.hjalmer.com/2024/01/01/currently-reading-the-fellowship-of/"
 			},
@@ -9423,8 +9431,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2020/08/29/just-finished-the-case-of/",
 				
-				"content_html": "<p>Just finished: <a href=\"https://micro.blog/books/9780142409336\">The Case of the Missing Marquess (Enola Holmes #1)</a> by Nancy Springer 📚</p>\n<p>I saw that Netflix is releasing a movie called <a href=\"https://www.youtube.com/watch?v=1d0Zf9sXlHk\">Enola Holmes</a> and I wanted to find out more. Looks like there are many books in this series so there is a possibility this could become a thing.</p>\n<p>I enjoyed the story though the target audience is much younger than I.</p>\n",
-				"content_text": "Just finished: [The Case of the Missing Marquess (Enola Holmes #1)](https://micro.blog/books/9780142409336) by Nancy Springer 📚\r\n\r\nI saw that Netflix is releasing a movie called [Enola Holmes](https://www.youtube.com/watch?v=1d0Zf9sXlHk) and I wanted to find out more. Looks like there are many books in this series so there is a possibility this could become a thing.\r\n\r\nI enjoyed the story though the target audience is much younger than I.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780142409336/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Just finished: <a href=\"https://micro.blog/books/9780142409336\">The Case of the Missing Marquess (Enola Holmes #1)</a> by Nancy Springer 📚</p>\n<p>I saw that Netflix is releasing a movie called <a href=\"https://www.youtube.com/watch?v=1d0Zf9sXlHk\">Enola Holmes</a> and I wanted to find out more. Looks like there are many books in this series so there is a possibility this could become a thing.</p>\n<p>I enjoyed the story though the target audience is much younger than I.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780142409336/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nJust finished: [The Case of the Missing Marquess (Enola Holmes #1)](https://micro.blog/books/9780142409336) by Nancy Springer 📚\r\n\r\nI saw that Netflix is releasing a movie called [Enola Holmes](https://www.youtube.com/watch?v=1d0Zf9sXlHk) and I wanted to find out more. Looks like there are many books in this series so there is a possibility this could become a thing.\r\n\r\nI enjoyed the story though the target audience is much younger than I.\n",
 				"date_published": "2020-08-29T23:05:33-05:00",
 				"url": "https://1-1.hjalmer.com/2020/08/29/just-finished-the-case-of/"
 			},
