@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/01/05/coffee-did-its-job-to/",
+				
+				"content_html": "<p>Coffee did its job to get me through my day. But Monday hit hard. I&rsquo;m spent.</p>\n",
+				"content_text": "Coffee did its job to get me through my day. But Monday hit hard. I'm spent.\n",
+				"date_published": "2026-01-05T19:38:29-06:00",
+				"url": "https://1-1.hjalmer.com/2026/01/05/coffee-did-its-job-to/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/01/01/h-a-p-p-y/",
 				
 				"content_html": "<p>H A P P Y  N E W  Y E A R</p>\n<!-- raw HTML omitted -->\n",
