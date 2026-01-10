@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/01/07/i-promise-i-wont-post/",
+				
+				"content_html": "<p>I promise I won&rsquo;t post every Spam message. I just wanted to illustrate that if you&rsquo;re seeing it more, lately, you&rsquo;re not alone.</p>\n",
+				"content_text": "I promise I won't post every Spam message. I just wanted to illustrate that if you're seeing it more, lately, you're not alone.\n",
+				"date_published": "2026-01-07T19:15:54-06:00",
+				"url": "https://1-1.hjalmer.com/2026/01/07/i-promise-i-wont-post/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/01/07/telegram-spam-tonight-have-a/",
+				
+				"content_html": "<p>Telegram Spam tonight:</p>\n<blockquote>\n<p>Have a wonderful Wednesday, my friend!</p>\n</blockquote>\n<p>Good grammar! But not someone I know.</p>\n",
+				"content_text": "Telegram Spam tonight:\n\n> Have a wonderful Wednesday, my friend!\n\nGood grammar! But not someone I know.\n",
+				"date_published": "2026-01-07T19:13:41-06:00",
+				"url": "https://1-1.hjalmer.com/2026/01/07/telegram-spam-tonight-have-a/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/01/07/sms-spam-tonight-youve-been/",
 				
 				"content_html": "<p>SMS Spam tonight:</p>\n<blockquote>\n<p>You&rsquo;ve been on my mind a lot these past days.</p>\n</blockquote>\n<p><em>and</em></p>\n<blockquote>\n<p>I&rsquo;ve been thinking of you more than expected.</p>\n</blockquote>\n<p>Two different numbers. Yeah. No. I&rsquo;m not that popular.</p>\n",
