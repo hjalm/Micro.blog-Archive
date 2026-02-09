@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/02/09/lost-the-last-of-three/",
+				
+				"content_html": "<p>Lost the last of three sweet little dogs I had the privilege of loving, this morning. A Cairn Terrier named Luci. Poor thing just could not breathe. So we sent her home. Grateful for the doctors who helped us.</p>\n",
+				"content_text": "Lost the last of three sweet little dogs I had the privilege of loving, this morning. A Cairn Terrier named Luci. Poor thing just could not breathe. So we sent her home. Grateful for the doctors who helped us. \n",
+				"date_published": "2026-02-09T03:09:56-06:00",
+				"url": "https://1-1.hjalmer.com/2026/02/09/lost-the-last-of-three/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/02/06/today-i-learned-about-a/",
 				
 				"content_html": "<p>Today I learned about a little company called <a href=\"https://www.pineider.com\">Pineider</a>, that has been around since 1774.</p>\n<p>If you enjoy fine paper, pens, and leather goods, you may find things to covet, as I have.</p>\n",
@@ -108,7 +116,7 @@
 				"id": "http://hjalm.micro.blog/2025/12/31/hot-fire-on-a-clear/",
 				
 				"content_html": "<p>Hot fire on a clear night!  6F and slight breeze</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hot fire on a clear night!  6F and slight breeze\n\n<img src=\"uploads/2026/5cda55e818.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Hot fire on a clear night!  6F and slight breeze\n\n<img src=\"https://1-1.hjalmer.com/uploads/2026/5cda55e818.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-31T20:52:26-06:00",
 				"url": "https://1-1.hjalmer.com/2025/12/31/hot-fire-on-a-clear/",
 				"tags": ["Photos"]
@@ -177,7 +185,7 @@
 				"id": "http://hjalm.micro.blog/2025/11/11/aurora-mnwx-msp/",
 				
 				"content_html": "<p>#aurora #mnwx #msp</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "#aurora #mnwx #msp\n\n<img src=\"uploads/2025/561111674c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/57987f0927.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "#aurora #mnwx #msp\n\n<img src=\"https://1-1.hjalmer.com/uploads/2025/561111674c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://1-1.hjalmer.com/uploads/2025/57987f0927.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-11-11T21:09:01-06:00",
 				"url": "https://1-1.hjalmer.com/2025/11/11/aurora-mnwx-msp/",
 				"tags": ["Photos"]
@@ -186,7 +194,7 @@
 				"id": "http://hjalm.micro.blog/2025/11/11/200050/",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<img src=\"uploads/2025/2ff7fd5a09.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/58c3b37481.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/46d4e1dbaf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/44a623c03f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2025/e1369eb65e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"https://1-1.hjalmer.com/uploads/2025/2ff7fd5a09.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://1-1.hjalmer.com/uploads/2025/58c3b37481.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://1-1.hjalmer.com/uploads/2025/46d4e1dbaf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://1-1.hjalmer.com/uploads/2025/44a623c03f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://1-1.hjalmer.com/uploads/2025/e1369eb65e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-11-11T20:00:50-06:00",
 				"url": "https://1-1.hjalmer.com/2025/11/11/200050/",
 				"tags": ["Photos"]
