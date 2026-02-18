@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/02/18/getting-really-odd-returns-on/",
+				
+				"content_html": "<p>Getting really odd returns on iPadOS 26.4 from an automation designed to retrieve Notes with the current day and month in the title.</p>\n<p>This is different from iPadOS 26.3 where Notes simply crashed while the automation was running.</p>\n<p>Up through 26.2, I didn’t have issues with the exact same tool.</p>\n",
+				"content_text": "Getting really odd returns on iPadOS 26.4 from an automation designed to retrieve Notes with the current day and month in the title.\n\nThis is different from iPadOS 26.3 where Notes simply crashed while the automation was running.\n\nUp through 26.2, I didn’t have issues with the exact same tool.\n",
+				"date_published": "2026-02-18T12:23:25-06:00",
+				"url": "https://1-1.hjalmer.com/2026/02/18/getting-really-odd-returns-on/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/02/11/since-the-advent-of-the/",
 				
 				"content_html": "<blockquote>\n<p>Since the advent of the internet, section 230 has been a target for people that want to control your speech and infringe on your First Amendment rights.</p>\n</blockquote>\n<p>/<a href=\"https://www.techdirt.com/2026/02/11/an-18-million-subscriber-youtuber-just-explained-section-230-better-than-every-politician-in-washington/\">TechDirt</a></p>\n",
