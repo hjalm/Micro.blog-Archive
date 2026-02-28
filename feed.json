@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/02/28/i-really-enjoy-experimenting-with/",
+				
+				"content_html": "<p>I really enjoy experimenting with Linux, and it feels amazing when I get into a stable situation that works well—especially giving life to machines that other operating systems have left behind.</p>\n<p>But then I keep experimenting and get to a place where I hit a problem I can&rsquo;t resolve on my own.</p>\n<p>In those days and times, it&rsquo;s a relief to come back to MacOS. I realize it&rsquo;s the OS I hate least.</p>\n",
+				"content_text": "I really enjoy experimenting with Linux, and it feels amazing when I get into a stable situation that works well—especially giving life to machines that other operating systems have left behind.\n\nBut then I keep experimenting and get to a place where I hit a problem I can't resolve on my own.\n\nIn those days and times, it's a relief to come back to MacOS. I realize it's the OS I hate least.\n",
+				"date_published": "2026-02-28T11:34:37-06:00",
+				"url": "https://1-1.hjalmer.com/2026/02/28/i-really-enjoy-experimenting-with/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/02/18/im-gathering-based-on-results/",
 				
 				"content_html": "<p>I’m gathering, based on results, that a note’s Title in Apple Notes, and it’s Name (with respect to Shortcuts and automation) may not be the same data points.</p>\n<p>Suddenly an automation that has worked well for more than a year is returning surprises. The automation <em>seems</em> simple enough, but no.</p>\n",
