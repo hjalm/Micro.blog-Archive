@@ -7,11 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/03/08/and-then-revisiting-the-topic/",
+				
+				"content_html": "<p>And then revisiting the topic of the half-century, Apple incorporated 50 years ago on April 1st.</p>\n",
+				"content_text": "And then revisiting the topic of the half-century, Apple incorporated 50 years ago on April 1st.\n",
+				"date_published": "2026-03-08T17:41:01-05:00",
+				"url": "https://1-1.hjalmer.com/2026/03/08/and-then-revisiting-the-topic/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/03/08/a-weird-thing-i-have/",
+				
+				"content_html": "<p>A weird thing I have noted, post OS 26.2, is that Shortcut automations for pulling up a note (with the day and date in the title) no longer works. The same automation still works as it always has on older Macs that don’t support OS26.</p>\n<p>It seems to have been reported, but wasn’t addressed in 26.3 or in the betas for 26.4</p>\n<p>The automation is important in the <a href=\"https://www.myforevernotes.com\">Forever✱Notes</a> scheme and the frustration is enough to make me consider alternatives. Though, the scripting part would a concern if I do something more along the roll-my-own methodology.</p>\n",
+				"content_text": "A weird thing I have noted, post OS 26.2, is that Shortcut automations for pulling up a note (with the day and date in the title) no longer works. The same automation still works as it always has on older Macs that don’t support OS26.\n\nIt seems to have been reported, but wasn’t addressed in 26.3 or in the betas for 26.4\n\nThe automation is important in the [Forever✱Notes](https://www.myforevernotes.com) scheme and the frustration is enough to make me consider alternatives. Though, the scripting part would a concern if I do something more along the roll-my-own methodology.\n",
+				"date_published": "2026-03-08T17:00:17-05:00",
+				"url": "https://1-1.hjalmer.com/2026/03/08/a-weird-thing-i-have/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/03/08/i-remember-when-valley-fair/",
 				
 				"content_html": "<p>I remember when <a href=\"https://www.sixflags.com/valleyfair\">Valley Fair</a> first opened. And this year will be their 50th. And that makes me feel…  not very young at all</p>\n",
 				"content_text": "I remember when [Valley Fair](https://www.sixflags.com/valleyfair) first opened. And this year will be their 50th. And that makes me feel…  not very young at all\n",
-				"date_published": "2026-03-08T11:40:18-06:00",
+				"date_published": "2026-03-08T12:40:18-05:00",
 				"url": "https://1-1.hjalmer.com/2026/03/08/i-remember-when-valley-fair/"
 			},
 			{
@@ -19,7 +35,7 @@
 				
 				"content_html": "<p>I really enjoy experimenting with Linux, and it feels amazing when I get into a stable situation that works well—especially giving life to machines that other operating systems have left behind.</p>\n<p>But then I keep experimenting and get to a place where I hit a problem I can&rsquo;t resolve on my own.</p>\n<p>In those days and times, it&rsquo;s a relief to come back to MacOS. I realize it&rsquo;s the OS I hate least.</p>\n",
 				"content_text": "I really enjoy experimenting with Linux, and it feels amazing when I get into a stable situation that works well—especially giving life to machines that other operating systems have left behind.\n\nBut then I keep experimenting and get to a place where I hit a problem I can't resolve on my own.\n\nIn those days and times, it's a relief to come back to MacOS. I realize it's the OS I hate least.\n",
-				"date_published": "2026-02-28T11:34:37-06:00",
+				"date_published": "2026-02-28T12:34:37-05:00",
 				"url": "https://1-1.hjalmer.com/2026/02/28/i-really-enjoy-experimenting-with/"
 			},
 			{
@@ -27,7 +43,7 @@
 				
 				"content_html": "<p>I’m gathering, based on results, that a note’s Title in Apple Notes, and it’s Name (with respect to Shortcuts and automation) may not be the same data points.</p>\n<p>Suddenly an automation that has worked well for more than a year is returning surprises. The automation <em>seems</em> simple enough, but no.</p>\n",
 				"content_text": "I’m gathering, based on results, that a note’s Title in Apple Notes, and it’s Name (with respect to Shortcuts and automation) may not be the same data points.\n\nSuddenly an automation that has worked well for more than a year is returning surprises. The automation *seems* simple enough, but no.\n",
-				"date_published": "2026-02-18T13:33:26-06:00",
+				"date_published": "2026-02-18T14:33:26-05:00",
 				"url": "https://1-1.hjalmer.com/2026/02/18/im-gathering-based-on-results/"
 			},
 			{
@@ -35,7 +51,7 @@
 				
 				"content_html": "<p>Getting really odd returns on iPadOS 26.4 from an automation designed to retrieve Notes with the current day and month in the title.</p>\n<p>This is different from iPadOS 26.3 where Notes simply crashed while the automation was running.</p>\n<p>Up through 26.2, I didn’t have issues with the exact same tool.</p>\n",
 				"content_text": "Getting really odd returns on iPadOS 26.4 from an automation designed to retrieve Notes with the current day and month in the title.\n\nThis is different from iPadOS 26.3 where Notes simply crashed while the automation was running.\n\nUp through 26.2, I didn’t have issues with the exact same tool.\n",
-				"date_published": "2026-02-18T12:23:25-06:00",
+				"date_published": "2026-02-18T13:23:25-05:00",
 				"url": "https://1-1.hjalmer.com/2026/02/18/getting-really-odd-returns-on/"
 			},
 			{
@@ -59,7 +75,7 @@
 				
 				"content_html": "<p>Lost the last of three sweet little dogs I had the privilege of loving, this morning. A Cairn Terrier named Luci. Poor thing just could not breathe. So we sent her home. Grateful for the doctors who helped us.</p>\n",
 				"content_text": "Lost the last of three sweet little dogs I had the privilege of loving, this morning. A Cairn Terrier named Luci. Poor thing just could not breathe. So we sent her home. Grateful for the doctors who helped us. \n",
-				"date_published": "2026-02-09T03:09:56-06:00",
+				"date_published": "2026-02-09T04:09:56-05:00",
 				"url": "https://1-1.hjalmer.com/2026/02/09/lost-the-last-of-three/"
 			},
 			{
