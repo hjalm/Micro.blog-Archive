@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/04/01/im-not-fried-but-today/",
+				
+				"content_html": "<p>I’m not fried, but today I’m supercalifagicrispy around the edges.</p>\n",
+				"content_text": "I’m not fried, but today I’m supercalifagicrispy around the edges.\n",
+				"date_published": "2026-04-01T14:34:20-05:00",
+				"url": "https://1-1.hjalmer.com/2026/04/01/im-not-fried-but-today/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/03/23/ah-progress-im-in-it/",
+				
+				"content_html": "<p>Ah, “Progress”</p>\n<p>I’m in IT. This is a metaphor and all metaphors fail.</p>\n<p>Progress bars or status messages introduce a wierd alternate time, feels like travel when you have never been at this particular departure gate before and have never been to the destination, before.</p>\n<p>There are some landmarks on your installation/update/removal journey. Someone has decided these landmarks are percentages, but of what? We would like to assume it’s the amount of time elapsed relative to the time remaining, but folks who have been around the block a few times know this is typically not the correct reckoning.</p>\n<p>And so we wait and hope that the train doesn’t go off the rails. We bought the ticket and took our seat, but we are not driving.</p>\n<p>Sometimes we arrive at our destination before we expected.</p>\n<p>Sometimes we are told we are already at our destination, but nothing has changed.</p>\n<p>Sometimes we stop the train and go back to the station because we aren’t sure if everything was in order before we left.</p>\n<p>Sometimes we find there is a bridge out. No matter how many times we restart the journey, the path to the destination is blocked. We don’t know how badly the track is damaged beyond the point where we keep stopping.</p>\n<p>Sometimes, nothing happens. You never leave the station. Or maybe you can’t even get on the train.</p>\n<p>Sometimes, you are in a dark tunnel. You can’t even tell if the train is moving.</p>\n<p>Long moments of boredom punctuated with moments of terror.</p>\n<p>May all your progress bars complete. Successfully.</p>\n",
+				"content_text": "Ah, “Progress”\n\nI’m in IT. This is a metaphor and all metaphors fail.\n\nProgress bars or status messages introduce a wierd alternate time, feels like travel when you have never been at this particular departure gate before and have never been to the destination, before.\n\nThere are some landmarks on your installation/update/removal journey. Someone has decided these landmarks are percentages, but of what? We would like to assume it’s the amount of time elapsed relative to the time remaining, but folks who have been around the block a few times know this is typically not the correct reckoning.\n\nAnd so we wait and hope that the train doesn’t go off the rails. We bought the ticket and took our seat, but we are not driving.\n\nSometimes we arrive at our destination before we expected.\n\nSometimes we are told we are already at our destination, but nothing has changed.\n\nSometimes we stop the train and go back to the station because we aren’t sure if everything was in order before we left.\n\nSometimes we find there is a bridge out. No matter how many times we restart the journey, the path to the destination is blocked. We don’t know how badly the track is damaged beyond the point where we keep stopping.\n\nSometimes, nothing happens. You never leave the station. Or maybe you can’t even get on the train.\n\nSometimes, you are in a dark tunnel. You can’t even tell if the train is moving.\n\nLong moments of boredom punctuated with moments of terror.\n\nMay all your progress bars complete. Successfully.\n",
+				"date_published": "2026-03-23T10:55:53-05:00",
+				"url": "https://1-1.hjalmer.com/2026/03/23/ah-progress-im-in-it/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/03/22/i-dont-know-why-but/",
 				
 				"content_html": "<p>I don&rsquo;t know why but every now and then I get fair to partly obsessed with some part of linux. For a while my Lenovo laptop of choice wouldn&rsquo;t update to the Ubuntu 26.4 beta release from 25.10. I&rsquo;m that guy. Today I used a daily build ISO and got it running. Feels like a victory.</p>\n",
