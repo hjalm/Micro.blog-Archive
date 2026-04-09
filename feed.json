@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/04/09/even-at-my-standing-desk/",
+				
+				"content_html": "<p>Even at my standing desk, my watch tells me it’s time to stand</p>\n",
+				"content_text": "Even at my standing desk, my watch tells me it’s time to stand\n",
+				"date_published": "2026-04-09T10:13:14-05:00",
+				"url": "https://1-1.hjalmer.com/2026/04/09/even-at-my-standing-desk/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/04/08/well-i-did-it-again/",
+				
+				"content_html": "<p>Well, I did it again. Killed an Ubuntu install through experimentation. Re-installing.</p>\n",
+				"content_text": "Well, I did it again. Killed an Ubuntu install through experimentation. Re-installing. \n",
+				"date_published": "2026-04-08T20:10:48-05:00",
+				"url": "https://1-1.hjalmer.com/2026/04/08/well-i-did-it-again/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/04/08/a-lesson-i-have-to/",
 				
 				"content_html": "<p>A lesson I have to keep re-learning is when to allow notifications, or when to supply my email address. As a person whose attention can easily be re-directed, I have to help myself.</p>\n",
