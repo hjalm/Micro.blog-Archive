@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/05/28/ive-realized-with-a-certain/",
+				
+				"content_html": "<p>I’ve realized, with a certain amount of emotional pain, that a majority of pop-culture music and movie references that I pepper into work conversations are from the 20th century. Some Exceptions: Family Guy, Letterkenny/Shoresy, TikTok</p>\n<p>#EmotionalDamage</p>\n",
+				"content_text": "I’ve realized, with a certain amount of emotional pain, that a majority of pop-culture music and movie references that I pepper into work conversations are from the 20th century. Some Exceptions: Family Guy, Letterkenny/Shoresy, TikTok\n\n#EmotionalDamage\n",
+				"date_published": "2026-05-28T14:57:06-05:00",
+				"url": "https://1-1.hjalmer.com/2026/05/28/ive-realized-with-a-certain/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/05/26/this-probably-applies-to-a/",
 				
 				"content_html": "<p>This probably applies to a vanishingly small audience, but I have noted that two different T2 i5 Intel MacBooks Pro, getting the development updates for MacOS 15.7.x (yes, still—I assume anything other than the occasional security update will end when 27.0 is released) require the SMC reset process.</p>\n<p>I&rsquo;d particularly like to thank <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a> for helping me to check my work and use the <em>actual</em> SMC Reset process, versus the process I was using before our conversation, which applied to previous generations, but not this generation.</p>\n<p>Also I&rsquo;m excited for WWDC. I use an M3 Mac at work and M1/M2 iPads, so I expect I&rsquo;ll be able to update all of those to the next OS.</p>\n",
