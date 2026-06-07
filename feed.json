@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/06/06/til-i-am-older-than/",
+				
+				"content_html": "<p>TIL I am older than the floppy disk. IBM first started producing the 8-inch 80KB floppy in 1971. The patent was granted June 6, 1972.</p>\n<p>#ToBeFair, IBM’s Project Minnow, which begat the floppy and its counterpart drive mechanism, was begun in 1967. This predates me slightly.</p>\n<p>/<a href=\"https://www.tomshardware.com/pc-components/storage/the-floppy-disk-patent-was-granted-today-in-1972-when-80kb-took-up-8-inches-and-were-really-floppy\">Tom’s Hardware</a></p>\n",
+				"content_text": "TIL I am older than the floppy disk. IBM first started producing the 8-inch 80KB floppy in 1971. The patent was granted June 6, 1972.\n\n#ToBeFair, IBM’s Project Minnow, which begat the floppy and its counterpart drive mechanism, was begun in 1967. This predates me slightly.\n\n/[Tom’s Hardware](https://www.tomshardware.com/pc-components/storage/the-floppy-disk-patent-was-granted-today-in-1972-when-80kb-took-up-8-inches-and-were-really-floppy)\n",
+				"date_published": "2026-06-06T22:46:25-05:00",
+				"url": "https://1-1.hjalmer.com/2026/06/06/til-i-am-older-than/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/05/28/ive-realized-with-a-certain/",
 				
 				"content_html": "<p>I’ve realized, with a certain amount of emotional pain, that a majority of pop-culture music and movie references that I pepper into work conversations are from the 20th century. Some Exceptions: Family Guy, Letterkenny/Shoresy, TikTok</p>\n<p>#EmotionalDamage #ToBeFair</p>\n",
