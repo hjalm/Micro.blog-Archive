@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/07/01/today-i-learned-terry-gilliam/",
+				
+				"content_html": "<p>Today I learned <a href=\"https://www.imdb.com/name/nm0000416/bio/\">Terry Gilliam</a> was born in Minnesota. I didn’t believe the source but other locations on the internet seem to agree. Apparently he became a British citizen about the time I was born. The world continues to become more interesting.</p>\n",
+				"content_text": "Today I learned [Terry Gilliam](https://www.imdb.com/name/nm0000416/bio/) was born in Minnesota. I didn’t believe the source but other locations on the internet seem to agree. Apparently he became a British citizen about the time I was born. The world continues to become more interesting.\n",
+				"date_published": "2026-07-01T11:08:07-05:00",
+				"url": "https://1-1.hjalmer.com/2026/07/01/today-i-learned-terry-gilliam/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/06/23/is-there-a-thing-im/",
 				
 				"content_html": "<p>Is there a thing I’m missing with the Lenovo docks and the flickering screens? USB-C dock? Thunderbolt 3 dock? Thunderbolt 4 dock? It matters not. Lenovo Dock Manager says dock firmware is up-to-date. Windows Updates say laptops are up-to-date. Lenovo Commercial Vantage says laptops are up to date. Cables replaced. Flicker. Flicker. Flicker.</p>\n",
