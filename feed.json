@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/08/17/i-am-disappointed-in-myself/",
+				
+				"content_html": "<p>I am disappointed in myself.</p>\n<p>I have recently learned I have some blind spots with respect to how I act and how it makes people feel.</p>\n<p>The magic is in how I make people feel. And sometimes I’m repellent or, if I’m lucky, only irritating.</p>\n<p>I used to pride myself on being a geek with a personality, but that river is neither as deep nor as wide as I had hoped. I’ve reached a point where I need to modify this river’s course, or I will not be able to continue to flow.</p>\n<p>This is an acknowledgement that I recognize I have work to do.</p>\n<p>If I’m better, I hope my behavior shows it.</p>\n",
+				"content_text": "I am disappointed in myself.\n\nI have recently learned I have some blind spots with respect to how I act and how it makes people feel.\n\nThe magic is in how I make people feel. And sometimes I’m repellent or, if I’m lucky, only irritating.\n\nI used to pride myself on being a geek with a personality, but that river is neither as deep nor as wide as I had hoped. I’ve reached a point where I need to modify this river’s course, or I will not be able to continue to flow.\n\nThis is an acknowledgement that I recognize I have work to do.\n\nIf I’m better, I hope my behavior shows it.\n",
+				"date_published": "2026-08-17T10:21:56-05:00",
+				"url": "https://1-1.hjalmer.com/2026/08/17/i-am-disappointed-in-myself/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/08/13/stowaway-is-a-really-cool/",
 				
 				"content_html": "<p><a href=\"https://stowaway.live\">Stowaway</a> is a really cool web-based application of publicly available, live fight information. I have been using <a href=\"https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.flightradar24.com/&amp;ved=2ahUKEwj9jrHblZ6WAxXXLFkFHfFcJrsQFnoECA0QAQ&amp;usg=AOvVaw3Kl8F_pSsWPVMsjJu5YYM7\">FlightRadar24</a> on my phone for years. It’s a great way to answer “What is that plane?” Or “I wonder where they are going?”</p>\n<p>Stowaway creates a graphical UI based on what you might be able to see from the ground, which is different than the top-down view of FlightRadar24. FlightRadar24 does also offer simulated views from the perspective of the aircraft.</p>\n<p>The skies are very possibly more full of traffic than you might suspect.</p>\n",
