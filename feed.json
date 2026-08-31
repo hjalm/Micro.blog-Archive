@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/08/30/trying-out-atomic-desktops-bazzite/",
+				
+				"content_html": "<p>Trying out Atomic desktops. Bazzite and Silverblue are pretty easy, coming from Ubuntu and Gnome. I read about the Cosmic desktop environment and have decided to give that a shot. Atomic desktops have forced some relearning of habits, and Cosmic is good but I wouldn&rsquo;t say I love it, today. I&rsquo;m not a developer, just a curious person and hobbyist. I support Windows, MacOS and iOS professionally&ndash;so I have opinions.</p>\n<p>I have made it an imperative to keep myself agile in the sense that I can do most things I like no matter what operating system is in front of me. There are some things inside of the Apple ecosystem that I do prefer every bit as much as I prefer Apple Hardware. But I have to say that being able to run a reasonably secure OS and modern applications on a modern kernel on hardware that isn&rsquo;t supported any longer from the commercial operating systems is pretty lovely.</p>\n<p>Oh, also trying a rolling release: OpenSuse Tumbleweed. I like the speed they incorporate Linux kernel updates. I already have kernel 7.2 running there.</p>\n<p>Mind you, I&rsquo;m not running production services on these personal laptops. Firefox, Edge (for when I have to do something work-related, I can set up and use profiles), Discord, 1Password. All of these have flatpak installs.</p>\n<p>I do have a project in mind to migrate my Windows-based Plex server to Linux, but I want to build that in parallel with my current machine so that I&rsquo;m not down while I bring the new machine up. It&rsquo;s looking a lot like there are good Linux versions or substitutes for MakeMKV, Handbrake, and ExactAudio Copy. I feel I can support my current habits without major news expenses on equipment or software.</p>\n",
+				"content_text": "Trying out Atomic desktops. Bazzite and Silverblue are pretty easy, coming from Ubuntu and Gnome. I read about the Cosmic desktop environment and have decided to give that a shot. Atomic desktops have forced some relearning of habits, and Cosmic is good but I wouldn't say I love it, today. I'm not a developer, just a curious person and hobbyist. I support Windows, MacOS and iOS professionally--so I have opinions.\n\nI have made it an imperative to keep myself agile in the sense that I can do most things I like no matter what operating system is in front of me. There are some things inside of the Apple ecosystem that I do prefer every bit as much as I prefer Apple Hardware. But I have to say that being able to run a reasonably secure OS and modern applications on a modern kernel on hardware that isn't supported any longer from the commercial operating systems is pretty lovely. \n\nOh, also trying a rolling release: OpenSuse Tumbleweed. I like the speed they incorporate Linux kernel updates. I already have kernel 7.2 running there.\n\nMind you, I'm not running production services on these personal laptops. Firefox, Edge (for when I have to do something work-related, I can set up and use profiles), Discord, 1Password. All of these have flatpak installs. \n\nI do have a project in mind to migrate my Windows-based Plex server to Linux, but I want to build that in parallel with my current machine so that I'm not down while I bring the new machine up. It's looking a lot like there are good Linux versions or substitutes for MakeMKV, Handbrake, and ExactAudio Copy. I feel I can support my current habits without major news expenses on equipment or software.\n",
+				"date_published": "2026-08-30T23:53:35-05:00",
+				"url": "https://1-1.hjalmer.com/2026/08/30/trying-out-atomic-desktops-bazzite/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/08/27/231928/",
+				
+				"content_html": "<img src=\"uploads/2026/38317f2f5e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2026/38317f2f5e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-08-27T23:19:28-05:00",
+				"url": "https://1-1.hjalmer.com/2026/08/27/231928/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/08/27/230658/",
+				
+				"content_html": "<img src=\"uploads/2026/b3a2ed5d71.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2026/b3a2ed5d71.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-08-27T23:06:58-05:00",
+				"url": "https://1-1.hjalmer.com/2026/08/27/230658/",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/08/27/sitting-on-the-deck-tonight/",
 				
 				"content_html": "<p>Sitting on the deck tonight. Lights are off. Crickets are singing. Burning down a cigar. Watching the moon change.</p>\n",
