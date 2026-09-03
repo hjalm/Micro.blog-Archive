@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/09/03/one-of-the-things-i/",
+				
+				"content_html": "<p>One of the things I have started logging this year, to help me maintain a connection to the natural, is sunrise, sunset, and daylight hours. I’ve really been amazed at the relative speed of change, day to day. Nothing has changed in the world, but my awareness is now different.</p>\n",
+				"content_text": "One of the things I have started logging this year, to help me maintain a connection to the natural, is sunrise, sunset, and daylight hours. I’ve really been amazed at the relative speed of change, day to day. Nothing has changed in the world, but my awareness is now different.\n",
+				"date_published": "2026-09-03T10:54:14-05:00",
+				"url": "https://1-1.hjalmer.com/2026/09/03/one-of-the-things-i/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/08/31/sony-if-no-one-can/",
+				
+				"content_html": "<p>Sony, if no one can own what everyone else can also have, then certainly you have no ownership, either?</p>\n<p>I do not believe they are making the argument they think they are making.</p>\n",
+				"content_text": "Sony, if no one can own what everyone else can also have, then certainly you have no ownership, either?\n\nI do not believe they are making the argument they think they are making.\n",
+				"date_published": "2026-08-31T15:47:47-05:00",
+				"url": "https://1-1.hjalmer.com/2026/08/31/sony-if-no-one-can/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/08/30/trying-out-atomic-desktops-bazzite/",
 				
 				"content_html": "<p>Trying out Atomic desktops. Bazzite and Silverblue are pretty easy, coming from Ubuntu and Gnome. I read about the Cosmic desktop environment and have decided to give that a shot. Atomic desktops have forced some relearning of habits, and Cosmic is good but I wouldn&rsquo;t say I love it, today. I&rsquo;m not a developer, just a curious person and hobbyist. I support Windows, MacOS and iOS professionally&ndash;so I have opinions.</p>\n<p>I have made it an imperative to keep myself agile in the sense that I can do most things I like no matter what operating system is in front of me. There are some things inside of the Apple ecosystem that I do prefer every bit as much as I prefer Apple Hardware. But I have to say that being able to run a reasonably secure OS and modern applications on a modern kernel on hardware that isn&rsquo;t supported any longer from the commercial operating systems is pretty lovely.</p>\n<p>Oh, also trying a rolling release: OpenSuse Tumbleweed. I like the speed they incorporate Linux kernel updates. I already have kernel 7.2 running there.</p>\n<p>Mind you, I&rsquo;m not running production services on these personal laptops. Firefox, Edge (for when I have to do something work-related, I can set up and use profiles), Discord, 1Password. All of these have flatpak installs.</p>\n<p>I do have a project in mind to migrate my Windows-based Plex server to Linux, but I want to build that in parallel with my current machine so that I&rsquo;m not down while I bring the new machine up. It&rsquo;s looking a lot like there are good Linux versions or substitutes for MakeMKV, Handbrake, and ExactAudio Copy. I feel I can support my current habits without major news expenses on equipment or software.</p>\n",
