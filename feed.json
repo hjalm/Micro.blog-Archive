@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/09/19/feeling-a-little-willy-wonka/",
+				
+				"content_html": "<p>Feeling a little Willy Wonka, today. I blame Label. #ACNH</p>\n<img src=\"uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Feeling a little Willy Wonka, today. I blame Label. #ACNH\n\n\n<img src=\"uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-09-19T14:15:49-05:00",
+				"url": "https://1-1.hjalmer.com/2026/09/19/feeling-a-little-willy-wonka/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/09/18/when-i-change-to-a/",
+				
+				"content_html": "<p>When I change to a standing desk, I’m more apt to start walking when I’m ruminating. No destination in particular, but I have to pick one when I notice. Sitting in a cube farm at work, the behavior is not invisible.</p>\n",
+				"content_text": "When I change to a standing desk, I’m more apt to start walking when I’m ruminating. No destination in particular, but I have to pick one when I notice. Sitting in a cube farm at work, the behavior is not invisible.\n",
+				"date_published": "2026-09-18T13:21:49-05:00",
+				"url": "https://1-1.hjalmer.com/2026/09/18/when-i-change-to-a/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/09/18/i-occasionally-wish-that-handedness/",
+				
+				"content_html": "<p>I occasionally wish that “Handedness” was a preference setting I could modify in iOS accomodations #apple</p>\n<p>I’m a lefty (how sinister!) and some apps are designed for folks holding a device differently than I do.</p>\n",
+				"content_text": "I occasionally wish that “Handedness” was a preference setting I could modify in iOS accomodations #apple\n\nI’m a lefty (how sinister!) and some apps are designed for folks holding a device differently than I do.\n",
+				"date_published": "2026-09-18T12:23:33-05:00",
+				"url": "https://1-1.hjalmer.com/2026/09/18/i-occasionally-wish-that-handedness/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/09/17/geek-problems-ive-tried-a/",
 				
 				"content_html": "<p>Geek problems: I’ve tried a new keyboard that I love and now I want keyboards like it everywhere.</p>\n<p>I have plenty of keyboards. Good ones.</p>\n<p>It’s just that I have a new preference.</p>\n",
