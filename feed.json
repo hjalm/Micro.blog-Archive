@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/09/28/have-dropped-my-phone-twice/",
+				
+				"content_html": "<p>Have dropped my phone twice in the first two hours of my day. I sincerely hope this is not a trend.</p>\n",
+				"content_text": "Have dropped my phone twice in the first two hours of my day. I sincerely hope this is not a trend.\n",
+				"date_published": "2026-09-28T08:34:02-05:00",
+				"url": "https://1-1.hjalmer.com/2026/09/28/have-dropped-my-phone-twice/"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/09/26/in-notes-on-microblog-is/",
+				
+				"content_html": "<p>In Notes on Micro.blog, is each note an entity unto itself, or can can there be links from one note to another? <a href=\"https://micro.blog/help\">@help</a> Asking because I don&rsquo;t find anything that speaks to this before I launch into yet another project.</p>\n",
+				"content_text": "In Notes on Micro.blog, is each note an entity unto itself, or can can there be links from one note to another? [@help](https://micro.blog/help) Asking because I don't find anything that speaks to this before I launch into yet another project.\n",
+				"date_published": "2026-09-26T17:39:06-05:00",
+				"url": "https://1-1.hjalmer.com/2026/09/26/in-notes-on-microblog-is/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/09/26/redoing-the-redo-experimenting-with/",
 				
 				"content_html": "<p>Re-doing the Re-do. Experimenting with Obsidian, today. Trying so hard to reduce dependency on platforms, but struggling with the correct paths forward. Apple Notes in a web-browser is slow. Keeping notes all over the place is broken. I&rsquo;m struggling as are many who are looking for the one right way.</p>\n",
@@ -17,8 +33,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2026/09/19/feeling-a-little-willy-wonka/",
 				
-				"content_html": "<p>Feeling a little Willy Wonka, today. I blame Label. #ACNH</p>\n<img src=\"https://1-1.hjalmer.com/uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"content_text": "Feeling a little Willy Wonka, today. I blame Label. #ACNH\n\n\n<img src=\"https://1-1.hjalmer.com/uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>Feeling a little Willy Wonka, today. I blame Label. #ACNH</p>\n<img src=\"uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Feeling a little Willy Wonka, today. I blame Label. #ACNH\n\n\n<img src=\"uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-09-19T14:15:49-05:00",
 				"url": "https://1-1.hjalmer.com/2026/09/19/feeling-a-little-willy-wonka/",
 				"tags": ["Photos"]
