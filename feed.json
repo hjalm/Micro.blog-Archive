@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/10/10/the-next-person-i-help/",
+				
+				"content_html": "<p>The next person I help with this might be me: The command to launch the Console app in OpenSuse Tumbleweed (Gnome) is <em>kgx</em>, for when you&rsquo;re setting up your keyboard shortcuts</p>\n",
+				"content_text": "The next person I help with this might be me: The command to launch the Console app in OpenSuse Tumbleweed (Gnome) is *kgx*, for when you're setting up your keyboard shortcuts\n",
+				"date_published": "2026-10-10T15:52:39-05:00",
+				"url": "https://1-1.hjalmer.com/2026/10/10/the-next-person-i-help/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/10/10/tip-if-youre-setting-up/",
 				
 				"content_html": "<p>Tip if you&rsquo;re setting up Comcast/Xfinity email on iOS or iPadOS, especially if you prefer IMAP: When following an online walk-through, enter an incorrect password initially. Only then do you get the opportunity to choose IMAP. Otherwise, you&rsquo;ll be automagically configured for POP.</p>\n",
