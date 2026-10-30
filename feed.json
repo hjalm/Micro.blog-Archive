@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/10/29/no-offense-to-those-who/",
+				
+				"content_html": "<p>No offense to those who came before or since. This was my captain.</p>\n<img src=\"uploads/2026/18-34-2241.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "No offense to those who came before or since. This was my captain.\n\n<img src=\"uploads/2026/18-34-2241.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-10-29T19:33:33-05:00",
+				"url": "https://1-1.hjalmer.com/2026/10/29/no-offense-to-those-who/",
+				"tags": ["Photos"]
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/10/26/let-me-count-the-ways/",
 				
 				"content_html": "<p>Let me count the ways your Excel data will appear:</p>\n<ol>\n<li>Original Spreadsheet</li>\n<li>Pasted into Outlook for Mac</li>\n<li>Pasted into Outlook Web Access (Edge)</li>\n<li>Pasted into Outlook for PC</li>\n</ol>\n<p>None of them display the data the way it <em>looks</em> in the Excel Spreadsheet, though the data itself came over.</p>\n<p>God forbid I attempt to make something easy to read in a daily email.</p>\n",
@@ -153,8 +162,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2026/09/19/feeling-a-little-willy-wonka/",
 				
-				"content_html": "<p>Feeling a little Willy Wonka, today. I blame Label. #ACNH</p>\n<img src=\"uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"content_text": "Feeling a little Willy Wonka, today. I blame Label. #ACNH\n\n\n<img src=\"uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>Feeling a little Willy Wonka, today. I blame Label. #ACNH</p>\n<img src=\"https://1-1.hjalmer.com/uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Feeling a little Willy Wonka, today. I blame Label. #ACNH\n\n\n<img src=\"https://1-1.hjalmer.com/uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-09-19T14:15:49-05:00",
 				"url": "https://1-1.hjalmer.com/2026/09/19/feeling-a-little-willy-wonka/",
 				"tags": ["Photos"]
@@ -5643,8 +5652,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2023/04/01/pwned-by-lego-in-the/",
 				
-				"content_html": "<p>Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced <a href=\"https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316\">Rivendell</a></p>\n",
-				"content_text": "Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced [Rivendell](https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316)\n",
+				"content_html": "<p>Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced <a href=\"https://s3.amazonaws.com/micro.blog/bookmarks/2023/04/01/www.lego.com/09b5fd815715f8c043bfc219f87d0784\">Rivendell</a></p>\n",
+				"content_text": "Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced [Rivendell](https://s3.amazonaws.com/micro.blog/bookmarks/2023/04/01/www.lego.com/09b5fd815715f8c043bfc219f87d0784)\n",
 				"date_published": "2023-04-01T14:41:27-05:00",
 				"url": "https://1-1.hjalmer.com/2023/04/01/pwned-by-lego-in-the/"
 			},
