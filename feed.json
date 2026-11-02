@@ -7,11 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/10/31/093646/",
+				
+				"content_html": "<img src=\"uploads/2026/halloween-card-11.webp\" width=\"600\" height=\"382\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2026/halloween-card-11.webp\" width=\"600\" height=\"382\" alt=\"\">\n",
+				"date_published": "2026-10-31T08:36:46-06:00",
+				"url": "https://1-1.hjalmer.com/2026/10/31/093646/",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/10/31/we-are-still-doing-the/",
+				
+				"content_html": "<p>We are still doing the thing: 02:00 on Sunday morning, we&rsquo;re falling back an hour</p>\n<p><a href=\"https://www.almanac.com/content/when-daylight-saving-time?trk_msg=5SF7JORIPPAK16T87ADQJ24U9C&amp;trk_contact=SSHUIDD0BVA23IA95B0E7TEUSG&amp;trk_module=new&amp;trk_sid=T9RCAF50F08B7JDTDS63AJ17DG&amp;trk_link=4RJ3SAQ0MB649DUKHF922EJFAC&amp;lctg=140834259474245EE4F5A5E7FA\">Daylight Saving Time 2026: When Does the Time Change?</a></p>\n",
+				"content_text": "We are still doing the thing: 02:00 on Sunday morning, we're falling back an hour\n\n[Daylight Saving Time 2026: When Does the Time Change?](https://www.almanac.com/content/when-daylight-saving-time?trk_msg=5SF7JORIPPAK16T87ADQJ24U9C&trk_contact=SSHUIDD0BVA23IA95B0E7TEUSG&trk_module=new&trk_sid=T9RCAF50F08B7JDTDS63AJ17DG&trk_link=4RJ3SAQ0MB649DUKHF922EJFAC&lctg=140834259474245EE4F5A5E7FA)\n",
+				"date_published": "2026-10-31T08:35:01-06:00",
+				"url": "https://1-1.hjalmer.com/2026/10/31/we-are-still-doing-the/"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/10/29/spent-a-few-cycles-on/",
 				
 				"content_html": "<p>Spent a few cycles on <a href=\"https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6\">The Silurian Hypothesis</a>. There are probably some deep rabbit holes (It&rsquo;s <em>never</em> just one). I&rsquo;m okay with this.</p>\n",
 				"content_text": "Spent a few cycles on [The Silurian Hypothesis](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/silurian-hypothesis-would-it-be-possible-to-detect-an-industrial-civilization-in-the-geological-record/77818514AA6907750B8F4339F7C70EC6). There are probably some deep rabbit holes (It's *never* just one). I'm okay with this.\n",
-				"date_published": "2026-10-29T21:07:15-05:00",
+				"date_published": "2026-10-29T20:07:15-06:00",
 				"url": "https://1-1.hjalmer.com/2026/10/29/spent-a-few-cycles-on/"
 			},
 			{
@@ -19,7 +36,7 @@
 				
 				"content_html": "<p>No offense to those who came before or since. This was my captain.</p>\n<img src=\"uploads/2026/18-34-2241.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"content_text": "No offense to those who came before or since. This was my captain.\n\n<img src=\"uploads/2026/18-34-2241.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2026-10-29T19:33:33-05:00",
+				"date_published": "2026-10-29T18:33:33-06:00",
 				"url": "https://1-1.hjalmer.com/2026/10/29/no-offense-to-those-who/",
 				"tags": ["Photos"]
 			},
@@ -28,7 +45,7 @@
 				
 				"content_html": "<p>Let me count the ways your Excel data will appear:</p>\n<ol>\n<li>Original Spreadsheet</li>\n<li>Pasted into Outlook for Mac</li>\n<li>Pasted into Outlook Web Access (Edge)</li>\n<li>Pasted into Outlook for PC</li>\n</ol>\n<p>None of them display the data the way it <em>looks</em> in the Excel Spreadsheet, though the data itself came over.</p>\n<p>God forbid I attempt to make something easy to read in a daily email.</p>\n",
 				"content_text": "Let me count the ways your Excel data will appear:\n\n1. Original Spreadsheet \n2. Pasted into Outlook for Mac\n3. Pasted into Outlook Web Access (Edge)\n4. Pasted into Outlook for PC\n\nNone of them display the data the way it _looks_ in the Excel Spreadsheet, though the data itself came over.\n\nGod forbid I attempt to make something easy to read in a daily email.\n",
-				"date_published": "2026-10-26T09:34:25-05:00",
+				"date_published": "2026-10-26T08:34:25-06:00",
 				"url": "https://1-1.hjalmer.com/2026/10/26/let-me-count-the-ways/"
 			},
 			{
@@ -170,8 +187,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2026/09/19/feeling-a-little-willy-wonka/",
 				
-				"content_html": "<p>Feeling a little Willy Wonka, today. I blame Label. #ACNH</p>\n<img src=\"https://1-1.hjalmer.com/uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"content_text": "Feeling a little Willy Wonka, today. I blame Label. #ACNH\n\n\n<img src=\"https://1-1.hjalmer.com/uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_html": "<p>Feeling a little Willy Wonka, today. I blame Label. #ACNH</p>\n<img src=\"uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Feeling a little Willy Wonka, today. I blame Label. #ACNH\n\n\n<img src=\"uploads/2026/20260919-01m2xep2zrk8wnkpz7ten58n5n-aac588f5-5504-4f98-b2e7-f8f08b5113ff.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-09-19T14:15:49-05:00",
 				"url": "https://1-1.hjalmer.com/2026/09/19/feeling-a-little-willy-wonka/",
 				"tags": ["Photos"]
@@ -608,7 +625,7 @@
 				"title": "Desert Island Albums",
 				"content_html": "<p>So if I could only have 5 albums (Is this a thing anymore? Do kids buy albums, today?) on a desert Island, for the rest of my life.</p>\n<p>In alphabetical order by album title, because love is love:</p>\n<p>Cocteau Twin&rsquo;s <em>Blue Bell Knoll</em>\nBoston&rsquo;s <em>Boston</em>\nRush&rsquo;s <em>Moving Pictures</em>\nPeter Gabriel&rsquo;s <em>So</em>\nDepeche Mode&rsquo;s <em>Violator</em></p>\n<p>None of these are recent. And this is because, even though I still love some music, the affection changes. Sometimes albums don&rsquo;t grow with you, they are of a time and place that was special and important, but past. Yet still others still give endorphins in the best way and I still don&rsquo;t want them to end. There are newer favorites that haven&rsquo;t stood enough of a test, yet.</p>\n<p>If I had to pick a top ten or a top twenty I would have much more angst because it would really be splitting hairs.</p>\n<p><em>Carolyn&rsquo;s Fingers</em> was the first Cocteau Twins song I had ever heard. Well I saw the video on MTV. And I knew immediately I needed to hear more. I think I own all of their albums, any several EPs, but probably not all of them quite yet. <em>Blue Bell Knoll</em> was the first album of theirs I bought, though there are few that I don&rsquo;t love.</p>\n<p>The <em>Boston</em> pick is harder to explain. But I did have a unique experience with this record that I have almost never otherwise had. I was dubbing a copy of my Friend&rsquo;s record that I could play on my boombox. My friend and I were listening as the tape was recording. My dad walked into the living room with us and I glanced at my friend and rolled my eyes. My assumption was that my dad was going to reduce the volume. He was often wanting me to turn my choice of music down, or preferably off. Headphones was an acceptable compromise. However, he went to the receiver and turned it up. I was gobsmacked. I love the album and I&rsquo;ve said it before but for whatever reason it always evokes for me the perfect summer day, no matter the season or my internal state. I don&rsquo;t love every Boston album, but this first one is wonderful.</p>\n<p>I think I have memorized <em>Moving Pictures</em>. There isn&rsquo;t a track that I would skip. Also? My first copy was dubbed from the same friend that had the Boston record. I own vinyl and CD, today, as one used to do. I have loved Rush more and less, but I did see them live and I own a majority of their studio albums. I will listen to any track or the whole album eagerly, anticipating every bass note, every drum roll, and every guitar solo.</p>\n<p>Peter Gabriel&rsquo;s <em>So</em> hit me at a transitional time in my life, the last summer before I went to college, in that sort of triumphant space before the weight of being responsible for my life hit me with a wallop, yet where naïvely I had dreams of some sort of grandeur. I have spent a lot of hours of my life listening to this.</p>\n<p><em>Violator</em> is probably my favorite Depeche Mode album, though I have listened to DM since <em>Some Great Reward</em> was new. I was a superfan for a year or two in the 1990s. Would love to re-watch Depeche Mode: 101 again. I think <em>Ultra</em> is a close second from their oeuvre. I was just thinking about <em>favorite</em> favorite albums and this one stuck.</p>\n",
 				"content_text": "So if I could only have 5 albums (Is this a thing anymore? Do kids buy albums, today?) on a desert Island, for the rest of my life.\n\nIn alphabetical order by album title, because love is love:\n\nCocteau Twin's _Blue Bell Knoll_\nBoston's _Boston_\nRush's _Moving Pictures_\nPeter Gabriel's _So_\nDepeche Mode's _Violator_\n\nNone of these are recent. And this is because, even though I still love some music, the affection changes. Sometimes albums don't grow with you, they are of a time and place that was special and important, but past. Yet still others still give endorphins in the best way and I still don't want them to end. There are newer favorites that haven't stood enough of a test, yet. \n\nIf I had to pick a top ten or a top twenty I would have much more angst because it would really be splitting hairs.\n\n_Carolyn's Fingers_ was the first Cocteau Twins song I had ever heard. Well I saw the video on MTV. And I knew immediately I needed to hear more. I think I own all of their albums, any several EPs, but probably not all of them quite yet. _Blue Bell Knoll_ was the first album of theirs I bought, though there are few that I don't love.\n\nThe _Boston_ pick is harder to explain. But I did have a unique experience with this record that I have almost never otherwise had. I was dubbing a copy of my Friend's record that I could play on my boombox. My friend and I were listening as the tape was recording. My dad walked into the living room with us and I glanced at my friend and rolled my eyes. My assumption was that my dad was going to reduce the volume. He was often wanting me to turn my choice of music down, or preferably off. Headphones was an acceptable compromise. However, he went to the receiver and turned it up. I was gobsmacked. I love the album and I've said it before but for whatever reason it always evokes for me the perfect summer day, no matter the season or my internal state. I don't love every Boston album, but this first one is wonderful.\n\nI think I have memorized _Moving Pictures_. There isn't a track that I would skip. Also? My first copy was dubbed from the same friend that had the Boston record. I own vinyl and CD, today, as one used to do. I have loved Rush more and less, but I did see them live and I own a majority of their studio albums. I will listen to any track or the whole album eagerly, anticipating every bass note, every drum roll, and every guitar solo. \n\nPeter Gabriel's _So_ hit me at a transitional time in my life, the last summer before I went to college, in that sort of triumphant space before the weight of being responsible for my life hit me with a wallop, yet where naïvely I had dreams of some sort of grandeur. I have spent a lot of hours of my life listening to this.\n\n_Violator_ is probably my favorite Depeche Mode album, though I have listened to DM since _Some Great Reward_ was new. I was a superfan for a year or two in the 1990s. Would love to re-watch Depeche Mode: 101 again. I think _Ultra_ is a close second from their oeuvre. I was just thinking about _favorite_ favorite albums and this one stuck. \n\n",
-				"date_published": "2026-05-21T21:38:22-05:00",
+				"date_published": "2026-05-21T20:38:22-06:00",
 				"url": "https://1-1.hjalmer.com/2026/05/21/desert-island-albums/"
 			},
 			{
@@ -5660,8 +5677,8 @@
 			{
 				"id": "http://hjalm.micro.blog/2023/04/01/pwned-by-lego-in-the/",
 				
-				"content_html": "<p>Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced <a href=\"https://s3.amazonaws.com/micro.blog/bookmarks/2023/04/01/www.lego.com/09b5fd815715f8c043bfc219f87d0784\">Rivendell</a></p>\n",
-				"content_text": "Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced [Rivendell](https://s3.amazonaws.com/micro.blog/bookmarks/2023/04/01/www.lego.com/09b5fd815715f8c043bfc219f87d0784)\n",
+				"content_html": "<p>Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced <a href=\"https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316\">Rivendell</a></p>\n",
+				"content_text": "Pwned by Lego: In the middle of me collecting Harry Potter-based kits, they have just announced [Rivendell](https://www.lego.com/en-us/product/the-lord-of-the-rings-rivendell-10316)\n",
 				"date_published": "2023-04-01T14:41:27-05:00",
 				"url": "https://1-1.hjalmer.com/2023/04/01/pwned-by-lego-in-the/"
 			},
