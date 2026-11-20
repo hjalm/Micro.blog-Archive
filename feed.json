@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://hjalm.micro.blog/2026/11/19/the-technology-support-space-is.html",
+				
+				"content_html": "<p>The technology support space is now very strange. Everything is a rolling release, fundamentally. There is no process or method or tool that I use that isn’t subject to a fundamental change that I will not be alerted to, and will have to find a way to work through.</p>\n",
+				"content_text": "The technology support space is now very strange. Everything is a rolling release, fundamentally. There is no process or method or tool that I use that isn’t subject to a fundamental change that I will not be alerted to, and will have to find a way to work through.\n",
+				"date_published": "2026-11-19T09:49:08-06:00",
+				"url": "https://1-1.hjalmer.com/2026/11/19/the-technology-support-space-is.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/11/19/in-other-fun-peripheral-device.html",
+				
+				"content_html": "<p>In other fun peripheral device news, the manual available online from the vendor for the little keyboard I carry around does not match the version of the device I own. Luckily, there are some special-purpose keys that do the thing, but the manual instructions do not match. At all.</p>\n",
+				"content_text": "In other fun peripheral device news, the manual available online from the vendor for the little keyboard I carry around does not match the version of the device I own. Luckily, there are some special-purpose keys that do the thing, but the manual instructions do not match. At all.\n",
+				"date_published": "2026-11-19T09:43:06-06:00",
+				"url": "https://1-1.hjalmer.com/2026/11/19/in-other-fun-peripheral-device.html"
+			},
+			{
+				"id": "http://hjalm.micro.blog/2026/11/19/good-times-this-morning-while.html",
+				
+				"content_html": "<p>Good times this morning while getting a read of my blood sugar. Seems like a good idea to have a meter with an app? Until you take the reading with the meter, then launch the app on your phone to see that it the app has been updated. Now I have to authenticate to the app, agree to T&amp;C I can’t spend time with because I’m at work and just wanted to get a quick reading, spend time with a UI walk-through, agree to integrate with Apple Health —because yes, I’d like a copy of my own data—and then get dropped into a brand new interface where I realize it’s not going to just accept the reading I took. So I get to use another test strip and needle to get the meter into a state where it prompts the app to notice hey, there’s data here.</p>\n<p>What am I even doing with this?</p>\n",
+				"content_text": "Good times this morning while getting a read of my blood sugar. Seems like a good idea to have a meter with an app? Until you take the reading with the meter, then launch the app on your phone to see that it the app has been updated. Now I have to authenticate to the app, agree to T&C I can’t spend time with because I’m at work and just wanted to get a quick reading, spend time with a UI walk-through, agree to integrate with Apple Health —because yes, I’d like a copy of my own data—and then get dropped into a brand new interface where I realize it’s not going to just accept the reading I took. So I get to use another test strip and needle to get the meter into a state where it prompts the app to notice hey, there’s data here.\n\nWhat am I even doing with this?\n",
+				"date_published": "2026-11-19T09:29:35-06:00",
+				"url": "https://1-1.hjalmer.com/2026/11/19/good-times-this-morning-while.html"
+			},
+			{
 				"id": "http://hjalm.micro.blog/2026/11/10/today-marks-the-th-anniversary.html",
 				
 				"content_html": "<p>Today marks the 25th Anniversary of the release of the very first iPod. I bought an iPod Photo circa 2004. And then I bought a Mac Mini. Then I bought an Apple TV. Then I started supporting Macs at work. And yeah. I slowly became an Apple Guy.</p>\n",
